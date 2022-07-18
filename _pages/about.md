@@ -10,21 +10,19 @@ redirect_from:
 
 I am a lecture in School of Computer Science, Nanjing University of Posts and Telecommunications (NJUPT).
 
-My research interests lie in the general area of cryptography and security, particularly in applied cryptography, cryptographic engineering, cryptographic testing, and evaluation, as well as high-performance cryptographic computing. My publications include TECS, IPDPS, SCN, WASA, etc.
-
+My research interests lie in the general area of cryptography and security, particularly in applied cryptography, cryptographic engineering, as well as high performance parallel computing. My publications include TECS, IPDPS, TIFS, ACSAC, SCN, WASA, etc.
 
 
 Education
 ======
-* 2014-2019, Ph.D in Cyberspace Security, University of Chinese Academy of Sciences (UCAS), Supervised by Prof. Dingfeng Ye, 
-[Prof. Jingqiang Lin](https://lin-jingqiang.github.io/) and [Dr. Fangyu Zheng](https://zhengfangyu.github.io/).
-* 2010-2014, B.S. in Computer Science and Technology, Xi’an Jiaotong University (XJUPT)
+* 2014.09 ~ 2019.06, Ph.D in Cyberspace Security, Institute of Information Engineering, University of Chinese Academy of Sciences (IIE-UCAS), Supervised by Prof. Dingfeng Ye, Prof. [Jingqiang Lin](https://lin-jingqiang.github.io/) and Dr. [Fangyu Zheng](https://zhengfangyu.github.io/).
+* 2010.09 ~ 2014.07, B.S. in Computer Science and Technology, Xi’an Jiaotong University (XJUPT), Supervised by Associate Professor [Yi Qian](http://gr.xjtu.edu.cn/web/yqian).
 
 Work Experience
 ======
 
-* 2021.12 ~, Post Doctor, Nanjing University of Posts and Telecommunications, Supervised by Pro. Fu Xiao.
-* 2020.10 ~, Lecture, Nanjing University of Posts and Telecommunications.
+* 2021.12 ~ Present, Post Doctor, Nanjing University of Posts and Telecommunications, Supervised by Pro. Fu Xiao.
+* 2020.10 ~ Present, Lecture, Nanjing University of Posts and Telecommunications.
 * 2019.07 ~ 2020.09: Senior Engineer, Huawei Technology Co., Ltd.
 
 
