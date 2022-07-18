@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jiankuo Dong (董建阔)"
+  name             : "Jiankuo Dong   (董建阔)"
   avatar           : "djiankuo.jpg"
   bio              : "Cryptographic Engineering"
   location         : "Nanjing, China"
@@ -88,7 +88,7 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"https://scholar.google.com/citations?user=TWyTZp0AAAAJ&hl=en"
   email            :  djiankuo@njupt.edu.cn
-  researchgate     :  "https://www.researchgate.net/profile/Fangyu-Zheng"
+  researchgate     :  "https://www.researchgate.net/profile/Jiankuo-Dong"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0000-0003-0490-2485"
+  orcid            : "http://orcid.org/0000-0003-1693-3000"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Zheng, Fangyu's Homepage"
-excerpt: "Zheng, Fangyu's Homepage"
+title: "Jiankuo Dong's Homepage"
+excerpt: "Jiankuo Dong's Homepage"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,11 +9,11 @@ redirect_from:
 ---
 
 
-I am an assistant researcher in the Institute of Information Engineering, Chinese Acadamy of Sciences (IIE-CAS). I am also the Chief Engineer of Testing Lab in DCS center, CAS.
+I am an lecture in School of Computer Science, Nanjing University of Posts and Telecommunications (NJUPT).
 
-I received Bachelor’s Degree from the University of Science and Technology of China (USTC) and received Ph.D. from the University of Chinese Acadamy of Sciences (UCAS).
+I received the B.E. degree from the Xi’an Jiaotong University (XJUPT), and the Ph.D. degree from the Institute of Information Engineering, University of Chinese Academy of Sciences (IIE, USAS) in 2014 and 2019, respectively. 
 
-My research interests lie in the general area of cryptography and security, particularly in applied cryptography, cryptographic engineering, cryptographic testing, and evaluation, as well as high-performance cryptographic computing. My publications include TIFS, ACSAC, IPDPS, ISC, SCN, Securecomm, etc.
+My research interests lie in the general area of cryptography and security, particularly in applied cryptography, cryptographic engineering, cryptographic testing, and evaluation, as well as high-performance cryptographic computing. My publications include TECS, IPDPS, SCN, WASA, etc.
 
 My job focuses on applying cryptography in reality. Parts of my achievements include:
 * High-performance cryptographic servers (20Mops+ of digital signature and FIPS 140 certificated). 
@@ -50,11 +50,6 @@ Awards
 1. Cryptologic Science and Technology Progress Award of China (3rd place, 3rd co-winner), 2021.
 1. 17th Information Security Conference (ISC 2014) [Best Student Paper Award](http://isc14.ie.cuhk.edu.hk/) for “Exploiting the Floating-Point Computing Power of GPUs for RSA”.
 
-Standards
-======
-1. GB/T 37092-2018 ["Information security technology—Security requirements for cryptographic modules"](http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=91CF88FCE66F0F057DED0272AC726657) 
-1. GB/T 39786-2021 ["Information security technology—Baseline for information system cryptography application"](http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=53282C88712CE157043B7A2C590278FC) 
-1. GB/T 40018-2021 ["Information security technology—Certificate request and application protocol based on multiple channels"](http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=BE06BC25AF2EC422E3858B8555E56DAF) 
 
 See [full standards](/standards/).
 
