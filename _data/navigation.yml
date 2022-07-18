@@ -23,5 +23,8 @@ main:
 
    - title: "Full Publications"
      url: /full-publications/
+
+   - title: "CV"
+     url: /cv/
 #   - title: "Standards"
 #     url: /standards/
