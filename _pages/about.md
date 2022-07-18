@@ -31,15 +31,16 @@ Work Experience
 
 Latest Publications (\* denotes the corresponding author.)
 ======
-<!---
-1. **[Conf-ESORICS-2022]** Lipeng Wan, **Fangyu Zheng** *, Guang Fan, Rong Wei, Lili Gao, Yuewu Wang, Jingqiang Lin and Jiankuo Dong, "A Novel High-performance Implementation of CRYSTALS-Kyber with AI Accelerator",  27th European Symposium on Research in Computer Security (ESORICS), **accepted to appear**.
--->
-1. **[Conf-AC3-2022]** Haoling Fan, Lingjia Meng, **Fangyu Zheng** *, Mingyu Wang, Bowen Xu, "Black-box Testing of Cryptographic Algorithms Based on Data Characteristics", 2nd EAI International Conference on Applied Cryptography in Computer and Communications (AC3), **accepted to appear**.
-1. **[Conf-ICC2022]** Mingshu Du, Yuan Ma, Na Lv, Tianyu Chen, Shijie Jia, **Fangyu Zheng**, "An Empirical Study on the Quality of Entropy Sources in Linux Random Number Generator", 2022 IEEE International Conference on Communications (ICC), **accepted to appear**.
-1. **[Jour-IOTJ2022]** Jiankuo Dong, Guang Fan, **Fangyu Zheng** *, Tianyu Mao, Fu Xiao, Jingqiang Lin, "TEGRAS: An Efficient Tegra Embedded GPU based RSA Acceleration Server",  IEEE Internet of Things Journal, [doi: 10.1109/JIOT.2022.3152203](https://ieeexplore.ieee.org/abstract/document/9716069).
-1. **[Jour-TECS2022]** Jiankuo Dong, **Fangyu Zheng** *, Jingqiang Lin, Zhe Liu, Fu Xiao, Guang Fan, "EC-ECC: Accelerating Elliptic Curve Cryptography for Edge Computing on Embedded GPU TX2", ACM Transactions on Embedded Computing Systems (TECS),  [doi: 10.1145/3492734](https://dl.acm.org/doi/abs/10.1145/3492734).
-1. **[Conf-ACSAC2021]** Rong Wei, **Fangyu Zheng** *, Lili Gao, Jiankuo Dong, Guang Fan, Lipeng Wan, Jingqiang Lin, Yuewu Wang,  “Heterogeneous-PAKE: Bridging the Gap between PAKE Protocols and their Real-World Deployment”, 37th Annual Computer Security Applications Conf (ACSAC), 2021, [doi: 10.1145/3485832.3485877](https://dl.acm.org/doi/10.1145/3485832.3485877).
 
+1. **[Conf-ESORICS-2022]** Lipeng Wan, Fangyu Zheng *, Guang Fan, Rong Wei, Lili Gao, Yuewu Wang, Jingqiang Lin and **Jiankuo Dong**, "A Novel High-performance Implementation of CRYSTALS-Kyber with AI Accelerator",  27th European Symposium on Research in Computer Security (ESORICS), **accepted to appear**.
+
+1. **[Jour-计算机教育]** **Jiankuo Dong**, Fu Xiao *, Letian Sha, "The teaching design of the cryptography practice course that integrates OBE and PBL in the context of new engineering", **accepted to appear**.
+
+1. **[Conf-SCI-ACNS-2022]** Guangshen Cheng, **Jiankuo Dong** *, Xinyi Ji, Bingyu Li, Haoling Fan, Pinchang Zhang, "PEPEC: Precomputed ECC Points Embedded in Certificates and Verified by CT Log Servers.",  Workshop on Secure Cryptographic Implementation in the 20th International Conference on Applied Cryptography and Network Security (SCI-ACNS), **accepted to appear**.
+
+1. **[Jour-IOTJ2022]** **Jiankuo Dong**, Guang Fan, Fangyu Zheng *, Tianyu Mao, Fu Xiao, Jingqiang Lin, "TEGRAS: An Efficient Tegra Embedded GPU based RSA Acceleration Server",  IEEE Internet of Things Journal, [doi: 10.1109/JIOT.2022.3152203](https://ieeexplore.ieee.org/abstract/document/9716069).
+
+1. **[Jour-TECS2022]** **Jiankuo Dong**, Fangyu Zheng *, Jingqiang Lin, Zhe Liu, Fu Xiao, Guang Fan, "EC-ECC: Accelerating Elliptic Curve Cryptography for Edge Computing on Embedded GPU TX2", ACM Transactions on Embedded Computing Systems (TECS),  [doi: 10.1145/3492734](https://dl.acm.org/doi/abs/10.1145/3492734).
 
 See [full publications](/full-publications/).
 
@@ -61,17 +62,11 @@ Fundings and Projects
 Acadamic Services
 ======
 
-<!-- 
 1. EAI AC3 2022 Reviewer
-1. Chinese Journal of Computers 2022 Reviewer
-1. ACNS-SCI 2022 Publicity Co-Chairs and PC Member
+1. ACNS-SCI 2022 PC Member
 1. ACNS-SCI 2021 PC Member
-1. IEEE Transactions on Computers (TC) 2021 Reviewer
-1. Elsevier Journal of Systems Architecture (JSA) 2021 Reviewer
-1. Chinese Journal of Computers 2021 Reviewer
 1. ACNS-SCI 2020 PC Member
-1. PeerJ Computer Science 2020 Reviewer
--->
+
 
 Co-supervised Students
 ======
