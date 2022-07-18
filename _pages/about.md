@@ -10,9 +10,23 @@ redirect_from:
 
 I am a lecture in School of Computer Science, Nanjing University of Posts and Telecommunications (NJUPT).
 
-I received the B.E. degree from the Xi’an Jiaotong University (XJUPT), and the Ph.D. degree from the Institute of Information Engineering, University of Chinese Academy of Sciences (IIE, USAS) in 2014 and 2019, respectively. 
-
 My research interests lie in the general area of cryptography and security, particularly in applied cryptography, cryptographic engineering, cryptographic testing, and evaluation, as well as high-performance cryptographic computing. My publications include TECS, IPDPS, SCN, WASA, etc.
+
+
+
+Education
+======
+* 2014-2019, Ph.D in Cyberspace Security, University of Chinese Academy of Sciences (UCAS), Supervised by Prof. Dingfeng Ye, 
+[Prof. Jingqiang Lin](https://lin-jingqiang.github.io/) and [Dr. Fangyu Zheng](https://zhengfangyu.github.io/).
+* 2010-2014, B.S. in Computer Science and Technology, Xi’an Jiaotong University (XJUPT)
+
+Work Experience
+======
+
+* 2021.12 ~, Post Doctor, Nanjing University of Posts and Telecommunications, Supervised by Pro. Fu Xiao.
+* 2020.10 ~, Lecture, Nanjing University of Posts and Telecommunications.
+* 2019.07 ~ 2020.09: Senior Engineer, Huawei Technology Co., Ltd.
+
 
 
 Latest Publications (\* denotes the corresponding author.)
