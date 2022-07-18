@@ -6,8 +6,8 @@ main:
 #   - title: "Talks"
 #     url: /talks/    
 
-#   - title: "Teaching"
-#        url: /teaching/    
+ - title: "Teaching"
+       url: /teaching/    
     
 #   - title: "Portfolio"
 #     url: /portfolio/
@@ -23,5 +23,5 @@ main:
 
    - title: "Full Publications"
      url: /full-publications/
-   - title: "Standards"
-     url: /standards/
+#   - title: "Standards"
+#     url: /standards/
