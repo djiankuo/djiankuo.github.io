@@ -45,13 +45,7 @@ Fundings and Projects
 1.  National Key R&D Plan of China, "Key Technologies of Cryptographic Cloud Service (Grant No. 2017YFB0802103)", 2017. 
 1.  Imported Outstanding Young Talents of IIE-CAS, 2017.
 
-Awards
-======
-1. Cryptologic Science and Technology Progress Award of China (3rd place, 3rd co-winner), 2021.
-1. 17th Information Security Conference (ISC 2014) [Best Student Paper Award](http://isc14.ie.cuhk.edu.hk/) for “Exploiting the Floating-Point Computing Power of GPUs for RSA”.
 
-
-See [full standards](/standards/).
 
 Acadamic Services
 ======
@@ -64,6 +58,7 @@ Acadamic Services
 1. Chinese Journal of Computers 2021 Reviewer
 1. ACNS-SCI 2020 PC Member
 1. PeerJ Computer Science 2020 Reviewer
+
 
 Co-supervised Students
 ======
