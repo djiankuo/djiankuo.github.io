@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an lecture in School of Computer Science, Nanjing University of Posts and Telecommunications (NJUPT).
+I am a lecture in School of Computer Science, Nanjing University of Posts and Telecommunications (NJUPT).
 
 I received the B.E. degree from the Xi’an Jiaotong University (XJUPT), and the Ph.D. degree from the Institute of Information Engineering, University of Chinese Academy of Sciences (IIE, USAS) in 2014 and 2019, respectively. 
 
