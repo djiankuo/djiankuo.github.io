@@ -4,6 +4,7 @@ title: "Standards"
 author_profile: true
 ---
 
+<!-- 
 Published Standards
 ======
 1. GB/T 37092-2018 *"Information security technology—Security requirements for cryptographic modules"* [《信息安全技术 密码模块安全要求》](http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=91CF88FCE66F0F057DED0272AC726657)
@@ -31,4 +32,4 @@ Developing Standards
 1. *"Mobile terminal cryptographic module application interface specification"* 《移动终端密码模块应用接口规范》
 1. *"Competence requirements and accessment specification for evaluation organization of commercial cyrptography application security"* 《商用密码应用安全性评估机构能力要求和评估规范》 
 
-
+-->
