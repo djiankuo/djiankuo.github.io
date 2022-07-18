@@ -7,9 +7,12 @@ redirect_from:
 
 {% include base_path %}
 
+
+
+
 Education
 ======
-* B.S. in Computer Science and Technology, Xi’an Jiaotong University (UCAS), 2014
+* B.S. in Computer Science and Technology, Xi’an Jiaotong University (XJUPT), 2014
 * M.S. in Information Security, University of Chinese Academy of Sciences (UCAS), 2016
 * Ph.D in Cyberspace Security, University of Chinese Academy of Sciences (UCAS), 2019
 
