@@ -9,8 +9,12 @@ author_profile: true
 Published and Accepted Papers
 ======
 
+
 1. **[Conf-ESORICS-2022]** Lipeng Wan, Fangyu Zheng *, Guang Fan, Rong Wei, Lili Gao, Yuewu Wang, Jingqiang Lin and **Jiankuo Dong**, "A Novel High-performance Implementation of CRYSTALS-Kyber with AI Accelerator",  27th European Symposium on Research in Computer Security (ESORICS), **accepted to appear**.
 
+1. **[Jour-计算机教育]** **Jiankuo Dong**, Fu Xiao *, Letian Sha, "The teaching design of the cryptography practice course that integrates OBE and PBL in the context of new engineering", **accepted to appear**.
+
+1. **[Conf-SCI-ACNS-2022]** Guangshen Cheng, **Jiankuo Dong** *, Xinyi Ji, Bingyu Li, Haoling Fan, Pinchang Zhang, "PEPEC: Precomputed ECC Points Embedded in Certificates and Verified by CT Log Servers.",  Workshop on Secure Cryptographic Implementation in the 20th International Conference on Applied Cryptography and Network Security (SCI-ACNS), **accepted to appear**.
 
 1. **[Jour-IOTJ2022]** **Jiankuo Dong**, Guang Fan, Fangyu Zheng *, Tianyu Mao, Fu Xiao, Jingqiang Lin, "TEGRAS: An Efficient Tegra Embedded GPU based RSA Acceleration Server",  IEEE Internet of Things Journal, [doi: 10.1109/JIOT.2022.3152203](https://ieeexplore.ieee.org/abstract/document/9716069).
 
