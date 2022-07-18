@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "zhengfangyu.github.io"
+title                    : "djiankuo.github.io"
 title_separator          : "-"
-name                     : &name "Zheng, Fangyu"
+name                     : &name "Jiankuo, Dong"
 description              : &description "personal description"
-url                      : https://zhengfangyu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://djiankuo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zhengfangyu/zhengfangyu.github.io"
+repository               : "djiankuo/djiankuo.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zheng Fangyu(郑昉昱)"
-  avatar           : "zhengfangyu_potrait.jpg"
-  bio              : "Cryptography and GPU"
-  location         : #"Beijing, China"
+  name             : "Jiankuo Dong (董建阔)"
+  avatar           : "djiankuo.jpg"
+  bio              : "Cryptographic Engineering"
+  location         : "Nanjing, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=TWyTZp0AAAAJ&hl=en"
-  email            :  zhengfy1028@hotmail.com
+  googlescholar    : #"https://scholar.google.com/citations?user=TWyTZp0AAAAJ&hl=en"
+  email            :  djiankuo@njupt.edu.cn
   researchgate     :  "https://www.researchgate.net/profile/Fangyu-Zheng"
   uri              :
   bitbucket        :
