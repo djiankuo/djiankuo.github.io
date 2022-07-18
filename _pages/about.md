@@ -21,7 +21,7 @@ Education
 Work Experience
 ======
 
-* 2021.12 ~ Present, Post Doctor, Nanjing University of Posts and Telecommunications, Supervised by Pro. Fu Xiao.
+* 2021.12 ~ Present, Post Doctor, Nanjing University of Posts and Telecommunications, Supervised by Prof. [Fu Xiao]().
 * 2020.10 ~ Present, Lecture, Nanjing University of Posts and Telecommunications.
 * 2019.07 ~ 2020.09: Senior Engineer, Huawei Technology Co., Ltd.
 
@@ -81,6 +81,11 @@ Co-supervised Students
 1. Haoling Fan (Ph.D. candidate)
 -->
 
+Contact
+======
+
+djiankuo<at>njupt.edu.cn
+djiankuo<at>gmail.com
 
 
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=hDqGIHVAbAXvG5hcv2BATY4rMKoiFnu3w5ScoP2BCR8"></script>
