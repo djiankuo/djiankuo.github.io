@@ -8,17 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-
 I am an lecture in School of Computer Science, Nanjing University of Posts and Telecommunications (NJUPT).
 
 I received the B.E. degree from the Xi’an Jiaotong University (XJUPT), and the Ph.D. degree from the Institute of Information Engineering, University of Chinese Academy of Sciences (IIE, USAS) in 2014 and 2019, respectively. 
 
 My research interests lie in the general area of cryptography and security, particularly in applied cryptography, cryptographic engineering, cryptographic testing, and evaluation, as well as high-performance cryptographic computing. My publications include TECS, IPDPS, SCN, WASA, etc.
-
-My job focuses on applying cryptography in reality. Parts of my achievements include:
-* High-performance cryptographic servers (20Mops+ of digital signature and FIPS 140 certificated). 
-* Secure and fast software cryptographic implementations (numberous publications and implementations).
-* Cryptography evaluation methods (2 fundamental standards, i.e., GB/T 37092 and GB/T 39786). 
 
 
 Latest Publications (\* denotes the corresponding author.)
@@ -37,6 +31,9 @@ See [full publications](/full-publications/).
 
 Fundings and Projects
 ======
+
+
+<!-- 
 1.  CCF-Tencent Rhino-Bird Young Faculty Open Research Fund, Scientific Research Fund (Grant No. RAGR20210131), 2021.
 1.  CCF-Tencent Rhino-Bird Young Faculty Open Research Fund, Technical Standardization Research Fund (Grant No. RAGR20210131), 2021.
 1.  National Natural Science Foundation of China, "High-performance Cryptographic Computation Based on Parallel Platforms and Artificial Intelligence Accelerators (Grant No. 61902392)", 2019.
@@ -44,11 +41,13 @@ Fundings and Projects
 1.  National Key R&D Plan of China, "Architecuture of Cryptographic Service Supporting Infrastructures and Research on Cryptographic Key Management Technology in the Mobile Internet (Grant No. 2017YFB0802101)", 2017.  
 1.  National Key R&D Plan of China, "Key Technologies of Cryptographic Cloud Service (Grant No. 2017YFB0802103)", 2017. 
 1.  Imported Outstanding Young Talents of IIE-CAS, 2017.
-
+-->
 
 
 Acadamic Services
 ======
+
+<!-- 
 1. EAI AC3 2022 Reviewer
 1. Chinese Journal of Computers 2022 Reviewer
 1. ACNS-SCI 2022 Publicity Co-Chairs and PC Member
@@ -58,10 +57,12 @@ Acadamic Services
 1. Chinese Journal of Computers 2021 Reviewer
 1. ACNS-SCI 2020 PC Member
 1. PeerJ Computer Science 2020 Reviewer
-
+-->
 
 Co-supervised Students
 ======
+
+<!-- 
 1. Juanjuan Cheng (Master, graduated in 2018)
 1. Wangzhao Cheng (Ph.D., graduated in 2019)
 1. Jiankuo Dong (Ph.D., graduated in 2019)
@@ -71,6 +72,8 @@ Co-supervised Students
 1. Lipeng Wan (Ph.D. candidate)
 1. Guang Fan (Ph.D. candidate)
 1. Haoling Fan (Ph.D. candidate)
+-->
+
 
 
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=hDqGIHVAbAXvG5hcv2BATY4rMKoiFnu3w5ScoP2BCR8"></script>
