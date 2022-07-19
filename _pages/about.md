@@ -42,8 +42,24 @@ Latest Publications (\* denotes the corresponding author.)
 
 See [full publications](/full-publications/).
 
+
+
 Fundings and Projects
 ======
+
+1. Natural Science Foundation of Jiangsu Province (Youth Project).
+
+1. Natural Science Research Project of Colleges and Universities in Jiangsu Province.
+
+1. The China Postdoctoral Science Foundation.
+
+1. Jiangsu Provincial Double-Innovation Doctor Program.
+
+1. Open Foundation of National Engineering Laboratory for Mobile Internet System and Application Security.
+
+1. Open Foundation of Guangxi Key Laboratory of Cryptography and Information Security.
+
+1. Open Foundation of Henan Key Laboratory of Cyberspace Situation Awareness
 
 
 <!-- 
@@ -84,8 +100,8 @@ Co-supervised Students
 Contact
 ======
 
-djiankuo<at>njupt.edu.cn
-djiankuo<at>gmail.com
+- djiankuo \at njupt.edu.cn
+- djiankuo \at gmail.com
 
 
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=hDqGIHVAbAXvG5hcv2BATY4rMKoiFnu3w5ScoP2BCR8"></script>
