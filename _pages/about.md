@@ -21,7 +21,7 @@ Education
 Work Experience
 ======
 
-* 2021.12 ~ Present, Post Doctor, Nanjing University of Posts and Telecommunications, Supervised by Prof. [Fu Xiao]().
+* 2021.12 ~ Present, Post Doctor, Nanjing University of Posts and Telecommunications, Supervised by Prof. [Fu Xiao](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9B9D05C52A832DCFE050007F01006EFE).
 * 2020.10 ~ Present, Lecture, Nanjing University of Posts and Telecommunications.
 * 2019.07 ~ 2020.09: Senior Engineer, Huawei Technology Co., Ltd.
 
