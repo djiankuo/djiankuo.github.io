@@ -93,9 +93,10 @@ Contact
 - djiankuo \at gmail.com
 
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=hDqGIHVAbAXvG5hcv2BATY4rMKoiFnu3w5ScoP2BCR8"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=hDqGIHVAbAXvG5hcv2BATY4rMKoiFnu3w5ScoP2BCR8&co=8fa5b5'></script>
+
 
 <!---
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=qYFf_TmdO5Vj5Bt80qHDTixnXUwdGwN0pTgUit9SCVk&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=hDqGIHVAbAXvG5hcv2BATY4rMKoiFnu3w5ScoP2BCR8"></script>
 -->
 
