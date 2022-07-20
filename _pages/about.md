@@ -27,7 +27,7 @@ Work Experience
 
 
 
-Latest Publications (\* denotes the corresponding author.)
+Latest Publications
 ======
 
 1. **[Conf-ESORICS-2022]** Lipeng Wan, Fangyu Zheng *, Guang Fan, Rong Wei, Lili Gao, Yuewu Wang, Jingqiang Lin and **Jiankuo Dong**, "A Novel High-performance Implementation of CRYSTALS-Kyber with AI Accelerator",  27th European Symposium on Research in Computer Security (ESORICS), **accepted to appear**.
