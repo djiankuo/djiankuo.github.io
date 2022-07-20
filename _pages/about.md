@@ -67,6 +67,8 @@ Acadamic Services
 
 1. EAI AC3 2022 Reviewer
 1. ACNS-SCI 2022 PC Member
+1. COMPUTER STANDARDS & INTERFACES Reviewer
+1. CRiSIS 2021 PC Member
 1. ACNS-SCI 2021 PC Member
 1. ACNS-SCI 2020 PC Member
 
