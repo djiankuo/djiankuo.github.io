@@ -74,17 +74,14 @@ Acadamic Services
 Co-supervised Students
 ======
 
-<!-- 
-1. Juanjuan Cheng (Master, graduated in 2018)
-1. Wangzhao Cheng (Ph.D., graduated in 2019)
-1. Jiankuo Dong (Ph.D., graduated in 2019)
-1. Ziyang Wang (Ph.D., graduated in 2021)
-1. Rong Wei (Ph.D., graduated in 2022)
-1. Lili Gao (Ph.D., graduated in 2022)
-1. Lipeng Wan (Ph.D. candidate)
-1. Guang Fan (Ph.D. candidate)
-1. Haoling Fan (Ph.D. candidate)
--->
+1. Xinyi Ji (Ph.D, candidate)
+1. Kai Wang (Ph.D, candidate)
+1. Tianyu Mao (Master, candidate)
+1. Yiru Xiang (Master, candidate)
+1. Sheng Lu (Master, candidate)
+1. Kaisheng Sun (Master, candidate)
+1. Yuehua Huang (Master, candidate)
+
 
 Contact
 ======
