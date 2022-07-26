@@ -82,10 +82,11 @@ Co-supervised Students
 1. Yiru Xiang (Master, candidate)
 1. Sheng Lu (Master, candidate)
 1. Kaisheng Sun (Master, candidate)
-1. Yuehua Huang (Master, candidate)
 1. Zhenguo Zhou (Master, candidate)
 1. Xin Ge (Master, candidate)
 1. Hui Li (Master, candidate)
+1. Yuehua Huang (Master, candidate)
+
 
 
 Contact
