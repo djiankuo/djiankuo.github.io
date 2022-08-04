@@ -53,6 +53,8 @@ Fundings and Projects
 
 1. The China Postdoctoral Science Foundation.
 
+1. CCF Huawei Populus euphratica Fund - Trusted computing.
+
 1. Jiangsu Provincial Double-Innovation Doctor Program.
 
 1. Open Foundation of National Engineering Laboratory for Mobile Internet System and Application Security.
