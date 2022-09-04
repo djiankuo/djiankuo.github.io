@@ -30,7 +30,7 @@ Work Experience
 Latest Publications
 ======
 
-1. **[Conf-ESORICS-2022]** Lipeng Wan, Fangyu Zheng *, Guang Fan, Rong Wei, Lili Gao, Yuewu Wang, Jingqiang Lin and **Jiankuo Dong**, "A Novel High-performance Implementation of CRYSTALS-Kyber with AI Accelerator",  27th European Symposium on Research in Computer Security (ESORICS), **accepted to appear**.
+1. **[Jour-TII2022]** **Jiankuo Dong**, Pinchang Zhang, Kaisheng Sun, Fu Xiao*, Fangyu Zheng, Jingqiang Lin, “EG-FourQ: An Embedded GPU based Efficient ECC Cryptography Accelerator for Edge Computing”, IEEE Transactions on Industrial Informatics, **accepted to appear**.
 
 1. **[Jour-计算机教育]** **Jiankuo Dong**, Fu Xiao *, Letian Sha, "The teaching design of the cryptography practice course that integrates OBE and PBL in the context of new engineering", **accepted to appear**.
 
