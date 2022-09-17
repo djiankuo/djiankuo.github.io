@@ -13,23 +13,23 @@ I am a lecture in School of Computer Science, Nanjing University of Posts and Te
 My research interests lie in the general area of cryptography and security, particularly in applied cryptography, cryptographic engineering, as well as high performance parallel computing. My publications include TECS, IPDPS, TIFS, ACSAC, SCN, WASA, etc.
 
 
-Education【教育经历】
+Education
 ======
 * 2021.12 ~ Present, Post Doctor, Nanjing University of Posts and Telecommunications, Supervised by Prof. [Fu Xiao](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9B9D05C52A832DCFE050007F01006EFE).
   - 2021.12 至今，博士后，南京邮电大学，导师：[肖甫](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9B9D05C52A832DCFE050007F01006EFE)教授.
 
 * 2014.09 ~ 2019.06, Ph.D in Cyberspace Security, Institute of Information Engineering, University of Chinese Academy of Sciences (IIE-UCAS), Supervised by Prof. Dingfeng Ye, Prof. [Jingqiang Lin](https://lin-jingqiang.github.io/) and Dr. [Fangyu Zheng](https://zhengfangyu.github.io/).
-  - 2014.09 ~ 2019.06，网络空间安全 博士， 中国科学院，信息工程研究所，信息安全国家重点实验室，导师：叶顶锋研究员，[林璟锵](https://lin-jingqiang.github.io/)教授,[郑昉昱](https://zhengfangyu.github.io/)博士.
+  - 2014.09 ~ 2019.06，网络空间安全 博士， 中国科学院，信息工程研究所，信息安全国家重点实验室，导师：叶顶锋研究员，[林璟锵](https://lin-jingqiang.github.io/)教授, [郑昉昱](https://zhengfangyu.github.io/)博士.
 
 * 2010.09 ~ 2014.07, B.S. in Computer Science and Technology, Xi’an Jiaotong University (XJUPT), Supervised by Associate Professor [Yi Qian](http://gr.xjtu.edu.cn/web/yqian).
-  - 2010.09 ~ 2014.07, 计算机科学与技术 学士， 西安交通大学，电信学院，导师：[钱屹](http://gr.xjtu.edu.cn/web/yqian).
+  - 2010.09 ~ 2014.07, 计算机科学与技术 学士， 西安交通大学，电信学院，导师：[钱屹](http://gr.xjtu.edu.cn/web/yqian)副教授.
 
 
-Work Experience【工作经历】
+Work Experience
 ======
 
 * 2020.10 ~ Present, Lecture, Nanjing University of Posts and Telecommunications.
-  - 2020.10至今，讲师，南京邮电大学，计算机学院。
+  - 2020.10 至今，讲师，南京邮电大学，计算机学院。
 * 2019.07 ~ 2020.09: Senior Engineer, Huawei Technology Co., Ltd.
   - 2019.07 ~ 2020.09，高级工程师，华为技术有限公司，消费者BG。
 
@@ -51,7 +51,7 @@ See [full publications](/full-publications/).
 
 
 
-Fundings and Projects【主持项目】
+Fundings and Projects
 ======
 
 1. Natural Science Foundation of Jiangsu Province (Youth Project).
@@ -79,7 +79,7 @@ Fundings and Projects【主持项目】
 1. Open Foundation of Henan Key Laboratory of Cyberspace Situation Awareness
   - 河南省网络空间态势感知重点实验室开放课题
 
-Acadamic Services 【学术服务】
+Acadamic Services 
 ======
 
 1. EAI AC3 2022 Reviewer
@@ -90,7 +90,7 @@ Acadamic Services 【学术服务】
 1. ACNS-SCI 2020 PC Member
 
 
-Co-supervised Students 【指导学生】
+Co-supervised Students 
 ======
 
 1. Xinyi Ji (Ph.D, candidate)
@@ -106,7 +106,7 @@ Co-supervised Students 【指导学生】
 
 
 
-Contact 【联系】
+Contact 
 ======
 
 - djiankuo \at njupt.edu.cn
