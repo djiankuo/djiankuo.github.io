@@ -16,13 +16,13 @@ My research interests lie in the general area of cryptography and security, part
 Education
 ======
 * 2021.12 ~ Present, Post Doctor, Nanjing University of Posts and Telecommunications, Supervised by Prof. [Fu Xiao](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9B9D05C52A832DCFE050007F01006EFE).
-  - 2021.12 至今，博士后，南京邮电大学，导师：[肖甫](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9B9D05C52A832DCFE050007F01006EFE)教授.
+- 2021.12 至今，博士后，南京邮电大学，导师：[肖甫](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9B9D05C52A832DCFE050007F01006EFE)教授.
 
 * 2014.09 ~ 2019.06, Ph.D in Cyberspace Security, Institute of Information Engineering, University of Chinese Academy of Sciences (IIE-UCAS), Supervised by Prof. Dingfeng Ye, Prof. [Jingqiang Lin](https://lin-jingqiang.github.io/) and Dr. [Fangyu Zheng](https://zhengfangyu.github.io/).
-  - 2014.09 ~ 2019.06，网络空间安全 博士， 中国科学院，信息工程研究所，信息安全国家重点实验室，导师：叶顶锋研究员，[林璟锵](https://lin-jingqiang.github.io/)教授, [郑昉昱](https://zhengfangyu.github.io/)博士.
+- 2014.09 ~ 2019.06，网络空间安全 博士， 中国科学院，信息工程研究所，信息安全国家重点实验室，导师：叶顶锋研究员，[林璟锵](https://lin-jingqiang.github.io/)教授, [郑昉昱](https://zhengfangyu.github.io/)博士.
 
 * 2010.09 ~ 2014.07, B.S. in Computer Science and Technology, Xi’an Jiaotong University (XJUPT), Supervised by Associate Professor [Yi Qian](http://gr.xjtu.edu.cn/web/yqian).
-  - 2010.09 ~ 2014.07, 计算机科学与技术 学士， 西安交通大学，电信学院，导师：[钱屹](http://gr.xjtu.edu.cn/web/yqian)副教授.
+- 2010.09 ~ 2014.07, 计算机科学与技术 学士， 西安交通大学，电信学院，导师：[钱屹](http://gr.xjtu.edu.cn/web/yqian)副教授.
 
 
 Work Experience
@@ -55,29 +55,29 @@ Fundings and Projects
 ======
 
 1. Natural Science Foundation of Jiangsu Province (Youth Project).
-  - 江苏省自然科学基金（青年基金项目）
+- 江苏省自然科学基金（青年基金项目）
 
 1. Natural Science Research Project of Colleges and Universities in Jiangsu Province.
-  - 江苏省高等学校基础科学（自然科学）研究面上项目
+- 江苏省高等学校基础科学（自然科学）研究面上项目
 
 1. The China Postdoctoral Science Foundation.
-  - 中国博士后科学基金面上项目
+- 中国博士后科学基金面上项目
 
 1. CCF-Huawei Populus euphratica Fund - Trusted Computing.
-  - CCF-华为胡杨林基金可信计算专项
+- CCF-华为胡杨林基金可信计算专项
 
 1. Jiangsu Provincial Double-Innovation Doctor Program.
-  - 江苏省双创博士计划
+- 江苏省双创博士计划
 
 1. Open Foundation of National Engineering Laboratory for Mobile Internet System and Application Security.
-  - 移动互联网系统与应用安全国家工程实验室开放课题
+- 移动互联网系统与应用安全国家工程实验室开放课题
 
 
 1. Open Foundation of Guangxi Key Laboratory of Cryptography and Information Security.
-  - 广西密码学与信息安全重点实验室开放课题
+- 广西密码学与信息安全重点实验室开放课题
 
 1. Open Foundation of Henan Key Laboratory of Cyberspace Situation Awareness
-  - 河南省网络空间态势感知重点实验室开放课题
+- 河南省网络空间态势感知重点实验室开放课题
 
 Acadamic Services 
 ======
