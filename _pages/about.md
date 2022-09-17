@@ -29,9 +29,9 @@ Work Experience
 ======
 
 * 2020.10 ~ Present, Lecture, Nanjing University of Posts and Telecommunications.
-  - 2020.10 至今，讲师，南京邮电大学，计算机学院。
+- 2020.10 至今，讲师，南京邮电大学，计算机学院。
 * 2019.07 ~ 2020.09: Senior Engineer, Huawei Technology Co., Ltd.
-  - 2019.07 ~ 2020.09，高级工程师，华为技术有限公司，消费者BG。
+- 2019.07 ~ 2020.09，高级工程师，华为技术有限公司，消费者BG。
 
 
 Latest Publications
