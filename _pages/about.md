@@ -36,8 +36,6 @@ Latest Publications
 
 1. **[Jour-计算机教育]** **Jiankuo Dong**, Fu Xiao *, Letian Sha, "The teaching design of the cryptography practice course that integrates OBE and PBL in the context of new engineering", **accepted to appear**.
 
-1. **[Conf-SCI-ACNS-2022]** Guangshen Cheng, **Jiankuo Dong** *, Xinyi Ji, Bingyu Li, Haoling Fan, Pinchang Zhang, "PEPEC: Precomputed ECC Points Embedded in Certificates and Verified by CT Log Servers.",  Workshop on Secure Cryptographic Implementation in the 20th International Conference on Applied Cryptography and Network Security (SCI-ACNS), **accepted to appear**.
-
 1. **[Jour-IOTJ2022]** **Jiankuo Dong**, Guang Fan, Fangyu Zheng *, Tianyu Mao, Fu Xiao, Jingqiang Lin, "TEGRAS: An Efficient Tegra Embedded GPU based RSA Acceleration Server",  IEEE Internet of Things Journal, [doi: 10.1109/JIOT.2022.3152203](https://ieeexplore.ieee.org/abstract/document/9716069).
 
 1. **[Jour-TECS2022]** **Jiankuo Dong**, Fangyu Zheng *, Jingqiang Lin, Zhe Liu, Fu Xiao, Guang Fan, "EC-ECC: Accelerating Elliptic Curve Cryptography for Edge Computing on Embedded GPU TX2", ACM Transactions on Embedded Computing Systems (TECS),  [doi: 10.1145/3492734](https://dl.acm.org/doi/abs/10.1145/3492734).
@@ -50,21 +48,29 @@ Fundings and Projects
 ======
 
 1. Natural Science Foundation of Jiangsu Province (Youth Project).
+  - 江苏省自然科学基金（青年基金项目）
 
 1. Natural Science Research Project of Colleges and Universities in Jiangsu Province.
+  - 江苏省高等学校基础科学（自然科学）研究面上项目
 
 1. The China Postdoctoral Science Foundation.
+  - 中国博士后科学基金面上项目
 
 1. CCF-Huawei Populus euphratica Fund - Trusted Computing.
+  - CCF-华为胡杨林基金可信计算专项
 
 1. Jiangsu Provincial Double-Innovation Doctor Program.
+  - 江苏省双创博士计划
 
 1. Open Foundation of National Engineering Laboratory for Mobile Internet System and Application Security.
+  - 移动互联网系统与应用安全国家工程实验室开放课题
+
 
 1. Open Foundation of Guangxi Key Laboratory of Cryptography and Information Security.
+  - 广西密码学与信息安全重点实验室开放课题
 
 1. Open Foundation of Henan Key Laboratory of Cyberspace Situation Awareness
-
+  - 河南省网络空间态势感知重点实验室开放课题
 
 Acadamic Services
 ======
