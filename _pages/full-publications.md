@@ -8,6 +8,9 @@ author_profile: true
 
 Published and Accepted Papers
 ======
+
+1. **[Conf-ICPADS2022]** **Jiankuo Dong**, Sheng Lu, Pinchang Zhang, Fangyu Zheng and Fu Xiao *, “G-SM3: High-Performance Implementation of GPU-based SM3 Hash Function”, IEEE International Conference on Parallel and Distributed Systems, **accepted to appear**.
+
 1. **[Jour-计算机学报]** **Jiankuo Dong**, Zhe Liu*, Sheng Lu, Fangyu Zheng, Jingqiang Lin, Fu Xiao, Chunpeng Ge, “Research Progress on Efficient Software Implementation of Elliptic Curve Cryptography”, Chinese Journal of Computers, **accepted to appear**.
 
 1. **[Jour-TII2022]** **Jiankuo Dong**, Pinchang Zhang, Kaisheng Sun, Fu Xiao*, Fangyu Zheng, Jingqiang Lin, “EG-FourQ: An Embedded GPU based Efficient ECC Cryptography Accelerator for Edge Computing”, IEEE Transactions on Industrial Informatics, **accepted to appear**.

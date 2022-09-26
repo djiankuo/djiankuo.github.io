@@ -36,6 +36,7 @@ Work Experience
 
 Latest Publications
 ======
+1. **[Conf-ICPADS2022]** **Jiankuo Dong**, Sheng Lu, Pinchang Zhang, Fangyu Zheng and Fu Xiao *, “G-SM3: High-Performance Implementation of GPU-based SM3 Hash Function”, IEEE International Conference on Parallel and Distributed Systems, **accepted to appear**.
 
 1. **[Jour-计算机学报]** **Jiankuo Dong**, Zhe Liu*, Sheng Lu, Fangyu Zheng, Jingqiang Lin, Fu Xiao, Chunpeng Ge, “Research Progress on Efficient Software Implementation of Elliptic Curve Cryptography”, Chinese Journal of Computers, **accepted to appear**.
 
@@ -51,7 +52,7 @@ See [full publications](/full-publications/).
 
 
 
-Fundings and Projects
+Fundings and Projects (PI)
 ======
 
 1. Natural Science Foundation of Jiangsu Province (Youth Project).
@@ -71,7 +72,6 @@ Fundings and Projects
 
 1. Open Foundation of National Engineering Laboratory for Mobile Internet System and Application Security.
 - 移动互联网系统与应用安全国家工程实验室开放课题
-
 
 1. Open Foundation of Guangxi Key Laboratory of Cryptography and Information Security.
 - 广西密码学与信息安全重点实验室开放课题
@@ -95,6 +95,8 @@ Co-supervised Students
 
 1. Xinyi Ji (Ph.D, candidate)
 1. Kai Wang (Ph.D, candidate)
+1. Xingjian Zhu (Ph.D, candidate)
+1. Fuyuan Chen (Ph.D, candidate)
 1. Tianyu Mao (Master, candidate)
 1. Yiru Xiang (Master, candidate)
 1. Sheng Lu (Master, candidate)
@@ -102,9 +104,11 @@ Co-supervised Students
 1. Zhenguo Zhou (Master, candidate)
 1. Xin Ge (Master, candidate)
 1. Hui Li (Master, candidate)
+1. Peng Dai (Master, candidate)
+1. Qingbo Ye (Master, candidate)
 1. Yuehua Huang (Master, candidate)
-
-
+1. Yusheng Fu (Master, candidate)
+1. Wen Wu (Master, candidate)
 
 Contact 
 ======
