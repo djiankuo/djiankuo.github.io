@@ -99,8 +99,8 @@ Co-supervised Students
 
 1. Xinyi Ji (Ph.D, candidate)
 1. Kai Wang (Ph.D, candidate)
-1. Xingjian Zhu (Ph.D, candidate)
 1. Fuyuan Chen (Ph.D, candidate)
+1. Xingjian Zhu (Ph.D, candidate)
 1. Tianyu Mao (Master, candidate)
 1. Yiru Xiang (Master, candidate)
 1. Sheng Lu (Master, candidate)
