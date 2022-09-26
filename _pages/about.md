@@ -79,9 +79,6 @@ Fundings and Projects (PI)
 1. Open Foundation of Henan Key Laboratory of Cyberspace Situation Awareness
 - 河南省网络空间态势感知重点实验室开放课题
 
-1. Open Foundation of Henan Key Laboratory of Cyberspace Situation Awareness
-- 河南省网络空间态势感知重点实验室开放课题
-
 1. Transverse Project of Jiangsu Future Networks Innovation Institute
 - 江苏省未来网络创新研究院横向课题
 
