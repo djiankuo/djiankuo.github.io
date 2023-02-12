@@ -9,6 +9,12 @@ author_profile: true
 Published and Accepted Papers
 ======
 
+1. **[Conf-IPDPS2023]** Guang Fan, Fangyu Zheng *, Lipeng Wan, Lili Gao, Yuan Zhao, **Jiankuo Dong**, Yixuan Song, Yuewu Wang, Jingqiang Lin, “Towards Faster Fully Homomorphic Encryption Implementation with Integer and Floating-point Computing Power of GPUs”. 37th IEEE International Parallel and Distributed Processing Symposium (IPDPS), 2023, accepted to appear.
+
+1. **[Jour-JNNA2023]** Pinchang Zhang, Ji He, **Jiankuo Dong** *, Letian Sha, Joint Frequency Offset and Channel Estimation for NB-IoT Systems. Journal of Networking and Network Applications. 2023,[doi: 2. 10.33969/J-NaNA.2022.020201].
+
+1. **[Jour-Ad Hoc Networks2023]** Yulin Teng, Huangwenqing Shi, Pinchang Zhang, **Jiankuo Dong**, "Fu Xiao, PHY-layer authentication exploiting CFO for smart healthcare systems with mmWave communication technology", Ad Hoc Networks, 2023,  accepted to appear.
+
 1. **[Conf-ICPADS2022]** **Jiankuo Dong**, Sheng Lu, Pinchang Zhang, Fangyu Zheng and Fu Xiao *, “G-SM3: High-Performance Implementation of GPU-based SM3 Hash Function”, IEEE International Conference on Parallel and Distributed Systems, **accepted to appear**.
 
 1. **[Jour-计算机学报]** **Jiankuo Dong**, Zhe Liu*, Sheng Lu, Fangyu Zheng, Jingqiang Lin, Fu Xiao, Chunpeng Ge, “Research Progress on Efficient Software Implementation of Elliptic Curve Cryptography”, Chinese Journal of Computers, **accepted to appear**.
