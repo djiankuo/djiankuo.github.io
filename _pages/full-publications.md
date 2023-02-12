@@ -11,23 +11,23 @@ Published and Accepted Papers
 
 1. **[Conf-IPDPS2023]** Guang Fan, Fangyu Zheng *, Lipeng Wan, Lili Gao, Yuan Zhao, **Jiankuo Dong**, Yixuan Song, Yuewu Wang, Jingqiang Lin, “Towards Faster Fully Homomorphic Encryption Implementation with Integer and Floating-point Computing Power of GPUs”. 37th IEEE International Parallel and Distributed Processing Symposium (IPDPS), 2023, **accepted to appear**.
 
-1. **[Jour-JNNA2023]** Pinchang Zhang, Ji He, **Jiankuo Dong** *, Letian Sha, Joint Frequency Offset and Channel Estimation for NB-IoT Systems. Journal of Networking and Network Applications. 2023,[doi: 2. 10.33969/J-NaNA.2022.020201].
+1. **[Jour-JNNA2023]** Pinchang Zhang, Ji He, **Jiankuo Dong** *, Letian Sha, "Joint Frequency Offset and Channel Estimation for NB-IoT Systems", Journal of Networking and Network Applications (JNNA). 2023,[doi: 2. 10.33969/J-NaNA.2022.020201].
 
 1. **[Jour-Ad Hoc Networks2023]** Yulin Teng, Huangwenqing Shi, Pinchang Zhang*, **Jiankuo Dong**, Fu Xiao, "PHY-layer authentication exploiting CFO for smart healthcare systems with mmWave communication technology", Ad Hoc Networks, 2023,  **accepted to appear**.
 
-1. **[Conf-ICPADS2022]** **Jiankuo Dong**, Sheng Lu, Pinchang Zhang, Fangyu Zheng and Fu Xiao *, “G-SM3: High-Performance Implementation of GPU-based SM3 Hash Function”, IEEE International Conference on Parallel and Distributed Systems, **accepted to appear**.
+1. **[Conf-ICPADS2022]** **Jiankuo Dong**, Sheng Lu, Pinchang Zhang, Fangyu Zheng and Fu Xiao *, “G-SM3: High-Performance Implementation of GPU-based SM3 Hash Function”, IEEE International Conference on Parallel and Distributed Systems (IPCADS), **accepted to appear**.
 
-1. **[Jour-计算机学报]** **Jiankuo Dong**, Zhe Liu*, Sheng Lu, Fangyu Zheng, Jingqiang Lin, Fu Xiao, Chunpeng Ge, “Research Progress on Efficient Software Implementation of Elliptic Curve Cryptography”, Chinese Journal of Computers, **accepted to appear**.
+1. **[Jour-计算机学报]** **Jiankuo Dong**, Zhe Liu*, Sheng Lu, Fangyu Zheng, Jingqiang Lin, Fu Xiao, Chunpeng Ge, “Research Progress on Efficient Software Implementation of Elliptic Curve Cryptography”, Chinese Journal of Computers (计算机学报), **accepted to appear**.
 
-1. **[Jour-TII2022]** **Jiankuo Dong**, Pinchang Zhang, Kaisheng Sun, Fu Xiao*, Fangyu Zheng, Jingqiang Lin, “EG-FourQ: An Embedded GPU based Efficient ECC Cryptography Accelerator for Edge Computing”, IEEE Transactions on Industrial Informatics, **accepted to appear**.
+1. **[Jour-TII2022]** **Jiankuo Dong**, Pinchang Zhang, Kaisheng Sun, Fu Xiao*, Fangyu Zheng, Jingqiang Lin, “EG-FourQ: An Embedded GPU based Efficient ECC Cryptography Accelerator for Edge Computing”, IEEE Transactions on Industrial Informatics （TII）, **accepted to appear**.
 
 1. **[Conf-ESORICS-2022]** Lipeng Wan, Fangyu Zheng *, Guang Fan, Rong Wei, Lili Gao, Yuewu Wang, Jingqiang Lin and **Jiankuo Dong**, "A Novel High-performance Implementation of CRYSTALS-Kyber with AI Accelerator",  27th European Symposium on Research in Computer Security (ESORICS), **accepted to appear**.
 
-1. **[Jour-计算机教育]** **Jiankuo Dong**, Fu Xiao *, Letian Sha, "The teaching design of the cryptography practice course that integrates OBE and PBL in the context of new engineering", **accepted to appear**.
+1. **[Jour-计算机教育]** **Jiankuo Dong**, Fu Xiao *, Letian Sha, "The teaching design of the cryptography practice course that integrates OBE and PBL in the context of new engineering", Computer Education (计算机教育), **accepted to appear**.
 
 1. **[Conf-SCI-ACNS-2022]** Guangshen Cheng, **Jiankuo Dong** *, Xinyi Ji, Bingyu Li, Haoling Fan, Pinchang Zhang, "PEPEC: Precomputed ECC Points Embedded in Certificates and Verified by CT Log Servers.",  Workshop on Secure Cryptographic Implementation in the 20th International Conference on Applied Cryptography and Network Security (SCI-ACNS), **accepted to appear**.
 
-1. **[Jour-IOTJ2022]** **Jiankuo Dong**, Guang Fan, Fangyu Zheng *, Tianyu Mao, Fu Xiao, Jingqiang Lin, "TEGRAS: An Efficient Tegra Embedded GPU based RSA Acceleration Server",  IEEE Internet of Things Journal, [doi: 10.1109/JIOT.2022.3152203](https://ieeexplore.ieee.org/abstract/document/9716069).
+1. **[Jour-IOTJ2022]** **Jiankuo Dong**, Guang Fan, Fangyu Zheng *, Tianyu Mao, Fu Xiao, Jingqiang Lin, "TEGRAS: An Efficient Tegra Embedded GPU based RSA Acceleration Server",  IEEE Internet of Things Journal （IOT Journal）, [doi: 10.1109/JIOT.2022.3152203](https://ieeexplore.ieee.org/abstract/document/9716069).
 
 1. **[Jour-TECS2022]** **Jiankuo Dong**, Fangyu Zheng *, Jingqiang Lin, Zhe Liu, Fu Xiao, Guang Fan, "EC-ECC: Accelerating Elliptic Curve Cryptography for Edge Computing on Embedded GPU TX2", ACM Transactions on Embedded Computing Systems (TECS),  [doi: 10.1145/3492734](https://dl.acm.org/doi/abs/10.1145/3492734).
 
