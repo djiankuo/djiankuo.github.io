@@ -9,6 +9,15 @@ author_profile: true
 Published and Accepted Papers
 ======
 
+1. **[Conf-SCI-ACNS-2023]** Haosong Zhao, Rui Su, Rui Lin, **Jiankuo Dong** and Donglong Chen*, "Efficient Arithmetic for Polynomial Multiplication in Post-Quantum Lattice-based Cryptosystem on RISC-V Platform",  Workshop on Secure Cryptographic Implementation in the 21th International Conference on Applied Cryptography and Network Security (SCI-ACNS), **accepted to appear**.
+
+
+1. **[Jour-IEEESYSTJ2023]** Kai Wang, Kaisheng Sun, **Jiankuo Dong**, Letian Sha and Fu Xiao *, “AP-CDE: Cost-efficient Authentication Protocol for Cross-domain Data Exchange in IIoT”, IEEE Systems Journal (IPCADS), **accepted to appear**.
+
+1. **[Jour-电信科学2023]** Fuyuan Chen (陈滏媛), Zhenjiang Dong *（董振江）,  **Jiankuo Dong （董建阔）**,Xumin Jie （徐敏杰）, A survey of Internet of vehicles security protection technologies (车联网安全防护技术综述), Telecommunications Science (电信科学), **accepted to appear**.
+
+1. **[Jour-密码学报2023]** Zhenya liu (刘振亚), Jingqiang Lin *（林璟锵）, Xuhua Bao (鲍旭华),**Jiankuo Dong （董建阔）**, An ECQV-Schnorr signature aggregation scheme with fast error detections in verification for the BSMs of IoV (用于车联网BSM消息的ECQV-Schnorr签名聚合及快速验证检错方案), Journal of Cryptologic Research (密码学报), **accepted to appear**.
+
 1. **[Conf-IPDPS2023]** Guang Fan, Fangyu Zheng *, Lipeng Wan, Lili Gao, Yuan Zhao, **Jiankuo Dong**, Yixuan Song, Yuewu Wang, Jingqiang Lin, “Towards Faster Fully Homomorphic Encryption Implementation with Integer and Floating-point Computing Power of GPUs”. 37th IEEE International Parallel and Distributed Processing Symposium (IPDPS), 2023, **accepted to appear**.
 
 1. **[Jour-JNNA2023]** Pinchang Zhang, Ji He, **Jiankuo Dong** *, Letian Sha, "Joint Frequency Offset and Channel Estimation for NB-IoT Systems", Journal of Networking and Network Applications (JNNA). 2023,[doi: 2. 10.33969/J-NaNA.2022.020201].
