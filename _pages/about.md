@@ -98,7 +98,7 @@ Acadamic Services
 1. ACNS-SCI 2020 PC Member
 
 
-Co-supervised Students 
+Supervised Students 
 ======
 
 

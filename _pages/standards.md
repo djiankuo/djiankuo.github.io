@@ -6,7 +6,7 @@ author_profile: true
 
 
 
-Co-supervised Students 
+Supervised Students 
 ======
 
 1. Xinyi Ji (Ph.D, candidate)
