@@ -15,6 +15,16 @@ author_profile: true
 </div>
 
 
+<div style="display: flex; justify-content: space-between;">
+    <div style="margin-right: 20px;">学生1: <img src="../images/bio-photo-2.jpg" alt="学生1照片"> 学生1姓名</div>
+    <div style="margin-right: 20px;">学生2: <img src="../images/bio-photo-2.jpg" alt="学生2照片"> 学生2姓名</div>
+    <div style="margin-right: 20px;">学生3: <img src="../images/bio-photo-2.jpg" alt="学生3照片"> 学生3姓名</div>
+    <div>学生4: <img src="../images/bio-photo-2.jpg" alt="学生4照片"> 学生4姓名</div>
+</div>
+
+
+
+
 <p align="center">学生1: <img src="../images/bio-photo-2.jpg" alt="学生1照片"> 学生1姓名</p>
 <p align="center">学生2: <img src="../images/bio-photo-2.jpg" alt="学生2照片"> 学生2姓名</p>
 <p align="center">学生3: <img src="../images/bio-photo-2.jpg" alt="学生3照片"> 学生3姓名</p>
