@@ -7,11 +7,12 @@ author_profile: true
 ![alt xingming](../images/bio-photo-2.jpg "xingming")
 姓名测试
 
-
-学生1: ![学生1照片](../images/bio-photo-2.jpg) 学生1姓名
-学生2: ![学生2照片](../images/bio-photo-2.jpg) 学生2姓名
-学生3: ![学生3照片](../images/bio-photo-2.jpg) 学生3姓名
-学生4: ![学生4照片](../images/bio-photo-2.jpg) 学生4姓名
+<div style="display: flex; justify-content: space-between;">
+    <div>学生1: <img src="../images/bio-photo-2.jpg" alt="学生1照片"> 学生1姓名</div>
+    <div>学生2: <img src="../images/bio-photo-2.jpg" alt="学生2照片"> 学生2姓名</div>
+    <div>学生3: <img src="../images/bio-photo-2.jpg" alt="学生3照片"> 学生3姓名</div>
+    <div>学生4: <img src="../images/bio-photo-2.jpg" alt="学生4照片"> 学生4姓名</div>
+</div>
 
 
 <p align="center">学生1: <img src="../images/bio-photo-2.jpg" alt="学生1照片"> 学生1姓名</p>
