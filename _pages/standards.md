@@ -4,7 +4,7 @@ title: "Students"
 author_profile: true
 ---
 
-![Minion](../images/bio-photo-2.jpg)
+![Minion](../images/bio-photo-2.jpg "xingming")
 
 Supervised Students 
 ======
