@@ -101,6 +101,7 @@ Acadamic Services
 Co-supervised Students 
 ======
 
+
 1. Xinyi Ji (Ph.D, candidate)
 1. Kai Wang (Ph.D, candidate)
 1. Fuyuan Chen (Ph.D, candidate)
@@ -116,7 +117,20 @@ Co-supervised Students
 1. Qingbo Ye (Master, candidate)
 1. Yuehua Huang (Master, candidate)
 1. Yusheng Fu (Master, candidate)
+1. Gangqing Wu (Master, candidate)
+1. Xingyu Wang (Master, candidate)
+1. Jie Wei (Master, candidate)
+1. Jialin Han (Master, candidate)
 1. Wen Wu (Master, candidate)
+1. Shiqin Wang (Master, candidate)
+1. Yijie Xu (Master, candidate)
+1. Yuze Hou (Master, candidate)
+1. Pengbo Liu (Master, candidate)
+1. Tonggui Deng (Master, candidate)
+1. Zhijian Yuan (Master, candidate)
+1. Xusheng Qin (Master, candidate)
+
+See [Students](/standards/).
 
 Contact 
 ======
