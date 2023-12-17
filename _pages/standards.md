@@ -4,7 +4,7 @@ title: "Students"
 author_profile: true
 ---
 
-![alt ceshi](../images/bio-photo-2.jpg "xingming")
+![alt xingming](../images/bio-photo-2.jpg "xingming")
 
 Supervised Students 
 ======
