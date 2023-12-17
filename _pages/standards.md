@@ -32,6 +32,34 @@ author_profile: true
 
 
 
+<div style="display: flex; justify-content: space-between;">
+    <div style="text-align: center; margin-right: 20px;">
+        学生1: <br>
+        <img src="../images/bio-photo-2.jpg" alt="学生1照片"> <br>
+        <span style="display: inline-block;">学生1姓名</span>
+    </div>
+    
+    <div style="text-align: center; margin-right: 20px;">
+        学生2: <br>
+        <img src="../images/bio-photo-2.jpg" alt="学生2照片"> <br>
+        <span style="display: inline-block;">学生2姓名</span>
+    </div>
+    
+    <div style="text-align: center; margin-right: 20px;">
+        学生3: <br>
+        <img src="../images/bio-photo-2.jpg" alt="学生3照片"> <br>
+        <span style="display: inline-block;">学生3姓名</span>
+    </div>
+    
+    <div style="text-align: center;">
+        学生4: <br>
+        <img src="../images/bio-photo-2.jpg" alt="学生4照片"> <br>
+        <span style="display: inline-block;">学生4姓名</span>
+    </div>
+</div>
+
+
+
 
 
 Supervised Students 
