@@ -6,6 +6,8 @@ author_profile: true
 
 ![alt xingming](../images/bio-photo-2.jpg "xingming")
 
+<img src="../images/bio-photo-2.jpg" alt="xingming2" width="20" height="40">
+
 Supervised Students 
 ======
 
