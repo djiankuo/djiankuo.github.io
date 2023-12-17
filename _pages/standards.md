@@ -14,8 +14,14 @@ author_profile: true
 学生4: ![学生4照片](../images/bio-photo-2.jpg) 学生4姓名
 
 
+<p align="center">学生1: <img src="../images/bio-photo-2.jpg" alt="学生1照片"> 学生1姓名</p>
+<p align="center">学生2: <img src="../images/bio-photo-2.jpg" alt="学生2照片"> 学生2姓名</p>
+<p align="center">学生3: <img src="../images/bio-photo-2.jpg" alt="学生3照片"> 学生3姓名</p>
+<p align="center">学生4: <img src="../images/bio-photo-2.jpg" alt="学生4照片"> 学生4姓名</p>
 
-<img src="../images/bio-photo-2.jpg" alt="xingming2" width="20" height="40">
+
+
+
 
 Supervised Students 
 ======
