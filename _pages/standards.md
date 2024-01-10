@@ -30,7 +30,14 @@ author_profile: true
     </div>
 </div>
 
-
+   <style>
+        /* 样式用于定制水平线 */
+        hr {
+            width: 860px; /* 设置横线长度 */
+            border: 1px solid #000; /* 设置横线颜色和宽度 */
+            margin: 20px 0; /* 设置横线与其他元素之间的间距 */
+        }
+    </style>
 
 <div style="display: flex; justify-content: space-between;">
     <div style="text-align: center; margin-right: 20px;">
