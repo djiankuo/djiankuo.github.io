@@ -7,25 +7,25 @@ author_profile: true
 <div style="display: flex; justify-content: space-between;">
     <div style="text-align: center; margin-right: 20px;">
         博士研究生: <br>
-        <img src="../images/students/1_xinyi.jpg" alt="吉欣仪"> <br>
+        <img src="../images/students/1_xinyi.jpg" alt="吉欣仪" style="max-width: 200px; max-height: 200px;"> <br>
         <span style="display: inline-block;">吉欣仪</span>
     </div>
     
     <div style="text-align: center; margin-right: 20px;">
         博士研究生: <br>
-        <img src="../images/bio-photo-2.jpg" alt="陈滏媛"> <br>
+        <img src="../images/students/2-fuyuan.jpg" alt="陈滏媛" style="max-width: 200px; max-height: 200px;"> <br>
         <span style="display: inline-block;">陈滏媛</span>
     </div>
     
     <div style="text-align: center; margin-right: 20px;">
         博士研究生: <br>
-        <img src="../images/bio-photo-2.jpg" alt="王凯"> <br>
+        <img src="../images/bio-photo-2.jpg" alt="王凯" style="max-width: 200px; max-height: 200px;"> <br>
         <span style="display: inline-block;">王凯</span>
     </div>
     
     <div style="text-align: center;">
         博士研究生: <br>
-        <img src="../images/bio-photo-2.jpg" alt="朱行健"> <br>
+        <img src="../images/bio-photo-2.jpg" alt="朱行健" style="max-width: 200px; max-height: 200px;"> <br>
         <span style="display: inline-block;">朱行健</span>
     </div>
 </div>
