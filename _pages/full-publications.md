@@ -13,7 +13,7 @@ Published and Accepted Papers
 
 1. **[Conf-Inscrypt2023]** Qingguan Gao, Kaisheng Sun, **Jiankuo Dong** *, Fangyu Zheng, Jingqiang Lin, Yongjun Ren, Zhe Liu, "V-Curve25519: Efficient Implementation of Curve25519 on RISC-V Architecture", 19th International Conference on Information Security and Cryptology (Inscrypt), 2023, **accepted to appear**
 
-1. **[Conf-Inscrypt2023]** Biao Gao, Shijie Jia, Jiankuo Dong and Peixin Ren, "XPORAM: A Practical Multi-Client ORAM against Malicious Adversaries", 19th International Conference on Information Security and Cryptology (Inscrypt), 2023, **accepted to appear**
+1. **[Conf-Inscrypt2023]** Biao Gao, Shijie Jia, **Jiankuo Dong** and Peixin Ren, "XPORAM: A Practical Multi-Client ORAM against Malicious Adversaries", 19th International Conference on Information Security and Cryptology (Inscrypt), 2023, **accepted to appear**
 
 1. **[Conf-ICPP2023]** Yi Bian, Fangyu Zheng *, Yuewu Wang, Lingguang Lei, Yuan Ma, **Jiankuo Dong**, Jiwu Jing, “AsyncGBP: Unleashing the Potential of Heterogeneous Computing for SSL/TLS with GPU-based Provider”. 52nd ACM The International Conference on Parallel Processing (ICPP), 2023, doi: 10.1145/3605573.3605620.
 
