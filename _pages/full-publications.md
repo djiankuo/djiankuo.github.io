@@ -9,12 +9,23 @@ author_profile: true
 Published and Accepted Papers
 ======
 
-1. **[Conf-SCI-ACNS-2023]** Haosong Zhao, Rui Su, Rui Lin, **Jiankuo Dong** and Donglong Chen*, "Efficient Arithmetic for Polynomial Multiplication in Post-Quantum Lattice-based Cryptosystem on RISC-V Platform",  Workshop on Secure Cryptographic Implementation in the 21th International Conference on Applied Cryptography and Network Security (SCI-ACNS), **accepted to appear**.
+1. **[Jour-密码学报2023]** Zhenya Liu, Jingqiang Lin, Xuhua Bao, **Jiankuo Dong**, "An ECQV-Schnorr Signature Aggregation Scheme with Fast Error Detections in Verification for BSMs of IoV", Chinese Journal of Cryptologic Research, **accepted to appear**
 
+1. **[Conf-Inscrypt2023]** Qingguan Gao, Kaisheng Sun, **Jiankuo Dong** *, Fangyu Zheng, Jingqiang Lin, Yongjun Ren, Zhe Liu, "V-Curve25519: Efficient Implementation of Curve25519 on RISC-V Architecture", 19th International Conference on Information Security and Cryptology (Inscrypt), 2023, **accepted to appear**
+
+1. **[Conf-Inscrypt2023]** Biao Gao, Shijie Jia, Jiankuo Dong and Peixin Ren, "XPORAM: A Practical Multi-Client ORAM against Malicious Adversaries", 19th International Conference on Information Security and Cryptology (Inscrypt), 2023, **accepted to appear**
+
+1. **[Conf-ICPP2023]** Yi Bian, Fangyu Zheng *, Yuewu Wang, Lingguang Lei, Yuan Ma, **Jiankuo Dong**, Jiwu Jing, “AsyncGBP: Unleashing the Potential of Heterogeneous Computing for SSL/TLS with GPU-based Provider”. 52nd ACM The International Conference on Parallel Processing (ICPP), 2023, doi: 10.1145/3605573.3605620.
+
+1. **[Jour-软件学报2024]** **Jiankuo Dong (董建阔)**, Yuehua Huang （黄跃花）, Yusheng Fu（付宇笙）, Fu Xiao*（肖甫）, Fangyu Zheng（郑昉昱）, Jingqiang Lin（林璟锵）, Zhenjing Dong（董振江）, Research Progress in High Performance Cryptographic Computing Technology Based on Heterogeneous Multicore GPUs, **accepted to appear**.
+
+1. **[Jour-TVT2023]** Pinchang Zhang, **Jiankuo Dong**, Ji He, Jun Liu, Fu Xiao: Adaptive Jamming Attack Detection Under Noise Uncertainty in mmWave Massive MIMO Systems. IEEE Trans. Veh. Technol.CCF none 72(7): 9002-9016 (2023)
+
+1. **[Conf-SCI-ACNS2023]** Haosong Zhao, Rui Su, Rui Lin, **Jiankuo Dong** and Donglong Chen*, "Efficient Arithmetic for Polynomial Multiplication in Post-Quantum Lattice-based Cryptosystem on RISC-V Platform",  Workshop on Secure Cryptographic Implementation in the 21th International Conference on Applied Cryptography and Network Security (SCI-ACNS), **accepted to appear**.
 
 1. **[Jour-IEEESYSTJ2023]** Kai Wang, Kaisheng Sun, **Jiankuo Dong**, Letian Sha and Fu Xiao *, “AP-CDE: Cost-efficient Authentication Protocol for Cross-domain Data Exchange in IIoT”, IEEE Systems Journal (IPCADS), **accepted to appear**.
 
-1. **[Jour-电信科学2023]** Fuyuan Chen (陈滏媛), Zhenjiang Dong *（董振江）,  **Jiankuo Dong （董建阔）**,Xumin Jie （徐敏杰）, A survey of Internet of vehicles security protection technologies (车联网安全防护技术综述), Telecommunications Science (电信科学), **accepted to appear**.
+1. **[Jour-电信科学2023]** Fuyuan Chen (陈滏媛), Zhenjiang Dong *（董振江）,  **Jiankuo Dong （董建阔）**, Xumin Jie （徐敏杰）, A survey of Internet of vehicles security protection technologies (车联网安全防护技术综述), Telecommunications Science (电信科学), **accepted to appear**.
 
 1. **[Jour-密码学报2023]** Zhenya liu (刘振亚), Jingqiang Lin *（林璟锵）, Xuhua Bao (鲍旭华),**Jiankuo Dong （董建阔）**, An ECQV-Schnorr signature aggregation scheme with fast error detections in verification for the BSMs of IoV (用于车联网BSM消息的ECQV-Schnorr签名聚合及快速验证检错方案), Journal of Cryptologic Research (密码学报), **accepted to appear**.
 
@@ -22,7 +33,7 @@ Published and Accepted Papers
 
 1. **[Jour-JNNA2023]** Pinchang Zhang, Ji He, **Jiankuo Dong** *, Letian Sha, "Joint Frequency Offset and Channel Estimation for NB-IoT Systems", Journal of Networking and Network Applications (JNNA). 2023,[doi: 2. 10.33969/J-NaNA.2022.020201].
 
-1. **[Jour-Ad Hoc Networks2023]** Yulin Teng, Huangwenqing Shi, Pinchang Zhang*, **Jiankuo Dong**, Fu Xiao, "PHY-layer authentication exploiting CFO for smart healthcare systems with mmWave communication technology", Ad Hoc Networks, 2023,  **accepted to appear**.
+1. **[Jour-AdHoc Networks2023]** Yulin Teng, Huangwenqing Shi, Pinchang Zhang*, **Jiankuo Dong**, Fu Xiao, "PHY-layer authentication exploiting CFO for smart healthcare systems with mmWave communication technology", Ad Hoc Networks, 2023,  **accepted to appear**.
 
 1. **[Conf-ICPADS2022]** **Jiankuo Dong**, Sheng Lu, Pinchang Zhang, Fangyu Zheng and Fu Xiao *, “G-SM3: High-Performance Implementation of GPU-based SM3 Hash Function”, IEEE International Conference on Parallel and Distributed Systems (IPCADS), **accepted to appear**.
 
