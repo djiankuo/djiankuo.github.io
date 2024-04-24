@@ -9,6 +9,7 @@ author_profile: true
 Published and Accepted Papers
 ======
 
+1. **[Jour-IEEE TII2024]**Xingjian Zhu, **Jiankuo Dong**, Jin Qi, Zhenguo Zhou, Zhenjiang Dong, Yanfei Sun "AUTH: An Adversarial Autoencoder based Unsupervised Insider Threat Detection Scheme for Multi-Source Logs", IEEE Transactions on Industrial Informatics （TII）, **accepted to appear**.
 
 1. **[Jour-CMC2024]**Zhenjiang Dong, Xin Ge, Yuehua Huang, **Jiankuo Dong**, Jiang Xu, "EG-STC: An Efficient Secure Two-party Computation Scheme Based on Embedded GPU for Artificial Intelligence Systems", CMC-Computers, Materials & Continua, **accepted to appear**
 
@@ -28,7 +29,7 @@ Published and Accepted Papers
 
 1. **[Conf-SCI-ACNS2023]** Haosong Zhao, Rui Su, Rui Lin, **Jiankuo Dong** and Donglong Chen*, "Efficient Arithmetic for Polynomial Multiplication in Post-Quantum Lattice-based Cryptosystem on RISC-V Platform",  Workshop on Secure Cryptographic Implementation in the 21th International Conference on Applied Cryptography and Network Security (SCI-ACNS), **accepted to appear**.
 
-1. **[Jour-IEEESYSTJ2023]** Kai Wang, Kaisheng Sun, **Jiankuo Dong**, Letian Sha and Fu Xiao *, “AP-CDE: Cost-efficient Authentication Protocol for Cross-domain Data Exchange in IIoT”, IEEE Systems Journal (IPCADS), **accepted to appear**.
+1. **[Jour-IEEESYSTJ2023]** Kai Wang, Kaisheng Sun, **Jiankuo Dong**, Letian Sha and Fu Xiao *, “AP-CDE: Cost-efficient Authentication Protocol for Cross-domain Data Exchange in IIoT”, IEEE Systems Journal, **accepted to appear**.
 
 1. **[Jour-电信科学2023]** Fuyuan Chen (陈滏媛), Zhenjiang Dong *（董振江）,  **Jiankuo Dong （董建阔）**, Xumin Jie （徐敏杰）, A survey of Internet of vehicles security protection technologies (车联网安全防护技术综述), Telecommunications Science (电信科学), **accepted to appear**.
 
