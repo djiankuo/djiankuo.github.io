@@ -13,6 +13,10 @@ Published and Accepted Papers
 
 1. **[Jour-CMC2024]**Zhenjiang Dong, Xin Ge, Yuehua Huang, **Jiankuo Dong**, Jiang Xu, "EG-STC: An Efficient Secure Two-party Computation Scheme Based on Embedded GPU for Artificial Intelligence Systems", CMC-Computers, Materials & Continua, **accepted to appear**
 
+1. **[Jour-electronics2024]**
+Bowen Xu, Zhijintong Zhang, Aozhuo Sun, Juanjuan Guo, Zihan Wang, Bingyu Li, **Jiankuo Dong**, Shijie Jia and Li Song, "T-FIM: Transparency in Federated Identity Management for
+Decentralized Trust and Forensics Investigation", Electronics, 2023, 12(17).
+
 1. **[Jour-IEEE TCOMM2024]**  Yulin Teng, Pinchang Zhang, Yangyang Liu, **Jiankuo Dong** and Fu Xiao, "Exploiting Carrier Frequency Offset and Phase Noise for Physical Layer Authentication in UAV-aided Communication Systems", IEEE Transactions on Communications, **accepted to appear**
 
 1. **[Jour-IEEE TPDS2024]** Xinyi Ji, **Jiankuo Dong**, Tonggui Deng, Pinchang Zhang, Jiafeng Hua and Fu Xiao, "HI-Kyber: A novel high-performance implementation scheme of Kyber based on GPU", IEEE Transactions on Parallel and Distributed Systems, **accepted to appear**
