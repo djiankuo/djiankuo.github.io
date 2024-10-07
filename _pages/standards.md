@@ -166,19 +166,20 @@ author_profile: true
 Supervised Students 
 ======
 
+
 1. Xinyi Ji (Ph.D, candidate)
 1. Kai Wang (Ph.D, candidate)
 1. Fuyuan Chen (Ph.D, candidate)
 1. Xingjian Zhu (Ph.D, candidate)
-1. Tianyu Mao (Master, candidate)
-1. Yiru Xiang (Master, candidate)
-1. Sheng Lu (Master, candidate)
-1. Kaisheng Sun (Master, candidate)
-1. Zhenguo Zhou (Master, candidate)
-1. Xin Ge (Master, candidate)
-1. Hui Li (Master, candidate)
-1. Peng Dai (Master, candidate)
-1. Qingbo Ye (Master, candidate)
+1. Tianyu Mao (Master, candidate, graduated)
+1. Yiru Xiang (Master, candidate, graduated)
+1. Sheng Lu (Master, candidate, graduated)
+1. Kaisheng Sun (Master, candidate, graduated)
+1. Zhenguo Zhou (Master, candidate, graduated)
+1. Xin Ge (Master, candidate, graduated)
+1. Hui Li (Master, candidate, graduated)
+1. Peng Dai (Master, candidate, graduated)
+1. Qingbo Ye (Master, candidate, graduated)
 1. Yuehua Huang (Master, candidate)
 1. Yusheng Fu (Master, candidate)
 1. Gangqing Wu (Master, candidate)
@@ -193,6 +194,16 @@ Supervised Students
 1. Tonggui Deng (Master, candidate)
 1. Zhijian Yuan (Master, candidate)
 1. Xusheng Qin (Master, candidate)
+1. Ruihao Dai (Master, candidate)
+1. Mingrui Qiu (Master, candidate)
+1. Zhen Xu (Master, candidate)
+1. Linfeng Zhou (Master, candidate)
+1. Lunjie Li (Master, candidate)
+1. Siyuan Zhou (Master, candidate)
+1. Mengke Liu (Master, candidate)
+1. Zhechen Zhu (Master, candidate)
+1. Rui Fang (Master, candidate)
+1. Jiaqi Wang (Master, candidate)
 
 
 

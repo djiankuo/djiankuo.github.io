@@ -9,12 +9,22 @@ author_profile: true
 Published and Accepted Papers
 ======
 
+
+1. **[Jour-IEEE TC2024]**Xinyi Ji, **Jiankuo Dong**, Junhao Huang, Zhijian Yuan, Wangchen Dai, Fu Xiao, Jingqiang Lin, "ECO-CRYSTALS: Efficient Cryptography CRYSTALS on Standard RISC-V ISA Cryptology" IEEE Transactions on Computers, 2024, **accepted to appear**.
+
+1. **[Jour-IEEE TC2024]**Yi Bian, Fangyu Zheng, Yuewu Wang, Lingguang Lei, Yuan Ma, **Jiankuo Dong**, Guang Fan, Jiwu Jing, "AsyncGBP+: Bridging SSL/TLS and Heterogeneous Computing Power with GPU-based Providers" IEEE Transactions on Computers, 2024, **accepted to appear**.
+
+1. **[Jour-IEEE TOMM2024]**Letian Sha, Xiao Chen, Fu Xiao, Zhong Wang, Zhangbo Long, Qianyu Fan, **Jiankuo Dong**, "VRVul-Discovery: BiLSTM-based Vulnerability Discovery for Virtual Reality Devices in Metaverse", ACM Transactions on Multimedia Computing, Communications and Applications, 2024.
+
+1. **[Jour-IEEE TIFS2024]****Jiankuo Dong**; Yusheng Fu; Xusheng Qin; Zhenjiang Dong; Fu Xiao; Jingqiang Lin, "ECO-BIKE: Bridging the Gap Between PQC BIKE And GPU Acceleration" IEEE Transactions on Information Forensics and Security, 2024, **accepted to appear**
+
+1. **[Jour-IEEE FGCS2024]**Kai Wang; **Jiankuo Dong**; Yijie Xu; Xinyi Ji; Letian Sha; Fu Xiao, "READ: Resource efficient authentication scheme for digital twin edge networks"	Future Generation Computer Systems,	2025, **accepted to appear**
+
 1. **[Jour-IEEE TII2024]**Xingjian Zhu, **Jiankuo Dong**, Jin Qi, Zhenguo Zhou, Zhenjiang Dong, Yanfei Sun "AUTH: An Adversarial Autoencoder based Unsupervised Insider Threat Detection Scheme for Multi-Source Logs", IEEE Transactions on Industrial Informatics （TII）, **accepted to appear**.
 
 1. **[Jour-CMC2024]**Zhenjiang Dong, Xin Ge, Yuehua Huang, **Jiankuo Dong**, Jiang Xu, "EG-STC: An Efficient Secure Two-party Computation Scheme Based on Embedded GPU for Artificial Intelligence Systems", CMC-Computers, Materials & Continua, **accepted to appear**
 
-1. **[Jour-electronics2024]**
-Bowen Xu, Zhijintong Zhang, Aozhuo Sun, Juanjuan Guo, Zihan Wang, Bingyu Li, **Jiankuo Dong**, Shijie Jia and Li Song, "T-FIM: Transparency in Federated Identity Management for
+1. **[Jour-electronics2024]**Bowen Xu, Zhijintong Zhang, Aozhuo Sun, Juanjuan Guo, Zihan Wang, Bingyu Li, **Jiankuo Dong**, Shijie Jia and Li Song, "T-FIM: Transparency in Federated Identity Management for
 Decentralized Trust and Forensics Investigation", Electronics, 2023, 12(17).
 
 1. **[Jour-IEEE TCOMM2024]**  Yulin Teng, Pinchang Zhang, Yangyang Liu, **Jiankuo Dong** and Fu Xiao, "Exploiting Carrier Frequency Offset and Phase Noise for Physical Layer Authentication in UAV-aided Communication Systems", IEEE Transactions on Communications, **accepted to appear**

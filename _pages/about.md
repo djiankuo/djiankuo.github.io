@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a lecture in School of Computer Science, Nanjing University of Posts and Telecommunications (NJUPT).
+I am a associate professor in School of Computer Science, Nanjing University of Posts and Telecommunications (NJUPT).
 
 My research interests lie in the general area of cryptography and security, particularly in applied cryptography, cryptographic engineering, as well as high performance parallel computing. My publications include TECS, IPDPS, TIFS, ACSAC, SCN, WASA, etc.
 
@@ -28,25 +28,29 @@ Education
 Work Experience
 ======
 
-* 2020.10 ~ Present, Lecture, Nanjing University of Posts and Telecommunications.
-- 2020.10 至今，讲师，南京邮电大学，计算机学院。
+
+
+* 2024.09 ~ Present, Associate professor, Nanjing University of Posts and Telecommunications.
+- 2024.09 至今，副教授，南京邮电大学，计算机学院。
+* 2020.10 ~ 2024.09, Lecture, Nanjing University of Posts and Telecommunications.
+- 2020.10 ~ 2024.09，讲师，南京邮电大学，计算机学院。
 * 2019.07 ~ 2020.09: Senior Engineer, Huawei Technology Co., Ltd.
 - 2019.07 ~ 2020.09，高级工程师，华为技术有限公司，消费者BG。
 
 
 Latest Publications
 ======
-1. **[Conf-ICPADS2022]** **Jiankuo Dong**, Sheng Lu, Pinchang Zhang, Fangyu Zheng and Fu Xiao *, “G-SM3: High-Performance Implementation of GPU-based SM3 Hash Function”, IEEE International Conference on Parallel and Distributed Systems, **accepted to appear**.
 
-1. **[Jour-计算机学报]** **Jiankuo Dong**, Zhe Liu*, Sheng Lu, Fangyu Zheng, Jingqiang Lin, Fu Xiao, Chunpeng Ge, “Research Progress on Efficient Software Implementation of Elliptic Curve Cryptography”, Chinese Journal of Computers, **accepted to appear**.
+1. **[Jour-IEEE TC2024]**Xinyi Ji, **Jiankuo Dong**, Junhao Huang, Zhijian Yuan, Wangchen Dai, Fu Xiao, Jingqiang Lin, "ECO-CRYSTALS: Efficient Cryptography CRYSTALS on Standard RISC-V ISA Cryptology" IEEE Transactions on Computers, 2024, **accepted to appear**.
 
-1. **[Jour-TII2022]** **Jiankuo Dong**, Pinchang Zhang, Kaisheng Sun, Fu Xiao*, Fangyu Zheng, Jingqiang Lin, “EG-FourQ: An Embedded GPU based Efficient ECC Cryptography Accelerator for Edge Computing”, IEEE Transactions on Industrial Informatics, **accepted to appear**.
+1. **[Jour-IEEE TC2024]**Yi Bian, Fangyu Zheng, Yuewu Wang, Lingguang Lei, Yuan Ma, **Jiankuo Dong**, Guang Fan, Jiwu Jing, "AsyncGBP+: Bridging SSL/TLS and Heterogeneous Computing Power with GPU-based Providers" IEEE Transactions on Computers, 2024, **accepted to appear**.
 
-1. **[Jour-计算机教育]** **Jiankuo Dong**, Fu Xiao *, Letian Sha, "The teaching design of the cryptography practice course that integrates OBE and PBL in the context of new engineering", **accepted to appear**.
+1. **[Jour-IEEE TOMM2024]**Letian Sha, Xiao Chen, Fu Xiao, Zhong Wang, Zhangbo Long, Qianyu Fan, **Jiankuo Dong**, "VRVul-Discovery: BiLSTM-based Vulnerability Discovery for Virtual Reality Devices in Metaverse", ACM Transactions on Multimedia Computing, Communications and Applications, 2024.
 
-1. **[Jour-IOTJ2022]** **Jiankuo Dong**, Guang Fan, Fangyu Zheng *, Tianyu Mao, Fu Xiao, Jingqiang Lin, "TEGRAS: An Efficient Tegra Embedded GPU based RSA Acceleration Server",  IEEE Internet of Things Journal, [doi: 10.1109/JIOT.2022.3152203](https://ieeexplore.ieee.org/abstract/document/9716069).
+1. **[Jour-IEEE TIFS2024]****Jiankuo Dong**; Yusheng Fu; Xusheng Qin; Zhenjiang Dong; Fu Xiao; Jingqiang Lin, "ECO-BIKE: Bridging the Gap Between PQC BIKE And GPU Acceleration" IEEE Transactions on Information Forensics and Security, 2024, **accepted to appear**
 
-1. **[Jour-TECS2022]** **Jiankuo Dong**, Fangyu Zheng *, Jingqiang Lin, Zhe Liu, Fu Xiao, Guang Fan, "EC-ECC: Accelerating Elliptic Curve Cryptography for Edge Computing on Embedded GPU TX2", ACM Transactions on Embedded Computing Systems (TECS),  [doi: 10.1145/3492734](https://dl.acm.org/doi/abs/10.1145/3492734).
+1. **[Jour-IEEE FGCS2024]**Kai Wang; **Jiankuo Dong**; Yijie Xu; Xinyi Ji; Letian Sha; Fu Xiao, "READ: Resource efficient authentication scheme for digital twin edge networks"	Future Generation Computer Systems,	2025, **accepted to appear**
+
 
 See [full publications](/full-publications/).
 
@@ -108,15 +112,15 @@ Supervised Students
 1. Kai Wang (Ph.D, candidate)
 1. Fuyuan Chen (Ph.D, candidate)
 1. Xingjian Zhu (Ph.D, candidate)
-1. Tianyu Mao (Master, candidate)
-1. Yiru Xiang (Master, candidate)
-1. Sheng Lu (Master, candidate)
-1. Kaisheng Sun (Master, candidate)
-1. Zhenguo Zhou (Master, candidate)
-1. Xin Ge (Master, candidate)
-1. Hui Li (Master, candidate)
-1. Peng Dai (Master, candidate)
-1. Qingbo Ye (Master, candidate)
+1. Tianyu Mao (Master, candidate, graduated)
+1. Yiru Xiang (Master, candidate, graduated)
+1. Sheng Lu (Master, candidate, graduated)
+1. Kaisheng Sun (Master, candidate, graduated)
+1. Zhenguo Zhou (Master, candidate, graduated)
+1. Xin Ge (Master, candidate, graduated)
+1. Hui Li (Master, candidate, graduated)
+1. Peng Dai (Master, candidate, graduated)
+1. Qingbo Ye (Master, candidate, graduated)
 1. Yuehua Huang (Master, candidate)
 1. Yusheng Fu (Master, candidate)
 1. Gangqing Wu (Master, candidate)
@@ -131,6 +135,19 @@ Supervised Students
 1. Tonggui Deng (Master, candidate)
 1. Zhijian Yuan (Master, candidate)
 1. Xusheng Qin (Master, candidate)
+1. Ruihao Dai (Master, candidate)
+1. Mingrui Qiu (Master, candidate)
+1. Zhen Xu (Master, candidate)
+1. Linfeng Zhou (Master, candidate)
+1. Lunjie Li (Master, candidate)
+1. Siyuan Zhou (Master, candidate)
+1. Mengke Liu (Master, candidate)
+1. Zhechen Zhu (Master, candidate)
+1. Rui Fang (Master, candidate)
+1. Jiaqi Wang (Master, candidate)
+
+
+
 
 See [Students](/standards/).
 
