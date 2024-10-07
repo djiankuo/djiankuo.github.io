@@ -13,6 +13,18 @@ I am a associate professor in School of Computer Science, Nanjing University of 
 My research interests lie in the general area of cryptography and security, particularly in applied cryptography, cryptographic engineering, as well as high performance parallel computing. My publications include TECS, IPDPS, TIFS, ACSAC, SCN, WASA, etc.
 
 
+
+Work Experience
+======
+
+* 2024.09 ~ Present, Associate professor, Nanjing University of Posts and Telecommunications.
+- 2024.09 至今，副教授，南京邮电大学，计算机学院。
+* 2020.10 ~ 2024.09, Lecture, Nanjing University of Posts and Telecommunications.
+- 2020.10 ~ 2024.09，讲师，南京邮电大学，计算机学院。
+* 2019.07 ~ 2020.09: Senior Engineer, Huawei Technology Co., Ltd.
+- 2019.07 ~ 2020.09，高级工程师，华为技术有限公司，消费者BG。
+
+
 Education
 ======
 * 2021.12 ~ Present, Post Doctor, Nanjing University of Posts and Telecommunications, Supervised by Prof. [Fu Xiao](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9B9D05C52A832DCFE050007F01006EFE).
@@ -25,17 +37,6 @@ Education
 - 2010.09 ~ 2014.07, 计算机科学与技术 学士， 西安交通大学，电信学院，导师：[钱屹](http://gr.xjtu.edu.cn/web/yqian)副教授.
 
 
-Work Experience
-======
-
-
-
-* 2024.09 ~ Present, Associate professor, Nanjing University of Posts and Telecommunications.
-- 2024.09 至今，副教授，南京邮电大学，计算机学院。
-* 2020.10 ~ 2024.09, Lecture, Nanjing University of Posts and Telecommunications.
-- 2020.10 ~ 2024.09，讲师，南京邮电大学，计算机学院。
-* 2019.07 ~ 2020.09: Senior Engineer, Huawei Technology Co., Ltd.
-- 2019.07 ~ 2020.09，高级工程师，华为技术有限公司，消费者BG。
 
 
 Latest Publications
