@@ -10,15 +10,17 @@ Published and Accepted Papers
 ======
 
 
-1. **[Jour-IEEE TC2024]**Xinyi Ji, **Jiankuo Dong**, Junhao Huang, Zhijian Yuan, Wangchen Dai, Fu Xiao, Jingqiang Lin, "ECO-CRYSTALS: Efficient Cryptography CRYSTALS on Standard RISC-V ISA Cryptology" IEEE Transactions on Computers, 2024, **accepted to appear**.
+1. **[Jour-IEEE TII2024]**Xiao Chen, Letian Sha*, Jincheng Wang, Fu Xiao, **Jiankuo Dong**, “SFO-CID: Structural Feature Optimization Based Command Injection Vulnerability Discovery For Internet of Things”, IEEE Transactions on Industrial Informatics, **accepted to appear**. (Early Access, DOI: 10.1109/TII.2024.3477563) 
 
-1. **[Jour-IEEE TC2024]**Yi Bian, Fangyu Zheng, Yuewu Wang, Lingguang Lei, Yuan Ma, **Jiankuo Dong**, Guang Fan, Jiwu Jing, "AsyncGBP+: Bridging SSL/TLS and Heterogeneous Computing Power with GPU-based Providers" IEEE Transactions on Computers, 2024, **accepted to appear**.
+1. **[Jour-IEEE TC2024]**Xinyi Ji, **Jiankuo Dong***, Junhao Huang, Zhijian Yuan, Wangchen Dai, Fu Xiao, Jingqiang Lin, "ECO-CRYSTALS: Efficient Cryptography CRYSTALS on Standard RISC-V ISA Cryptology", IEEE Transactions on Computers, 2024, **accepted to appear**.
 
-1. **[Jour-IEEE TOMM2024]**Letian Sha, Xiao Chen, Fu Xiao, Zhong Wang, Zhangbo Long, Qianyu Fan, **Jiankuo Dong**, "VRVul-Discovery: BiLSTM-based Vulnerability Discovery for Virtual Reality Devices in Metaverse", ACM Transactions on Multimedia Computing, Communications and Applications, 2024.
+1. **[Jour-IEEE TC2024]**Yi Bian, Fangyu Zheng*, Yuewu Wang, Lingguang Lei, Yuan Ma, **Jiankuo Dong**, Guang Fan, Jiwu Jing, "AsyncGBP+: Bridging SSL/TLS and Heterogeneous Computing Power with GPU-based Providers", IEEE Transactions on Computers, 2024, **accepted to appear**.
 
-1. **[Jour-IEEE TIFS2024]****Jiankuo Dong**; Yusheng Fu; Xusheng Qin; Zhenjiang Dong; Fu Xiao; Jingqiang Lin, "ECO-BIKE: Bridging the Gap Between PQC BIKE And GPU Acceleration" IEEE Transactions on Information Forensics and Security, 2024, **accepted to appear**
+1. **[Jour-IEEE TOMM2024]**Letian Sha, Xiao Chen*, Fu Xiao, Zhong Wang, Zhangbo Long, Qianyu Fan, **Jiankuo Dong**, "VRVul-Discovery: BiLSTM-based Vulnerability Discovery for Virtual Reality Devices in Metaverse", ACM Transactions on Multimedia Computing, Communications and Applications, 2024.
 
-1. **[Jour-IEEE FGCS2024]**Kai Wang; **Jiankuo Dong**; Yijie Xu; Xinyi Ji; Letian Sha; Fu Xiao, "READ: Resource efficient authentication scheme for digital twin edge networks"	Future Generation Computer Systems,	2025, **accepted to appear**
+1. **[Jour-IEEE TIFS2024]****Jiankuo Dong**, Yusheng Fu, Xusheng Qin, Zhenjiang Dong*, Fu Xiao, Jingqiang Lin, "ECO-BIKE: Bridging the Gap Between PQC BIKE And GPU Acceleration", IEEE Transactions on Information Forensics and Security, 2024, **accepted to appear**
+
+1. **[Jour-IEEE FGCS2024]**Kai Wang, **Jiankuo Dong**, Yijie Xu, Xinyi Ji, Letian Sha, Fu Xiao, "READ: Resource efficient authentication scheme for digital twin edge networks",	Future Generation Computer Systems,	2025, **accepted to appear**
 
 1. **[Jour-IEEE TII2024]**Xingjian Zhu, **Jiankuo Dong**, Jin Qi, Zhenguo Zhou, Zhenjiang Dong, Yanfei Sun "AUTH: An Adversarial Autoencoder based Unsupervised Insider Threat Detection Scheme for Multi-Source Logs", IEEE Transactions on Industrial Informatics （TII）, **accepted to appear**.
 
@@ -35,7 +37,7 @@ Decentralized Trust and Forensics Investigation", Electronics, 2023, 12(17).
 
 1. **[Conf-Inscrypt2023]** Biao Gao, Shijie Jia, **Jiankuo Dong** and Peixin Ren, "XPORAM: A Practical Multi-Client ORAM against Malicious Adversaries", 19th International Conference on Information Security and Cryptology (Inscrypt), 2023, **accepted to appear**
 
-1. **[Conf-ICPP2023]** Yi Bian, Fangyu Zheng *, Yuewu Wang, Lingguang Lei, Yuan Ma, **Jiankuo Dong**, Jiwu Jing, “AsyncGBP: Unleashing the Potential of Heterogeneous Computing for SSL/TLS with GPU-based Provider”. 52nd ACM The International Conference on Parallel Processing (ICPP), 2023, doi: 10.1145/3605573.3605620.
+1. **[Conf-ICPP2023]** Yi Bian, Fangyu Zheng *, Yuewu Wang, Lingguang Lei, Yuan Ma, **Jiankuo Dong**, Jiwu Jing, “AsyncGBP: Unleashing the Potential of Heterogeneous Computing for SSL/TLS with GPU-based Provider”, 52nd ACM The International Conference on Parallel Processing (ICPP), 2023, doi: 10.1145/3605573.3605620.
 
 1. **[Jour-软件学报2024]** **Jiankuo Dong (董建阔)**, Yuehua Huang （黄跃花）, Yusheng Fu（付宇笙）, Fu Xiao*（肖甫）, Fangyu Zheng（郑昉昱）, Jingqiang Lin（林璟锵）, Zhenjing Dong（董振江）, Research Progress in High Performance Cryptographic Computing Technology Based on Heterogeneous Multicore GPUs, **accepted to appear**.
 
