@@ -9,6 +9,10 @@ author_profile: true
 Published and Accepted Papers
 ======
 
+1. **[Jour-IEEE JCST2025]** **Jiankuo Dong**, Wen Wu, Sheng Lu, Letian Sha, Fangyu Zheng, Fu Xiao, Huaqun Wang, “HI-SM3: High-Performance Implementation of SM3 Hash Function on Heterogeneous GPUs”, Journal of Computer Science and Technology (JCST), 2025, **accepted to appear**.
+1. **[Jour-IEEE TVT2025]** Kai Wang, **Jiankuo Dong**, Shiqin Wang, Zhijian Yuan, Letian Sha*, and Fu Xiao, “RSAKA-VDT: Designing Reliable and Provably Secure Authenticated Key Agreement Scheme for Vehicular Digital Twin Networks”, IEEE Transactions on Vehicular Technology, **accepted to appear**.
+
+1. **[Jour-计算机研究与发展2025]** Yijing Ning（宁祎静）, **Jiankuo Dong***, Siyuan Zhou（周思源）, Jingqiang Lin（林璟锵）, Siwei Sun（孙思维）, Fangyu Zheng（郑昉昱）, Chunpeng Ge（葛春鹏）, "High-performance Optimization of SPHINCS+-SM3 Implementation Based on Domestic Deep Computing Unit (DCU)" Journal of Computer Research and Development, 2025, **accepted to appear**.
 
 1. **[Jour-IEEE TII2024]**Xiao Chen, Letian Sha*, Jincheng Wang, Fu Xiao, **Jiankuo Dong**, “SFO-CID: Structural Feature Optimization Based Command Injection Vulnerability Discovery For Internet of Things”, IEEE Transactions on Industrial Informatics, **accepted to appear**. (Early Access, DOI: 10.1109/TII.2024.3477563) 
 
