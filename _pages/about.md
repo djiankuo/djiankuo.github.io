@@ -44,13 +44,14 @@ Latest Publications
 
 1. **[Jour-IEEE TC2024]**Xinyi Ji, **Jiankuo Dong**, Junhao Huang, Zhijian Yuan, Wangchen Dai, Fu Xiao, Jingqiang Lin, "ECO-CRYSTALS: Efficient Cryptography CRYSTALS on Standard RISC-V ISA Cryptology" IEEE Transactions on Computers, 2024, **accepted to appear**.
 
-1. **[Jour-IEEE TC2024]**Yi Bian, Fangyu Zheng, Yuewu Wang, Lingguang Lei, Yuan Ma, **Jiankuo Dong**, Guang Fan, Jiwu Jing, "AsyncGBP+: Bridging SSL/TLS and Heterogeneous Computing Power with GPU-based Providers" IEEE Transactions on Computers, 2024, **accepted to appear**.
-
-1. **[Jour-IEEE TOMM2024]**Letian Sha, Xiao Chen, Fu Xiao, Zhong Wang, Zhangbo Long, Qianyu Fan, **Jiankuo Dong**, "VRVul-Discovery: BiLSTM-based Vulnerability Discovery for Virtual Reality Devices in Metaverse", ACM Transactions on Multimedia Computing, Communications and Applications, 2024.
-
 1. **[Jour-IEEE TIFS2024]****Jiankuo Dong**; Yusheng Fu; Xusheng Qin; Zhenjiang Dong; Fu Xiao; Jingqiang Lin, "ECO-BIKE: Bridging the Gap Between PQC BIKE And GPU Acceleration" IEEE Transactions on Information Forensics and Security, 2024, **accepted to appear**
 
-1. **[Jour-IEEE FGCS2024]**Kai Wang; **Jiankuo Dong**; Yijie Xu; Xinyi Ji; Letian Sha; Fu Xiao, "READ: Resource efficient authentication scheme for digital twin edge networks"	Future Generation Computer Systems,	2025, **accepted to appear**
+1. **[Jour-IEEE JCST2025]** **Jiankuo Dong**, Wen Wu, Sheng Lu, Letian Sha, Fangyu Zheng, Fu Xiao, Huaqun Wang, “HI-SM3: High-Performance Implementation of SM3 Hash Function on Heterogeneous GPUs”, Journal of Computer Science and Technology (JCST), 2025, **accepted to appear**.
+
+1. **[Jour-计算机研究与发展2025]** Yijing Ning（宁祎静）, **Jiankuo Dong (董建阔)***, Siyuan Zhou（周思源）, Jingqiang Lin（林璟锵）, Siwei Sun（孙思维）, Fangyu Zheng（郑昉昱）, Chunpeng Ge（葛春鹏）, "High-performance Optimization of SPHINCS+-SM3 Implementation Based on Domestic Deep Computing Unit (DCU)" Journal of Computer Research and Development, 2025, **accepted to appear**.
+
+1. **[Jour-IEEE TPDS2024]** Xinyi Ji, **Jiankuo Dong**, Tonggui Deng, Pinchang Zhang, Jiafeng Hua and Fu Xiao, "HI-Kyber: A novel high-performance implementation scheme of Kyber based on GPU", IEEE Transactions on Parallel and Distributed Systems, **accepted to appear**
+
 
 
 See [full publications](/full-publications/).
@@ -79,14 +80,17 @@ Fundings and Projects (PI)
 1. Jiangsu Provincial Double-Innovation Doctor Program.
 - 江苏省双创博士计划
 
-1. Open Foundation of National Engineering Laboratory for Mobile Internet System and Application Security.
-- 移动互联网系统与应用安全国家工程实验室开放课题
+1. Huawei Industry-University-Research Cooperation Project
+- 华为产学研合作项目
 
-1. Open Foundation of Guangxi Key Laboratory of Cryptography and Information Security.
-- 广西密码学与信息安全重点实验室开放课题
+1. CCF-Rhinoceros Bird Fund
+- CCF-犀牛鸟基金
 
-1. Open Foundation of Henan Key Laboratory of Cyberspace Situation Awareness
-- 河南省网络空间态势感知重点实验室开放课题
+1. Jiangsu Province Double Innovation Doctor Program
+- 江苏省双创博士计划
+
+1. The First Batch of Projects of the China Telecom-Nanjing University of Posts and Telecommunications Joint Research Institute - Situation Awareness Special Project
+- 中国电信-南京邮电大学联合研究院首批项目-态势感知专项（189 万）
 
 1. Transverse Project of Jiangsu Future Networks Innovation Institute
 - 江苏省未来网络创新研究院横向课题
@@ -95,12 +99,17 @@ Fundings and Projects (PI)
 Acadamic Services 
 ======
 
-1. EAI AC3 2022 Reviewer
-1. ACNS-SCI 2022 PC Member
+1. International Conference on Information Security and Cryptology（Inscrypt） （PC member，会议程序委员会委员）
+1. International Conference on Risks and Security of Internet and Systems （PC member，会议程序委员会委员）
+1. Workshop on Secure Cryptographic Implementation in conjunction with ACNS（2021-2023）（PC member，会议程序委员会委员）
+1. IEEE Internet of Things Journal Reviewer
+1. Journal of Systems Architecture Reviewer
+1. Journal of Cryptographic Engineering Reviewer
 1. COMPUTER STANDARDS & INTERFACES Reviewer
-1. CRiSIS 2021 PC Member
-1. ACNS-SCI 2021 PC Member
-1. ACNS-SCI 2020 PC Member
+1. Wireless Communications and Mobile Computing Reviewer
+1. 2nd EAI International Conference on Applied Cryptography in Computer and Communications Reviewer
+1. Computer & Network Excellent Reviewer
+
 
 
 Supervised Students 
