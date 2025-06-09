@@ -9,6 +9,14 @@ author_profile: true
 Published and Accepted Papers
 ======
 
+1. **[Jour-IEEE TII2025]** **Jiankuo Dong**, Jie Wei, Xiaoyu Hu, Zhenjiang Dong, Fuyuan Chen, Xin Hu, Jin Qi, “DDCC: Synergizing Denoising Diffusion Probabilistic Models and Curriculum-based Complexity Control for Insider Threat Detection”, IEEE Transactions on Industrial Informatics（IEEE TII）, 2025, accepted to appear.
+
+1. **[Jour-IEEE TDSC2025]**, Xingpeng Huo , Fu Xiao , **Jiankuo Dong**, Jianwen Liu , Shang Wu , Ziyue Su, "AWDP-Automated Windows Domain Penetration Framework with Deep Reinforcement Learning",IEEE Transactions on Dependable and Secure Computing (IEEE TDSC),  2025, accepted to appear.
+
+1. **[Jour-IEEE TPDS2025]** Fangyu Zheng, Guang Fan, Wenxu Tang, Yixuan Song, Tian Zhou, Yuan Zhao, **Jiankuo Dong**, Jingqiang Lin, Shoumeng Yan, Jiwu Jing, “GIF-FHE: A Comprehensive Implementation and Evaluation of GPU-accelerated FHE with Integer and Floating-point Computing Power”, IEEE Transactions on Parallel and Distributed Systems (TPDS), 2025, accepted to appear.
+
+1. **[Jour-通信学报2025]** Wen Wu(吴雯)、**Jiankuo Dong*(董建阔)**、Pengbo Liu(刘鹏博)、Zhenjiang Dong(董振江)、Xin Hu(胡昕)、Pinchang Zhang (张品昌)、Fu Xiao(肖甫)，High-performance parallel acceleration method for public keycryptographic algorithm SM2 based on domestic GPU，基于国产GPU的国产公钥密码SM2高性能并行加速方法，Journal on Communications(通信学报).
+
 1. **[Jour-IEEE JCST2025]** **Jiankuo Dong**, Wen Wu, Sheng Lu, Letian Sha, Fangyu Zheng, Fu Xiao, Huaqun Wang, “HI-SM3: High-Performance Implementation of SM3 Hash Function on Heterogeneous GPUs”, Journal of Computer Science and Technology (JCST), 2025, **accepted to appear**.
 
 1. **[Jour-IEEE TII2024]** Lingjia Meng, Yu Fu, Fangyu Zheng, Mingyu Wang, Ziqiang Ma, **Jiankuo Dong**, Jingqiang Lin, "HTM-PQC: Hardening Cryptography Keys Under the Trend of Post-Quantum Cryptography Migration on Industrial Internet", IEEE Transactions on Industrial Informatics, 2025
