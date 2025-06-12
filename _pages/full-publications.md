@@ -11,7 +11,7 @@ Published and Accepted Papers
 
 1. **[Jour-IEEE TII2025]** **Jiankuo Dong**, Jie Wei, Xiaoyu Hu, Zhenjiang Dong, Fuyuan Chen, Xin Hu, Jin Qi, “DDCC: Synergizing Denoising Diffusion Probabilistic Models and Curriculum-based Complexity Control for Insider Threat Detection”, IEEE Transactions on Industrial Informatics（IEEE TII）, 2025, accepted to appear.
 
-1. **[Jour-IEEE TDSC2025]**, Xingpeng Huo , Fu Xiao , **Jiankuo Dong**, Jianwen Liu , Shang Wu , Ziyue Su, "AWDP-Automated Windows Domain Penetration Framework with Deep Reinforcement Learning",IEEE Transactions on Dependable and Secure Computing (IEEE TDSC),  2025, accepted to appear.
+1. **[Jour-IEEE TDSC2025]** Letian Sha, Xingpeng Huo , Fu Xiao , **Jiankuo Dong**, Jianwen Liu , Shang Wu , Ziyue Su, "AWDP-Automated Windows Domain Penetration Framework with Deep Reinforcement Learning",IEEE Transactions on Dependable and Secure Computing (IEEE TDSC),  2025, accepted to appear.
 
 1. **[Jour-IEEE TPDS2025]** Fangyu Zheng, Guang Fan, Wenxu Tang, Yixuan Song, Tian Zhou, Yuan Zhao, **Jiankuo Dong**, Jingqiang Lin, Shoumeng Yan, Jiwu Jing, “GIF-FHE: A Comprehensive Implementation and Evaluation of GPU-accelerated FHE with Integer and Floating-point Computing Power”, IEEE Transactions on Parallel and Distributed Systems (TPDS), 2025, accepted to appear.
 
@@ -25,26 +25,26 @@ Published and Accepted Papers
 
 1. **[Jour-计算机研究与发展2025]** Yijing Ning（宁祎静）, **Jiankuo Dong (董建阔)***, Siyuan Zhou（周思源）, Jingqiang Lin（林璟锵）, Siwei Sun（孙思维）, Fangyu Zheng（郑昉昱）, Chunpeng Ge（葛春鹏）, "High-performance Optimization of SPHINCS+-SM3 Implementation Based on Domestic Deep Computing Unit (DCU)" Journal of Computer Research and Development, 2025, **accepted to appear**.
 
-1. **[Jour-IEEE TII2024]**Xiao Chen, Letian Sha*, Jincheng Wang, Fu Xiao, **Jiankuo Dong**, “SFO-CID: Structural Feature Optimization Based Command Injection Vulnerability Discovery For Internet of Things”, IEEE Transactions on Industrial Informatics, **accepted to appear**. (Early Access, DOI: 10.1109/TII.2024.3477563) 
+1. **[Jour-IEEE TII2024]** Xiao Chen, Letian Sha*, Jincheng Wang, Fu Xiao, **Jiankuo Dong**, “SFO-CID: Structural Feature Optimization Based Command Injection Vulnerability Discovery For Internet of Things”, IEEE Transactions on Industrial Informatics, **accepted to appear**. (Early Access, DOI: 10.1109/TII.2024.3477563) 
 
-1. **[Jour-IEEE TC2024]**Xinyi Ji, **Jiankuo Dong***, Junhao Huang, Zhijian Yuan, Wangchen Dai, Fu Xiao, Jingqiang Lin, "ECO-CRYSTALS: Efficient Cryptography CRYSTALS on Standard RISC-V ISA Cryptology", IEEE Transactions on Computers, 2024, **accepted to appear**.
+1. **[Jour-IEEE TC2024]** Xinyi Ji, **Jiankuo Dong***, Junhao Huang, Zhijian Yuan, Wangchen Dai, Fu Xiao, Jingqiang Lin, "ECO-CRYSTALS: Efficient Cryptography CRYSTALS on Standard RISC-V ISA Cryptology", IEEE Transactions on Computers, 2024, **accepted to appear**.
 
-1. **[Jour-IEEE TC2024]**Yi Bian, Fangyu Zheng*, Yuewu Wang, Lingguang Lei, Yuan Ma, **Jiankuo Dong**, Guang Fan, Jiwu Jing, "AsyncGBP+: Bridging SSL/TLS and Heterogeneous Computing Power with GPU-based Providers", IEEE Transactions on Computers, 2024, **accepted to appear**.
+1. **[Jour-IEEE TC2024]** Yi Bian, Fangyu Zheng*, Yuewu Wang, Lingguang Lei, Yuan Ma, **Jiankuo Dong**, Guang Fan, Jiwu Jing, "AsyncGBP+: Bridging SSL/TLS and Heterogeneous Computing Power with GPU-based Providers", IEEE Transactions on Computers, 2024, **accepted to appear**.
 
-1. **[Jour-IEEE TOMM2024]**Letian Sha, Xiao Chen*, Fu Xiao, Zhong Wang, Zhangbo Long, Qianyu Fan, **Jiankuo Dong**, "VRVul-Discovery: BiLSTM-based Vulnerability Discovery for Virtual Reality Devices in Metaverse", ACM Transactions on Multimedia Computing, Communications and Applications, 2024.
+1. **[Jour-IEEE TOMM2024]** Letian Sha, Xiao Chen*, Fu Xiao, Zhong Wang, Zhangbo Long, Qianyu Fan, **Jiankuo Dong**, "VRVul-Discovery: BiLSTM-based Vulnerability Discovery for Virtual Reality Devices in Metaverse", ACM Transactions on Multimedia Computing, Communications and Applications, 2024.
 
-1. **[Jour-IEEE TIFS2024]****Jiankuo Dong**, Yusheng Fu, Xusheng Qin, Zhenjiang Dong*, Fu Xiao, Jingqiang Lin, "ECO-BIKE: Bridging the Gap Between PQC BIKE And GPU Acceleration", IEEE Transactions on Information Forensics and Security, 2024, **accepted to appear**
+1. **[Jour-IEEE TIFS2024]** **Jiankuo Dong**, Yusheng Fu, Xusheng Qin, Zhenjiang Dong*, Fu Xiao, Jingqiang Lin, "ECO-BIKE: Bridging the Gap Between PQC BIKE And GPU Acceleration", IEEE Transactions on Information Forensics and Security, 2024, **accepted to appear**
 
-1. **[Jour-IEEE FGCS2024]**Kai Wang, **Jiankuo Dong**, Yijie Xu, Xinyi Ji, Letian Sha, Fu Xiao, "READ: Resource efficient authentication scheme for digital twin edge networks",	Future Generation Computer Systems,	2025, **accepted to appear**
+1. **[Jour-IEEE FGCS2024]** Kai Wang, **Jiankuo Dong**, Yijie Xu, Xinyi Ji, Letian Sha, Fu Xiao, "READ: Resource efficient authentication scheme for digital twin edge networks",	Future Generation Computer Systems,	2025, **accepted to appear**
 
-1. **[Jour-IEEE TII2024]**Xingjian Zhu, **Jiankuo Dong**, Jin Qi, Zhenguo Zhou, Zhenjiang Dong, Yanfei Sun "AUTH: An Adversarial Autoencoder based Unsupervised Insider Threat Detection Scheme for Multi-Source Logs", IEEE Transactions on Industrial Informatics （TII）, **accepted to appear**.
+1. **[Jour-IEEE TII2024]** Xingjian Zhu, **Jiankuo Dong**, Jin Qi, Zhenguo Zhou, Zhenjiang Dong, Yanfei Sun "AUTH: An Adversarial Autoencoder based Unsupervised Insider Threat Detection Scheme for Multi-Source Logs", IEEE Transactions on Industrial Informatics （TII）, **accepted to appear**.
 
-1. **[Jour-CMC2024]**Zhenjiang Dong, Xin Ge, Yuehua Huang, **Jiankuo Dong**, Jiang Xu, "EG-STC: An Efficient Secure Two-party Computation Scheme Based on Embedded GPU for Artificial Intelligence Systems", CMC-Computers, Materials & Continua, **accepted to appear**
+1. **[Jour-CMC2024]** Zhenjiang Dong, Xin Ge, Yuehua Huang, **Jiankuo Dong**, Jiang Xu, "EG-STC: An Efficient Secure Two-party Computation Scheme Based on Embedded GPU for Artificial Intelligence Systems", CMC-Computers, Materials & Continua, **accepted to appear**
 
-1. **[Jour-electronics2024]**Bowen Xu, Zhijintong Zhang, Aozhuo Sun, Juanjuan Guo, Zihan Wang, Bingyu Li, **Jiankuo Dong**, Shijie Jia and Li Song, "T-FIM: Transparency in Federated Identity Management for
+1. **[Jour-electronics2024]** Bowen Xu, Zhijintong Zhang, Aozhuo Sun, Juanjuan Guo, Zihan Wang, Bingyu Li, **Jiankuo Dong**, Shijie Jia and Li Song, "T-FIM: Transparency in Federated Identity Management for
 Decentralized Trust and Forensics Investigation", Electronics, 2023, 12(17).
 
-1. **[Jour-IEEE TCOMM2024]**  Yulin Teng, Pinchang Zhang, Yangyang Liu, **Jiankuo Dong** and Fu Xiao, "Exploiting Carrier Frequency Offset and Phase Noise for Physical Layer Authentication in UAV-aided Communication Systems", IEEE Transactions on Communications, **accepted to appear**
+1. **[Jour-IEEE TCOMM2024]** Yulin Teng, Pinchang Zhang, Yangyang Liu, **Jiankuo Dong** and Fu Xiao, "Exploiting Carrier Frequency Offset and Phase Noise for Physical Layer Authentication in UAV-aided Communication Systems", IEEE Transactions on Communications, **accepted to appear**
 
 1. **[Jour-IEEE TPDS2024]** Xinyi Ji, **Jiankuo Dong**, Tonggui Deng, Pinchang Zhang, Jiafeng Hua and Fu Xiao, "HI-Kyber: A novel high-performance implementation scheme of Kyber based on GPU", IEEE Transactions on Parallel and Distributed Systems, **accepted to appear**
 
@@ -108,7 +108,7 @@ Decentralized Trust and Forensics Investigation", Electronics, 2023, 12(17).
 
 1. **[Conf-CNS2018]** **Jiankuo Dong**, Fangyu Zheng *, Juanjuan Cheng, Jingqiang Lin, Wuqiong Pan, Ziyang Wang, “Towards High-performance X25519/448 Key Agreement in General Purpose GPUs”, 6th IEEE Conf on Communications and Network Security (CNS), 2018. [doi: 10.1109/CNS.2018.8433161](https://ieeexplore.ieee.org/abstract/document/8433161)
 
-1. **[Conf-WASA2018]**  Shiran Pan, Qiongxiao Wang, Fangyu Zheng *, **Jiankuo Dong**, "Secure and Efficient Outsourcing of Large-scale Matrix Inverse Computation", 13th International Conf on Wireless Algorithms, Systems, and Applications (WASA), 2018. [doi: 10.1007/978-3-319-94268-1_31](https://link.springer.com/chapter/10.1007/978-3-319-94268-1_31)
+1. **[Conf-WASA2018]** Shiran Pan, Qiongxiao Wang, Fangyu Zheng *, **Jiankuo Dong**, "Secure and Efficient Outsourcing of Large-scale Matrix Inverse Computation", 13th International Conf on Wireless Algorithms, Systems, and Applications (WASA), 2018. [doi: 10.1007/978-3-319-94268-1_31](https://link.springer.com/chapter/10.1007/978-3-319-94268-1_31)
 
 1. **[Conf-ICICS2018]** Ziyang Wang, Fangyu Zheng *, Jingqiang Lin, **Jiankuo Dong**, “Utilizing GPU Virtualization to Protect the Private Keys of GPU Cryptographic Computation”, 20th International Conf on Information and Communications Security (ICICS), 2018. [doi: 10.1007/978-3-030-01950-1_9](https://link.springer.com/chapter/10.1007/978-3-030-01950-1_9)
 
