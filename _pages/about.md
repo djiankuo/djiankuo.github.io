@@ -10,7 +10,7 @@ redirect_from:
 
 I am a associate professor in School of Computer Science, Nanjing University of Posts and Telecommunications (NJUPT).
 
-My research interests lie in the general area of cryptography and security, particularly in applied cryptography, cryptographic engineering, as well as high performance parallel computing. My publications include TECS, IPDPS, TIFS, ACSAC, SCN, WASA, etc.
+My research interests lie in the general area of cryptography and security, particularly in applied cryptography, cryptographic engineering, as well as high performance parallel computing. My publications include TIFS, TPDS, TC, TDSC, TECS, IPDPS, TIFS, ACSAC, SCN, WASA, etc.
 
 
 
@@ -42,13 +42,13 @@ Education
 Latest Publications
 ======
 
+1. **[Jour-IEEE TIFS2025]** Ruihao Dai, **Jiankuo Dong***, Mingrui Qiu, Zhenjiang Dong, Fu Xiao, JingqiangLin, “GOLF: Unleashing GPU-Driven Acceleration for FALCONPost-Quantum Cryptography”, IEEETransactions on Information Forensics & Security（IEEE TIFS）, 2025, **accepted to appear**. 
+
+1. **[Jour-IEEE TIFS2025]** Wen Wu, **Jiankuo Dong***, Zhen Xu, Zhenjiang Dong, Dung Duong, Fu Xiao,Jingqiang Lin, “Symphony of Speeds: Harmonizing Classic McElieceCryptography with GPU Innovation”, IEEETransactions on Information Forensics & Security（IEEE TIFS）, 2025,**accepted to appear**. 
+
 1. **[Jour-IEEE TC2024]**Xinyi Ji, **Jiankuo Dong**, Junhao Huang, Zhijian Yuan, Wangchen Dai, Fu Xiao, Jingqiang Lin, "ECO-CRYSTALS: Efficient Cryptography CRYSTALS on Standard RISC-V ISA Cryptology" IEEE Transactions on Computers, 2024, **accepted to appear**.
 
 1. **[Jour-IEEE TIFS2024]****Jiankuo Dong**; Yusheng Fu; Xusheng Qin; Zhenjiang Dong; Fu Xiao; Jingqiang Lin, "ECO-BIKE: Bridging the Gap Between PQC BIKE And GPU Acceleration" IEEE Transactions on Information Forensics and Security, 2024, **accepted to appear**
-
-1. **[Jour-IEEE JCST2025]** **Jiankuo Dong**, Wen Wu, Sheng Lu, Letian Sha, Fangyu Zheng, Fu Xiao, Huaqun Wang, “HI-SM3: High-Performance Implementation of SM3 Hash Function on Heterogeneous GPUs”, Journal of Computer Science and Technology (JCST), 2025, **accepted to appear**.
-
-1. **[Jour-计算机研究与发展2025]** Yijing Ning（宁祎静）, **Jiankuo Dong (董建阔)***, Siyuan Zhou（周思源）, Jingqiang Lin（林璟锵）, Siwei Sun（孙思维）, Fangyu Zheng（郑昉昱）, Chunpeng Ge（葛春鹏）, "High-performance Optimization of SPHINCS+-SM3 Implementation Based on Domestic Deep Computing Unit (DCU)" Journal of Computer Research and Development, 2025, **accepted to appear**.
 
 1. **[Jour-IEEE TPDS2024]** Xinyi Ji, **Jiankuo Dong**, Tonggui Deng, Pinchang Zhang, Jiafeng Hua and Fu Xiao, "HI-Kyber: A novel high-performance implementation scheme of Kyber based on GPU", IEEE Transactions on Parallel and Distributed Systems, **accepted to appear**
 
