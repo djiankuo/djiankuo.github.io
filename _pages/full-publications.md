@@ -9,6 +9,15 @@ author_profile: true
 Published and Accepted Papers
 ======
 
+
+1. **[Jour-IEEE TIFS2025]** Ruihao Dai, **Jiankuo Dong ***, Mingrui Qiu, Zhenjiang Dong, Fu Xiao, JingqiangLin, “GOLF: Unleashing GPU-Driven Acceleration for FALCONPost-Quantum Cryptography”, IEEETransactions on Information Forensics & Security（IEEE TIFS）, 2025, accepted to appear. （CCF A类，期刊论文）
+
+1.**[Jour-IEEE TIFS2025]** Wen Wu, **Jiankuo Dong***, Zhen Xu, Zhenjiang Dong, Dung Duong, Fu Xiao,Jingqiang Lin, “Symphony of Speeds: Harmonizing Classic McElieceCryptography with GPU Innovation”, IEEETransactions on Information Forensics & Security（IEEE TIFS）, 2025,accepted to appear. （CCF A类，期刊论文）
+
+1.**[Jour-IEEE TIFS2025]** Mengxue Yang, Huaqun Wang, Debiao He, **Jiankuo Dong**，RLP-ABE: Puncturable CP-ABE for Efficient User Revocation from Lattices in Cloud Storage. IEEETransactions on Information Forensics & Security（IEEE TIFS）, 2025,accepted to appear. 
+
+1.**[Jour-IEEE TII2025]** Wen Wu, **Jiankuo Dong***, Yuze Hou, Mengke Liu, Lunjie Li, Zhenjiang Dong, RIGHT: GPU-Optimized Parallel PQC HAETAE for High-Throughput Cryptographic Acceleration, IEEE Transactions on Industrial Informatics (IEEE TII), 2025,accepted to appear. 
+
 1. **[Jour-IEEE TII2025]** **Jiankuo Dong**, Jie Wei, Xiaoyu Hu, Zhenjiang Dong, Fuyuan Chen, Xin Hu, Jin Qi, “DDCC: Synergizing Denoising Diffusion Probabilistic Models and Curriculum-based Complexity Control for Insider Threat Detection”, IEEE Transactions on Industrial Informatics（IEEE TII）, 2025, accepted to appear.
 
 1. **[Jour-IEEE TDSC2025]** Letian Sha, Xingpeng Huo , Fu Xiao , **Jiankuo Dong**, Jianwen Liu , Shang Wu , Ziyue Su, "AWDP-Automated Windows Domain Penetration Framework with Deep Reinforcement Learning",IEEE Transactions on Dependable and Secure Computing (IEEE TDSC),  2025, accepted to appear.
