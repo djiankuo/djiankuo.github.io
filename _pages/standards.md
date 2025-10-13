@@ -33,12 +33,6 @@ author_profile: true
         <span style="display: inline-block;">王凯</span>
     </div>
     
-    <div style="text-align: center;">
-        博士研究生: <br>
-        <img src="../images/bio-photo-2.jpg" alt="朱行健" style="max-width: 200px; max-height: 200px;"> <br>
-        <span style="display: inline-block;">朱行健</span>
-    </div>
-
     <hr>
 </div>
 
