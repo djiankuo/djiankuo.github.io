@@ -62,42 +62,18 @@ Fundings and Projects (PI)
 ======
 
 
+1. National Natural Science Foundation of China (General Program)
+2. National Natural Science Foundation of China (Young Scientists Fund Program, Youth C)
+3. Natural Science Foundation of Jiangsu Province (Young Scientists Fund Program)
+4. General Program of Basic Science (Natural Science) Research for Colleges and Universities in Jiangsu Province
+5. Special Support Program of China Postdoctoral Science Foundation
+6. General Program of China Postdoctoral Science Foundation
+7. Huawei Industry-University-Research Cooperation Project
+8. Ant Group Industry-University-Research Cooperation Project
+9. CCF-Huawei Populus Euphratica Fund Trusted Computing Special Project
+10. CCF-Rhinoceros Bird Fund
+11. The First Batch of Projects of the China Telecom-Nanjing University of Posts and Telecommunications Joint Research Institute - Situation Awareness Special Project
 
-
-
-
-1. National Natural Science Foundation of China (Youth Project).
-- 国家自然科学基金（青年基金项目）
-
-1. Natural Science Foundation of Jiangsu Province (Youth Project).
-- 江苏省自然科学基金（青年基金项目）
-
-1. Natural Science Research Project of Colleges and Universities in Jiangsu Province.
-- 江苏省高等学校基础科学（自然科学）研究面上项目
-
-1. The China Postdoctoral Science Foundation.
-- 中国博士后科学基金面上项目
-
-1. CCF-Huawei Populus euphratica Fund - Trusted Computing.
-- CCF-华为胡杨林基金可信计算专项
-
-1. Jiangsu Provincial Double-Innovation Doctor Program.
-- 江苏省双创博士计划
-
-1. Huawei Industry-University-Research Cooperation Project
-- 华为产学研合作项目
-
-1. CCF-Rhinoceros Bird Fund
-- CCF-犀牛鸟基金
-
-1. Jiangsu Province Double Innovation Doctor Program
-- 江苏省双创博士计划
-
-1. The First Batch of Projects of the China Telecom-Nanjing University of Posts and Telecommunications Joint Research Institute - Situation Awareness Special Project
-- 中国电信-南京邮电大学联合研究院首批项目-态势感知专项（189 万）
-
-1. Transverse Project of Jiangsu Future Networks Innovation Institute
-- 江苏省未来网络创新研究院横向课题
 
 
 Acadamic Services 
