@@ -97,9 +97,8 @@ Supervised Students
 
 
 
-
 1. Xinyi Ji (Ph.D, candidate)
-1. Kai Wang (Ph.D, candidate)
+1. Kai Wang (Ph.D, candidate, graduated)
 1. Fuyuan Chen (Ph.D, candidate)
 1. Wen Wu (Ph.D, candidate)
 1. Ruihao Dai (Ph.D, candidate)
@@ -114,12 +113,12 @@ Supervised Students
 1. Hui Li (Master, candidate, graduated)
 1. Peng Dai (Master, candidate, graduated)
 1. Qingbo Ye (Master, candidate, graduated)
-1. Yuehua Huang (Master, candidate)
-1. Yusheng Fu (Master, candidate)
-1. Gangqing Wu (Master, candidate)
-1. Xingyu Wang (Master, candidate)
-1. Jie Wei (Master, candidate)
-1. Jialin Han (Master, candidate)
+1. Yuehua Huang (Master, candidate, graduated)
+1. Yusheng Fu (Master, candidate, graduated)
+1. Gangqing Wu (Master, candidate, graduated)
+1. Xingyu Wang (Master, candidate, graduated)
+1. Jie Wei (Master, candidate, graduated)
+1. Jialin Han (Master, candidate, graduated)
 1. Shiqin Wang (Master, candidate)
 1. Yijie Xu (Master, candidate)
 1. Yuze Hou (Master, candidate)
@@ -148,7 +147,6 @@ Supervised Students
 1. Ziwei Xue (Master, candidate)
 1. Xiaolong Liao (Master, candidate)
 1. Yifan Liu (Master, candidate)
-
 
 
 See [Students](/standards/).
