@@ -8,6 +8,7 @@ author_profile: true
 
 Published and Accepted Papers
 ======
+1. **[Jour-IEEE TII2025]** Fuyuan Chen, **Jiankuo Dong***, Xiaoyu Hu, Zhenjiang Dong, Wangchen Dai “HI-CKKS: Is High-Throughput Neglected? Reimagining CKKS Efficiency with Parallelism”, IEEE Transactions on Industrial Informatics（IEEE TII）, 2025, accepted to appear.
 
 
 1. **[Jour-IEEE TIFS2025]** Ruihao Dai, **Jiankuo Dong***, Mingrui Qiu, Zhenjiang Dong, Fu Xiao, JingqiangLin, “GOLF: Unleashing GPU-Driven Acceleration for FALCONPost-Quantum Cryptography”, IEEETransactions on Information Forensics & Security（IEEE TIFS）, 2025, accepted to appear. （CCF A类，期刊论文）
