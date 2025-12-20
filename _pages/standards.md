@@ -22,6 +22,7 @@ Supervised Students
 1. Wen Wu (Ph.D, candidate)
 1. Ruihao Dai (Ph.D, candidate)
 1. Siyuan Zhou (Ph.D, candidate)
+1. Yijing Ning (Ph.D, candidate)
 
 1. Tianyu Mao (Master, candidate, graduated)
 1. Yiru Xiang (Master, candidate, graduated)
