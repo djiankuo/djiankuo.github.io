@@ -43,7 +43,7 @@ Latest Publications
 ======
 
 
-1. **[Jour-IEEE TC2024]** Yijing Ning, **Jiankuo Dong***, Jingqiang Lin, Fangyu Zheng,  Yu Fu, Fu Xiao “GRASP: Accelerating Hash-based PQC Performance on GPU Parallel Architecture”, IEEE Transactions on Computers（IEEE TC）, 2026, accepted to appear.
+1. **[Jour-IEEE TC2026]** Yijing Ning, **Jiankuo Dong***, Jingqiang Lin, Fangyu Zheng,  Yu Fu, Fu Xiao “GRASP: Accelerating Hash-based PQC Performance on GPU Parallel Architecture”, IEEE Transactions on Computers（IEEE TC）, 2026, accepted to appear.
 
 1. **[Jour-IEEE TIFS2025]** Ruihao Dai, **Jiankuo Dong***, Mingrui Qiu, Zhenjiang Dong, Fu Xiao, JingqiangLin, “GOLF: Unleashing GPU-Driven Acceleration for FALCONPost-Quantum Cryptography”, IEEETransactions on Information Forensics & Security（IEEE TIFS）, 2025, **accepted to appear**. 
 

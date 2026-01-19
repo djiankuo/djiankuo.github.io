@@ -9,7 +9,7 @@ author_profile: true
 Published and Accepted Papers
 ======
 
-1. **[Jour-IEEE TC2024]** Yijing Ning, **Jiankuo Dong***, Jingqiang Lin, Fangyu Zheng,  Yu Fu, Fu Xiao “GRASP: Accelerating Hash-based PQC Performance on GPU Parallel Architecture”, IEEE Transactions on Computers（IEEE TC）, 2026, accepted to appear.
+1. **[Jour-IEEE TC2026]** Yijing Ning, **Jiankuo Dong***, Jingqiang Lin, Fangyu Zheng,  Yu Fu, Fu Xiao “GRASP: Accelerating Hash-based PQC Performance on GPU Parallel Architecture”, IEEE Transactions on Computers（IEEE TC）, 2026, accepted to appear.
 
 
 1. **[Jour-IEEE TII2025]** Fuyuan Chen, **Jiankuo Dong***, Xiaoyu Hu, Zhenjiang Dong, Wangchen Dai “HI-CKKS: Is High-Throughput Neglected? Reimagining CKKS Efficiency with Parallelism”, IEEE Transactions on Industrial Informatics（IEEE TII）, 2025, accepted to appear.
