@@ -9,6 +9,9 @@ author_profile: true
 Published and Accepted Papers
 ======
 
+1. **[Jour-IEEE TIFS2025]** Yijing Ning, **Jiankuo Dong***, Yajie Zhao, Jingqiang Lin, Tian Zhou, Jiachen Wang, Fu Xiao, “X2O: Cross Parallel Optimization of the CROSS Post-Quantum Scheme on GPU”, IEEE Transactions on Information Forensics & Security（IEEE TIFS）, 2025, accepted to appear. （CCF A类，期刊论文）
+
+
 1. **[Jour-南京邮电大学学报2026]** **Jiankuo Dong (董建阔)**, Zhen Xu （徐震）, Yuandong Zhang（张元东）, Gang Xu*（徐刚）, Zhenjiang Dong（董振江）, Fangyu Zheng（郑昉昱）， High-Performance Software Implementation Techniques for Chinese Commercial Cryptographic Algorithms, **accepted to appear**.
 
 
@@ -18,11 +21,11 @@ Published and Accepted Papers
 1. **[Jour-IEEE TII2025]** Fuyuan Chen, **Jiankuo Dong***, Xiaoyu Hu, Zhenjiang Dong, Wangchen Dai “HI-CKKS: Is High-Throughput Neglected? Reimagining CKKS Efficiency with Parallelism”, IEEE Transactions on Industrial Informatics（IEEE TII）, 2025, accepted to appear.
 
 
-1. **[Jour-IEEE TIFS2025]** Ruihao Dai, **Jiankuo Dong***, Mingrui Qiu, Zhenjiang Dong, Fu Xiao, JingqiangLin, “GOLF: Unleashing GPU-Driven Acceleration for FALCONPost-Quantum Cryptography”, IEEETransactions on Information Forensics & Security（IEEE TIFS）, 2025, accepted to appear. （CCF A类，期刊论文）
+1. **[Jour-IEEE TIFS2025]** Ruihao Dai, **Jiankuo Dong***, Mingrui Qiu, Zhenjiang Dong, Fu Xiao, JingqiangLin, “GOLF: Unleashing GPU-Driven Acceleration for FALCONPost-Quantum Cryptography”, IEEE Transactions on Information Forensics & Security（IEEE TIFS）, 2025, accepted to appear. （CCF A类，期刊论文）
 
-1. **[Jour-IEEE TIFS2025]** Wen Wu, **Jiankuo Dong***, Zhen Xu, Zhenjiang Dong, Dung Duong, Fu Xiao,Jingqiang Lin, “Symphony of Speeds: Harmonizing Classic McElieceCryptography with GPU Innovation”, IEEETransactions on Information Forensics & Security（IEEE TIFS）, 2025,accepted to appear. （CCF A类，期刊论文）
+1. **[Jour-IEEE TIFS2025]** Wen Wu, **Jiankuo Dong***, Zhen Xu, Zhenjiang Dong, Dung Duong, Fu Xiao,Jingqiang Lin, “Symphony of Speeds: Harmonizing Classic McElieceCryptography with GPU Innovation”, IEEE Transactions on Information Forensics & Security（IEEE TIFS）, 2025,accepted to appear. （CCF A类，期刊论文）
 
-1. **[Jour-IEEE TIFS2025]** Mengxue Yang, Huaqun Wang, Debiao He, **Jiankuo Dong**，RLP-ABE: Puncturable CP-ABE for Efficient User Revocation from Lattices in Cloud Storage. IEEETransactions on Information Forensics & Security（IEEE TIFS）, 2025,accepted to appear. （CCF A类，期刊论文）
+1. **[Jour-IEEE TIFS2025]** Mengxue Yang, Huaqun Wang, Debiao He, **Jiankuo Dong**，RLP-ABE: Puncturable CP-ABE for Efficient User Revocation from Lattices in Cloud Storage. IEEE Transactions on Information Forensics & Security（IEEE TIFS）, 2025,accepted to appear. （CCF A类，期刊论文）
 
 1. **[Jour-IEEE TII2025]** Wen Wu, **Jiankuo Dong***, Yuze Hou, Mengke Liu, Lunjie Li, Zhenjiang Dong, RIGHT: GPU-Optimized Parallel PQC HAETAE for High-Throughput Cryptographic Acceleration, IEEE Transactions on Industrial Informatics (IEEE TII), 2025,accepted to appear. 
 
