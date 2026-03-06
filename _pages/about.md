@@ -45,13 +45,13 @@ Latest Publications
 
 1. **[Jour-IEEE TC2026]** Yijing Ning, **Jiankuo Dong***, Jingqiang Lin, Fangyu Zheng,  Yu Fu, Fu Xiao “GRASP: Accelerating Hash-based PQC Performance on GPU Parallel Architecture”, IEEE Transactions on Computers（IEEE TC）, 2026, accepted to appear.
 
-1. **[Jour-IEEE TIFS2025]** Ruihao Dai, **Jiankuo Dong***, Mingrui Qiu, Zhenjiang Dong, Fu Xiao, JingqiangLin, “GOLF: Unleashing GPU-Driven Acceleration for FALCONPost-Quantum Cryptography”, IEEETransactions on Information Forensics & Security（IEEE TIFS）, 2025, **accepted to appear**. 
+1. **[Jour-IEEE TIFS2025]** Ruihao Dai, **Jiankuo Dong***, Mingrui Qiu, Zhenjiang Dong, Fu Xiao, JingqiangLin, “GOLF: Unleashing GPU-Driven Acceleration for FALCONPost-Quantum Cryptography”, IEEETransactions on Information Forensics & Security（IEEE TIFS）, 2025. 
 
-1. **[Jour-IEEE TIFS2025]** Wen Wu, **Jiankuo Dong***, Zhen Xu, Zhenjiang Dong, Dung Duong, Fu Xiao,Jingqiang Lin, “Symphony of Speeds: Harmonizing Classic McElieceCryptography with GPU Innovation”, IEEETransactions on Information Forensics & Security（IEEE TIFS）, 2025,**accepted to appear**. 
+1. **[Jour-IEEE TIFS2025]** Wen Wu, **Jiankuo Dong***, Zhen Xu, Zhenjiang Dong, Dung Duong, Fu Xiao,Jingqiang Lin, “Symphony of Speeds: Harmonizing Classic McElieceCryptography with GPU Innovation”, IEEETransactions on Information Forensics & Security（IEEE TIFS）, 2025. 
 
-1. **[Jour-IEEE TC2024]**Xinyi Ji, **Jiankuo Dong***, Junhao Huang, Zhijian Yuan, Wangchen Dai, Fu Xiao, Jingqiang Lin, "ECO-CRYSTALS: Efficient Cryptography CRYSTALS on Standard RISC-V ISA Cryptology" IEEE Transactions on Computers, 2024, **accepted to appear**.
+1. **[Jour-IEEE TC2024]**Xinyi Ji, **Jiankuo Dong***, Junhao Huang, Zhijian Yuan, Wangchen Dai, Fu Xiao, Jingqiang Lin, "ECO-CRYSTALS: Efficient Cryptography CRYSTALS on Standard RISC-V ISA Cryptology" IEEE Transactions on Computers, 2024.
 
-1. **[Jour-IEEE TIFS2024]****Jiankuo Dong**; Yusheng Fu; Xusheng Qin; Zhenjiang Dong; Fu Xiao; Jingqiang Lin, "ECO-BIKE: Bridging the Gap Between PQC BIKE And GPU Acceleration" IEEE Transactions on Information Forensics and Security, 2024, **accepted to appear**
+1. **[Jour-IEEE TIFS2024]** **Jiankuo Dong**; Yusheng Fu; Xusheng Qin; Zhenjiang Dong; Fu Xiao; Jingqiang Lin, "ECO-BIKE: Bridging the Gap Between PQC BIKE And GPU Acceleration" IEEE Transactions on Information Forensics and Security, 2024.
 
 
 
