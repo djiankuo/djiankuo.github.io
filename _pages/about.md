@@ -10,7 +10,7 @@ redirect_from:
 
 I am a associate professor in School of Computer Science, Nanjing University of Posts and Telecommunications (NJUPT).
 
-My research interests lie in the general area of cryptography and security, particularly in applied cryptography, cryptographic engineering, as well as high performance parallel computing. My publications include TIFS, TPDS, TC, TDSC, TECS, IPDPS, TIFS, ACSAC, SCN, WASA, etc.
+My research interests lie in the general area of cryptography and security, particularly in applied cryptography, cryptographic engineering, as well as high performance parallel computing. My publications include TIFS, TPDS, TC, TDSC, TECS, TII, IPDPS, ACSAC, etc.
 
 
 
