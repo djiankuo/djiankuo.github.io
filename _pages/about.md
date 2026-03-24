@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a associate professor in School of Computer Science, Nanjing University of Posts and Telecommunications (NJUPT).
+I am a research professor, University of Science and Technology of China (USTC).
 
 My research interests lie in the general area of cryptography and security, particularly in applied cryptography, cryptographic engineering, as well as high performance parallel computing. My publications include TIFS, TPDS, TC, TDSC, TECS, TII, IPDPS, ACSAC, etc.
 
@@ -17,8 +17,10 @@ My research interests lie in the general area of cryptography and security, part
 Work Experience
 ======
 
-* 2024.09 ~ Present, Associate professor, Nanjing University of Posts and Telecommunications.
-- 2024.09 至今，副教授，南京邮电大学，计算机学院。
+* 2024.09 ~ 2026.03, Research Professor, University of Science and Technology of China.
+- 2026.03 至今，特任研究员， 中国科学技术大学，网络空间安全学院。
+* 2024.09 ~ 2026.03, Associate professor, Nanjing University of Posts and Telecommunications.
+- 2024.09 ~ 2026.03，副教授，南京邮电大学，计算机学院。
 * 2020.10 ~ 2024.09, Lecture, Nanjing University of Posts and Telecommunications.
 - 2020.10 ~ 2024.09，讲师，南京邮电大学，计算机学院。
 * 2019.07 ~ 2020.09: Senior Engineer, Huawei Technology Co., Ltd.
