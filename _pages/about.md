@@ -17,7 +17,7 @@ My research interests lie in the general area of cryptography and security, part
 Work Experience
 ======
 
-* 2024.09 ~ Present, Research Professor, University of Science and Technology of China.
+* 2026.03 ~ Present, Research Professor, University of Science and Technology of China.
 - 2026.03 至今，特任研究员， 中国科学技术大学，网络空间安全学院。
 * 2024.09 ~ 2026.03, Associate professor, Nanjing University of Posts and Telecommunications.
 - 2024.09 ~ 2026.03，副教授，南京邮电大学，计算机学院。
