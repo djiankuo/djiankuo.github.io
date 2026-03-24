@@ -157,7 +157,7 @@ See [Students](/standards/).
 Contact 
 ======
 
-- djiankuo \at njupt.edu.cn
+- djiankuo \at ustc.edu.cn
 - djiankuo \at gmail.com
 
 
