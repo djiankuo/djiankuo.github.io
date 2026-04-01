@@ -32,8 +32,8 @@ Education
 * 2021.12 ~ Present, Post Doctor, Nanjing University of Posts and Telecommunications, Supervised by Prof. [Fu Xiao](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9B9D05C52A832DCFE050007F01006EFE).
 - 2021.12 至今，博士后，南京邮电大学，导师：[肖甫](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9B9D05C52A832DCFE050007F01006EFE)教授.
 
-* 2014.09 ~ 2019.06, Ph.D in Cyberspace Security, Institute of Information Engineering, University of Chinese Academy of Sciences (IIE-UCAS), Supervised by Prof. Dingfeng Ye, Prof. [Jingqiang Lin](https://lin-jingqiang.github.io/) and Dr. [Fangyu Zheng](https://zhengfangyu.github.io/).
-- 2014.09 ~ 2019.06，网络空间安全 博士， 中国科学院，信息工程研究所，信息安全国家重点实验室，导师：叶顶锋研究员，[林璟锵](https://lin-jingqiang.github.io/)教授, [郑昉昱](https://zhengfangyu.github.io/)博士.
+* 2014.09 ~ 2019.06, Ph.D in Cyberspace Security, Institute of Information Engineering, University of Chinese Academy of Sciences (IIE-UCAS), Supervised by Prof. Dingfeng Ye, Prof. [Jingqiang Lin](https://lin-jingqiang.github.io/) and Prof. [Fangyu Zheng](https://zhengfangyu.github.io/).
+- 2014.09 ~ 2019.06，网络空间安全 博士， 中国科学院，信息工程研究所，信息安全国家重点实验室，导师：叶顶锋研究员，[林璟锵](https://lin-jingqiang.github.io/)教授, [郑昉昱](https://zhengfangyu.github.io/)副教授.
 
 * 2010.09 ~ 2014.07, B.S. in Computer Science and Technology, Xi’an Jiaotong University (XJUPT), Supervised by Associate Professor [Yi Qian](http://gr.xjtu.edu.cn/web/yqian).
 - 2010.09 ~ 2014.07, 计算机科学与技术 学士， 西安交通大学，电信学院，导师：[钱屹](http://gr.xjtu.edu.cn/web/yqian)副教授.
