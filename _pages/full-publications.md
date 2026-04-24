@@ -10,6 +10,8 @@ Published and Accepted Papers
 ======
 
 
+1. **[Conf-CHES2026]** Yanren Chen, Fangyu Zheng *, Guang Fan, **Jiankuo Dong**, Wenxu Tang, Tian Zhou, Jingqiang Lin and Jiwu Jing, “BOLT-FHE: An Efficient Unified Framework for GPU-based TFHE Bootstrapping via On-Chip Local Tiling Strategies”, 28th International Conference on Cryptographic Hardware and Embedded Systems (CHES), 2026.
+
 
 1. **[Jour-IEEE TIFS2026]** Yijing Ning, **Jiankuo Dong***, Yajie Zhao, Jingqiang Lin, Tian Zhou, Jiachen Wang, Fu Xiao, “X2O: Cross Parallel Optimization of the CROSS Post-Quantum Scheme on GPU”, IEEE Transactions on Information Forensics & Security（IEEE TIFS）, 2025, accepted to appear.（CCF A类，期刊论文）
 
