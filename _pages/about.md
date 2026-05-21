@@ -18,18 +18,18 @@ Work Experience
 ======
 
 * 2026.03 ~ Present, Research Professor, University of Science and Technology of China.
-- 2026.03 至今，特任研究员， 中国科学技术大学，网络空间安全学院。
+* 2026.03 至今，特任研究员， 中国科学技术大学，网络空间安全学院。
 * 2024.09 ~ 2026.03, Associate professor, Nanjing University of Posts and Telecommunications.
-- 2024.09 ~ 2026.03，副教授，南京邮电大学，计算机学院。
-* 2020.10 ~ 2024.09, Lecture, Nanjing University of Posts and Telecommunications.
-- 2020.10 ~ 2024.09，讲师，南京邮电大学，计算机学院。
+* 2024.09 ~ 2026.03，副教授，南京邮电大学，计算机学院。
+* 2020.10 ~ 2024.09, Lecturer, Nanjing University of Posts and Telecommunications.
+* 2020.10 ~ 2024.09，讲师，南京邮电大学，计算机学院。
 * 2019.07 ~ 2020.09: Senior Engineer, Huawei Technology Co., Ltd.
-- 2019.07 ~ 2020.09，高级工程师，华为技术有限公司，消费者BG。
+* 2019.07 ~ 2020.09，高级工程师，华为技术有限公司，消费者BG。
 
 
 Education
 ======
-* 2021.12 ~ Present, Post Doctor, Nanjing University of Posts and Telecommunications, Supervised by Prof. [Fu Xiao](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9B9D05C52A832DCFE050007F01006EFE).
+* 2021.12 ~ Present, Postdoctoral Researcher, Nanjing University of Posts and Telecommunications, Supervised by Prof. [Fu Xiao](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9B9D05C52A832DCFE050007F01006EFE).
 - 2021.12 至今，博士后，南京邮电大学，导师：[肖甫](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9B9D05C52A832DCFE050007F01006EFE)教授.
 
 * 2014.09 ~ 2019.06, Ph.D in Cyberspace Security, Institute of Information Engineering, University of Chinese Academy of Sciences (IIE-UCAS), Supervised by Prof. Dingfeng Ye, Prof. [Jingqiang Lin](https://lin-jingqiang.github.io/) and Prof. [Fangyu Zheng](https://zhengfangyu.github.io/).
@@ -47,9 +47,9 @@ Latest Publications
 
 1. **[Jour-IEEE TC2026]** Yijing Ning, **Jiankuo Dong***, Jingqiang Lin, Fangyu Zheng,  Yu Fu, Fu Xiao “GRASP: Accelerating Hash-based PQC Performance on GPU Parallel Architecture”, IEEE Transactions on Computers（IEEE TC）, 2026, accepted to appear.
 
-1. **[Jour-IEEE TIFS2025]** Ruihao Dai, **Jiankuo Dong***, Mingrui Qiu, Zhenjiang Dong, Fu Xiao, JingqiangLin, “GOLF: Unleashing GPU-Driven Acceleration for FALCONPost-Quantum Cryptography”, IEEETransactions on Information Forensics & Security（IEEE TIFS）, 2025. 
+1. **[Jour-IEEE TIFS2025]** Ruihao Dai, **Jiankuo Dong***, Mingrui Qiu, Zhenjiang Dong, Fu Xiao, Jingqiang Lin, “GOLF: Unleashing GPU-Driven Acceleration for FALCON Post-Quantum Cryptography”, IEEE Transactions on Information Forensics & Security（IEEE TIFS）, 2025. 
 
-1. **[Jour-IEEE TIFS2025]** Wen Wu, **Jiankuo Dong***, Zhen Xu, Zhenjiang Dong, Dung Duong, Fu Xiao,Jingqiang Lin, “Symphony of Speeds: Harmonizing Classic McElieceCryptography with GPU Innovation”, IEEETransactions on Information Forensics & Security（IEEE TIFS）, 2025. 
+1. **[Jour-IEEE TIFS2025]** Wen Wu, **Jiankuo Dong***, Zhen Xu, Zhenjiang Dong, Dung Duong, Fu Xiao, Jingqiang Lin, “Symphony of Speeds: Harmonizing Classic McEliece Cryptography with GPU Innovation”, IEEE Transactions on Information Forensics & Security（IEEE TIFS）, 2025. 
 
 1. **[Jour-IEEE TC2024]**Xinyi Ji, **Jiankuo Dong***, Junhao Huang, Zhijian Yuan, Wangchen Dai, Fu Xiao, Jingqiang Lin, "ECO-CRYSTALS: Efficient Cryptography CRYSTALS on Standard RISC-V ISA Cryptology" IEEE Transactions on Computers, 2024.
 
@@ -79,7 +79,7 @@ Fundings and Projects (PI)
 
 
 
-Acadamic Services 
+Academic Services 
 ======
 
 1. International Conference on Information Security and Cryptology（Inscrypt） （PC member，会议程序委员会委员）
@@ -145,7 +145,6 @@ Supervised Students
 1. Xuecheng Liu (Master, candidate)
 1. Yajie Zhao (Master, candidate)
 1. Shuhan Yang (Master, candidate)
-1. Yifan Liu (Master, candidate)
 1. Xianhao Tan (Master, candidate)
 1. Ziwei Xue (Master, candidate)
 1. Xiaolong Liao (Master, candidate)
