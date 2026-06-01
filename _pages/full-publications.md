@@ -2,6 +2,7 @@
 permalink: /full-publications/
 title: "Full Publications"
 author_profile: true
+classes: compact-text
 ---
  
 \* denotes the corresponding author.
@@ -10,10 +11,19 @@ Published and Accepted Papers
 ======
 
 
-1. **[Conf-CHES2026]** Yanren Chen, Fangyu Zheng *, Guang Fan, **Jiankuo Dong**, Wenxu Tang, Tian Zhou, Jingqiang Lin and Jiwu Jing, “BOLT-FHE: An Efficient Unified Framework for GPU-based TFHE Bootstrapping via On-Chip Local Tiling Strategies”, 28th International Conference on Cryptographic Hardware and Embedded Systems (CHES), 2026.
 
 
-1. **[Jour-IEEE TIFS2026]** Yijing Ning, **Jiankuo Dong***, Yajie Zhao, Jingqiang Lin, Tian Zhou, Jiachen Wang, Fu Xiao, “X2O: Cross Parallel Optimization of the CROSS Post-Quantum Scheme on GPU”, IEEE Transactions on Information Forensics & Security（IEEE TIFS）, 2025, accepted to appear.（CCF A类，期刊论文）
+1. **[Jour-IEEE TC2026]** **Jiankuo Dong**, Yuze Hou, Shiqin Wang, Letian Sha, Fu Xiao, Zhenjiang Dong, Jingqiang Lin, “HIGH: Harnessing GPU Parallelism for Optimized HQC Performance”, IEEE Transactions on Computers (IEEE TC), 2026, **accepted to appear**. （CCF A类，期刊论文）
+
+1. **[Jour-IEEE JCST2026]** Fuyuan Chen, **Jiankuo Dong***, Xingyu Wang, Zhenjiang Dong, Huaqun Wang, “HI-SM4: Exploiting Domestic Hygon GPU for High-Performance SM4 Cryptographic Computing”, Journal of Computer Science and Technology (JCST), 2026.
+
+
+1. **[Jour-IEEE TDSC2026]** Lingyan Xue, Haiping Huang, **Jiankuo Dong**, Fu Xiao, Shijie Zhang, “Quantum-Resistant Data Sharing Scheme with Auditability for Internet of Vehicles”, IEEE Transactions on Dependable and Secure Computing (IEEE TDSC), 2026, **accepted to appear**. （CCF A类，期刊论文）
+
+1. **[Conf-CHES2026]** Yanren Chen, Fangyu Zheng *, Guang Fan, **Jiankuo Dong**, Wenxu Tang, Tian Zhou, Jingqiang Lin and Jiwu Jing, “BOLT-FHE: An Efficient Unified Framework for GPU-based TFHE Bootstrapping via On-Chip Local Tiling Strategies”, 28th International Conference on Cryptographic Hardware and Embedded Systems (CHES), **accepted to appear**. 2026.
+
+
+1. **[Jour-IEEE TIFS2026]** Yijing Ning, **Jiankuo Dong***, Yajie Zhao, Jingqiang Lin, Tian Zhou, Jiachen Wang, Fu Xiao, “X2O: Cross Parallel Optimization of the CROSS Post-Quantum Scheme on GPU”, IEEE Transactions on Information Forensics & Security（IEEE TIFS）, 2025, **accepted to appear**.（CCF A类，期刊论文）
 
 
 1. **[Jour-南京邮电大学学报2026]** **Jiankuo Dong (董建阔)**, Zhen Xu （徐震）, Yuandong Zhang（张元东）, Gang Xu*（徐刚）, Zhenjiang Dong（董振江）, Fangyu Zheng（郑昉昱）， High-Performance Software Implementation Techniques for Chinese Commercial Cryptographic Algorithms, **accepted to appear**.
