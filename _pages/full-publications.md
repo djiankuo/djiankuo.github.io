@@ -64,7 +64,8 @@ Published and Accepted Papers
 
 1. **[Jour-IEEE TII2024]** Xiao Chen, Letian Sha*, Jincheng Wang, Fu Xiao, **Jiankuo Dong**, “SFO-CID: Structural Feature Optimization Based Command Injection Vulnerability Discovery For Internet of Things”, IEEE Transactions on Industrial Informatics, 2024. [doi: 10.1109/TII.2024.3477563](https://doi.org/10.1109/TII.2024.3477563)
 
-1. **[Jour-IEEE TC2024]** Xinyi Ji, **Jiankuo Dong***, Junhao Huang, Zhijian Yuan, Wangchen Dai, Fu Xiao, Jingqiang Lin, "ECO-CRYSTALS: Efficient Cryptography CRYSTALS on Standard RISC-V ISA Cryptology", IEEE Transactions on Computers, 2024. （CCF A类，期刊论文）
+
+1. **[Jour-IEEE TC2024]** Xinyi Ji, **Jiankuo Dong***, Junhao Huang, Zhijian Yuan, Wangchen Dai, Fu Xiao, Jingqiang Lin, "ECO-CRYSTALS: Efficient Cryptography CRYSTALS on Standard RISC-V ISA", IEEE Transactions on Computers (IEEE TC), 2024. [doi: 10.1109/TC.2024.3462426](https://doi.org/10.1109/TC.2024.3462426) （CCF A类，期刊论文）
 
 1. **[Jour-IEEE TC2024]** Yi Bian, Fangyu Zheng*, Yuewu Wang, Lingguang Lei, Yuan Ma, **Jiankuo Dong**, Guang Fan, Jiwu Jing, "AsyncGBP+: Bridging SSL/TLS and Heterogeneous Computing Power with GPU-based Providers", IEEE Transactions on Computers, 2025. [doi: 10.1109/TC.2024.3477987](https://doi.org/10.1109/TC.2024.3477987) （CCF A类，期刊论文）
 
