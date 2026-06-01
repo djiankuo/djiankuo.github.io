@@ -404,12 +404,9 @@
    Compact Text Style (for full-publications page)
    ========================================================================== */
 
-article.page.compact-text {
-  @include breakpoint($large) {
-    @include span(11 of 12 last);
-    @include prefix(0.5 of 12);
-  }
-}
+/*
+   Compact Text Style (for full-publications page)
+   ========================================================================== */
 
 .compact-text {
   .page__content {
