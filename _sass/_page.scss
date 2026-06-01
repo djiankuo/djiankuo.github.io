@@ -399,3 +399,21 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+/*
+   Compact Text Style (for full-publications page)
+   ========================================================================== */
+
+.compact-text {
+  .page__content {
+    font-size: 0.82em;
+    
+    p, li, dl {
+      font-size: 0.82em;
+    }
+    
+    h2 {
+      font-size: 1.1em;
+    }
+  }
+}
