@@ -240,10 +240,10 @@
   }
 }
 
-/* Home page tweaks: make homepage content larger to match full-publications */
+/* Home page tweaks: make homepage content slightly smaller to better match full-publications */
 .page.home {
   .page__content {
-    font-size: 1.05em;
+    font-size: 1em;
     line-height: 1.5;
   }
 }
