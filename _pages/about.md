@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a research professor, University of Science and Technology of China (USTC).
+I am a research professor, Ph.D. supervisor, University of Science and Technology of China (USTC).
 
 My research interests lie in the general area of cryptography and security, particularly in applied cryptography, cryptographic engineering, as well as high performance parallel computing. My publications include TIFS, TPDS, TC, TDSC, TECS, TII, IPDPS, ACSAC, etc.
 
