@@ -57,9 +57,7 @@ Latest Publications
 1. **[Jour-IEEE TIFS2024]** **Jiankuo Dong**; Yusheng Fu; Xusheng Qin; Zhenjiang Dong; Fu Xiao; Jingqiang Lin, "ECO-BIKE: Bridging the Gap Between PQC BIKE And GPU Acceleration" IEEE Transactions on Information Forensics and Security, 2024.
 
 
-
 See [full publications](/full-publications/).
-
 
 
 Fundings and Projects (PI)
@@ -98,8 +96,6 @@ Academic Services
 
 Supervised Students 
 ======
-
-
 
 1. Xinyi Ji (Ph.D, candidate, NJUPT)
 1. Kai Wang (Ph.D, candidate, graduated, NJUPT)

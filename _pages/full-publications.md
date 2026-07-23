@@ -10,6 +10,10 @@ classes: compact-text
 Published and Accepted Papers
 ======
 
+
+1. **[Jour-JCST2026]** Fuyuan Chen, Jiankuo Dong, Xingyu Wang, Zhenjiang Dong, Huaqun Wang, “HI-SM4: Exploiting Domestic Hygon GPU for High-Performance SM4 Cryptographic Computing”, Journal of Computer Science and Technology (JCST), 2026. （CCF B类，期刊论文）
+
+
 1. **[Jour-IEEE TC2026]** **Jiankuo Dong**, Yuze Hou, Shiqin Wang, Letian Sha, Fu Xiao, Zhenjiang Dong, Jingqiang Lin, “HIGH: Harnessing GPU Parallelism for Optimized HQC Performance”, IEEE Transactions on Computers (IEEE TC), 2026, **accepted to appear**. （CCF A类，期刊论文）
 
 1. **[Jour-IEEE JCST2026]** Fuyuan Chen, **Jiankuo Dong***, Xingyu Wang, Zhenjiang Dong, Huaqun Wang, “HI-SM4: Exploiting Domestic Hygon GPU for High-Performance SM4 Cryptographic Computing”, Journal of Computer Science and Technology (JCST), 2026.
