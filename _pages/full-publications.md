@@ -16,8 +16,6 @@ Published and Accepted Papers
 
 1. **[Jour-IEEE TC2026]** **Jiankuo Dong**, Yuze Hou, Shiqin Wang, Letian Sha, Fu Xiao, Zhenjiang Dong, Jingqiang Lin, “HIGH: Harnessing GPU Parallelism for Optimized HQC Performance”, IEEE Transactions on Computers (IEEE TC), 2026, **accepted to appear**. （CCF A类，期刊论文）
 
-1. **[Jour-IEEE JCST2026]** Fuyuan Chen, **Jiankuo Dong***, Xingyu Wang, Zhenjiang Dong, Huaqun Wang, “HI-SM4: Exploiting Domestic Hygon GPU for High-Performance SM4 Cryptographic Computing”, Journal of Computer Science and Technology (JCST), 2026.
-
 
 1. **[Jour-IEEE TDSC2026]** Lingyan Xue, Haiping Huang, **Jiankuo Dong**, Fu Xiao, Shijie Zhang, “Quantum-Resistant Data Sharing Scheme with Auditability for Internet of Vehicles”, IEEE Transactions on Dependable and Secure Computing (IEEE TDSC), 2026, **accepted to appear**. （CCF A类，期刊论文）
 
