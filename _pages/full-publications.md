@@ -10,6 +10,8 @@ classes: compact-text
 Published and Accepted Papers
 ======
 
+1. **[Jour-软件学报2026]** Wen Wu（吴雯）, Lunjie Li（李伦杰）, **Jiankuo Dong*（董建阔）**, Zhenjiang Dong*（董振江）, Jingqiang Lin（林璟锵）, Fu Xiao（肖甫）, “Efficient Implementation of Post-Quantum Cryptography Scloud+ on ARMv8 Architecture”, 面向ARMv8平台的抗量子密码Scloud+并行实现方法, Journal on Software,（软件学报）, 2026.
+
 
 1. **[Jour-JCST2026]** Fuyuan Chen, **Jiankuo Dong***, Xingyu Wang, Zhenjiang Dong, Huaqun Wang, “HI-SM4: Exploiting Domestic Hygon GPU for High-Performance SM4 Cryptographic Computing”, Journal of Computer Science and Technology (JCST), 2026. （CCF B类，期刊论文）
 
