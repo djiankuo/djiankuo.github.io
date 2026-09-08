@@ -9,14 +9,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a research professor, Ph.D. supervisor, University of Science and Technology of China (USTC).
+<div class="home-intro-card">
+I am a research professor and Ph.D. supervisor at the University of Science and Technology of China (USTC).
 
-My research interests lie in the general area of cryptography and security, particularly in applied cryptography, cryptographic engineering, as well as high performance parallel computing. My publications include TIFS, TPDS, TC, TDSC, TECS, TII, IPDPS, ACSAC, etc.
+My research interests lie in the general area of cryptography and security, particularly in applied cryptography, cryptographic engineering, and high-performance parallel computing. My publications include TIFS, TPDS, TC, TDSC, TECS, TII, IPDPS, ACSAC, and others.
+</div>
 
-
-
-Work Experience
-======
+## Work Experience
 
 * 2026.03 ~ Present, Research Professor, Ph.D. supervisor, University of Science and Technology of China.
 * 2026.03 至今，特任研究员，博士生导师，中国科学技术大学，网络空间安全学院。
@@ -28,8 +27,7 @@ Work Experience
 * 2019.07 ~ 2020.09，高级工程师，华为技术有限公司，消费者BG。
 
 
-Education
-======
+## Education
 * 2021.12 ~ Present, Postdoctoral Researcher, Nanjing University of Posts and Telecommunications, Supervised by Prof. [Fu Xiao](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9B9D05C52A832DCFE050007F01006EFE).
 - 2021.12 至今，博士后，南京邮电大学，导师：[肖甫](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9B9D05C52A832DCFE050007F01006EFE)教授.
 
@@ -42,8 +40,7 @@ Education
 
 
 
-Latest Publications
-======
+## Latest Publications
 
 
 1. **[Jour-IEEE TC2026]** Yijing Ning, **Jiankuo Dong***, Jingqiang Lin, Fangyu Zheng,  Yu Fu, Fu Xiao “GRASP: Accelerating Hash-based PQC Performance on GPU Parallel Architecture”, IEEE Transactions on Computers（IEEE TC）, 2026, accepted to appear.
@@ -60,8 +57,7 @@ Latest Publications
 See [full publications](/full-publications/).
 
 
-Fundings and Projects (PI)
-======
+## Fundings and Projects (PI)
 
 
 1. National Natural Science Foundation of China (General Program)
@@ -78,8 +74,7 @@ Fundings and Projects (PI)
 
 
 
-Academic Services 
-======
+## Academic Services
 
 1. International Conference on Information Security and Cryptology（Inscrypt） （PC member，会议程序委员会委员）
 1. International Conference on Risks and Security of Internet and Systems （PC member，会议程序委员会委员）
@@ -94,8 +89,7 @@ Academic Services
 
 
 
-Supervised Students 
-======
+## Supervised Students
 
 1. Xinyi Ji (Ph.D, candidate, NJUPT)
 1. Kai Wang (Ph.D, candidate, graduated, NJUPT)
@@ -155,8 +149,7 @@ Supervised Students
 
 See [Students](/standards/).
 
-Contact 
-======
+## Contact
 
 - djiankuo \at ustc.edu.cn
 - djiankuo \at gmail.com
