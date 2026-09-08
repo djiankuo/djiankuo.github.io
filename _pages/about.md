@@ -10,9 +10,15 @@ redirect_from:
 ---
 
 <div class="home-intro-card">
-I am a research professor and Ph.D. supervisor at the University of Science and Technology of China (USTC).
+  <div class="home-intro-header">Research Profile</div>
+  <p>I am a research professor and Ph.D. supervisor at the University of Science and Technology of China (USTC).</p>
+  <p>My research interests lie in the general area of cryptography and security, particularly in applied cryptography, cryptographic engineering, and high-performance parallel computing. My publications include TIFS, TPDS, TC, TDSC, TECS, TII, IPDPS, ACSAC, and others.</p>
+</div>
 
-My research interests lie in the general area of cryptography and security, particularly in applied cryptography, cryptographic engineering, and high-performance parallel computing. My publications include TIFS, TPDS, TC, TDSC, TECS, TII, IPDPS, ACSAC, and others.
+<div class="home-focus-grid">
+  <div class="home-focus-item"><strong>Focus</strong><span>Applied Cryptography</span></div>
+  <div class="home-focus-item"><strong>Area</strong><span>Security & Systems</span></div>
+  <div class="home-focus-item"><strong>Methods</strong><span>GPU / Parallel Computing</span></div>
 </div>
 
 ## Work Experience
@@ -151,8 +157,10 @@ See [Students](/standards/).
 
 ## Contact
 
-- djiankuo \at ustc.edu.cn
-- djiankuo \at gmail.com
+<div class="home-contact-list">
+  <div>djiankuo \at ustc.edu.cn</div>
+  <div>djiankuo \at gmail.com</div>
+</div>
 
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=hDqGIHVAbAXvG5hcv2BATY4rMKoiFnu3w5ScoP2BCR8&co=8fa5b5'></script>
