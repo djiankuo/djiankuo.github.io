@@ -94,22 +94,31 @@
 }
 
 .author-profile-card {
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 100%;
+  margin: 0 auto;
   padding: 0.85rem;
   border: 1px solid rgba(148, 163, 184, 0.25);
   border-radius: 16px;
   background: linear-gradient(180deg, rgba(255, 255, 255, 0.95), rgba(246, 248, 255, 0.96));
   box-shadow: 0 10px 26px rgba(15, 23, 42, 0.06);
+  text-align: center;
 }
 
 .author-profile-card .author__avatar {
   display: block;
-  width: auto;
+  width: 100%;
   text-align: center;
 
   img {
+    display: block;
+    box-sizing: border-box;
     width: 142px;
-    height: auto;
+    height: 142px;
+    margin: 0 auto;
     object-fit: contain;
+    object-position: center;
     padding: 5px;
     border: 3px solid #dbeafe;
     border-radius: 50%;
@@ -121,6 +130,7 @@
   display: block;
   width: 100%;
   padding: 0;
+  text-align: center;
 }
 
 .author__content {
@@ -226,6 +236,29 @@
       display: none;
     }
   }
+}
+
+.author-profile-card .author__urls-wrapper {
+  display: block;
+  width: 100%;
+}
+
+.author-profile-card .author__urls {
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.author-profile-card .author__urls li {
+  text-align: center;
+  white-space: normal;
+}
+
+.author-profile-card .author__urls a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.35rem;
+  padding-right: 0;
 }
 
 .author__urls {
