@@ -420,13 +420,18 @@
   display: grid;
   gap: 0.8rem;
   margin: 0.8rem 0 1.1rem;
+  padding-left: 0.25rem;
+  border-left: 4px solid #2563eb;
 }
 
 .student-group {
   padding: 0.8rem 1rem;
-  border-left: 4px solid #2563eb;
-  border-radius: 10px;
+  border-bottom: 1px solid rgba(148, 163, 184, 0.22);
   background: rgba(255, 255, 255, 0.58);
+}
+
+.student-group:last-child {
+  border-bottom: 0;
 }
 
 .student-group h3 {
@@ -443,7 +448,7 @@
 }
 
 .student-group--alumni {
-  border-left-color: #64748b;
+  border-left: 0;
 }
 
 .home-compact-list {
