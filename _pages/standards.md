@@ -2,19 +2,10 @@
 permalink: /standards/
 title: "Students"
 author_profile: true
+classes: compact-text
 ---
-   <style>
-        /* 样式用于定制水平线 */
-        hr {
-            width: 860px; /* 设置横线长度 */
-            border: 1px solid #000; /* 设置横线颜色和宽度 */
-            margin: 20px 0; /* 设置横线与其他元素之间的间距 */
-        }
-    </style>
 
-
-Supervised Students 
-======
+## Supervised Students
 
 1. Xinyi Ji (Ph.D, candidate)
 1. Kai Wang (Ph.D, candidate, graduated)

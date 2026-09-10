@@ -442,6 +442,33 @@
   line-height: 1.8;
 }
 
+.student-group--alumni {
+  border-left-color: #64748b;
+}
+
+.home-compact-list {
+  margin: 0.8rem 0 1.1rem;
+  border-top: 1px solid rgba(148, 163, 184, 0.22);
+}
+
+.home-compact-list div {
+  padding: 0.55rem 0.85rem;
+  border-bottom: 1px solid rgba(148, 163, 184, 0.22);
+  color: #475569;
+  font-size: 0.9em;
+  line-height: 1.5;
+}
+
+.home-compact-list div::before {
+  content: "";
+  display: inline-block;
+  width: 0.35rem;
+  height: 0.35rem;
+  margin: 0 0.65rem 0.12rem 0;
+  border-radius: 50%;
+  background: #2563eb;
+}
+
 @media (max-width: 768px) {
   .page.home .page__content {
     padding: 1rem 0.9rem;

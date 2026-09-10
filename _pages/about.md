@@ -67,33 +67,36 @@ See [full publications](/full-publications/).
 
 ## Fundings and Projects (PI)
 
-
-1. National Natural Science Foundation of China (General Program)
-2. National Natural Science Foundation of China (Young Scientists Fund Program, Youth C)
-3. Natural Science Foundation of Jiangsu Province (Young Scientists Fund Program)
-4. General Program of Basic Science (Natural Science) Research for Colleges and Universities in Jiangsu Province
-5. Special Support Program of China Postdoctoral Science Foundation
-6. General Program of China Postdoctoral Science Foundation
-7. Huawei Industry-University-Research Cooperation Project
-8. Ant Group Industry-University-Research Cooperation Project
-9. CCF-Huawei Populus Euphratica Fund Trusted Computing Special Project
-10. CCF-Rhinoceros Bird Fund
-11. The First Batch of Projects of the China Telecom-Nanjing University of Posts and Telecommunications Joint Research Institute - Situation Awareness Special Project
+<div class="home-compact-list">
+  <div>National Natural Science Foundation of China (General Program)</div>
+  <div>National Natural Science Foundation of China (Young Scientists Fund Program, Youth C)</div>
+  <div>Natural Science Foundation of Jiangsu Province (Young Scientists Fund Program)</div>
+  <div>General Program of Basic Science (Natural Science) Research for Colleges and Universities in Jiangsu Province</div>
+  <div>Special Support Program of China Postdoctoral Science Foundation</div>
+  <div>General Program of China Postdoctoral Science Foundation</div>
+  <div>Huawei Industry-University-Research Cooperation Project</div>
+  <div>Ant Group Industry-University-Research Cooperation Project</div>
+  <div>CCF-Huawei Populus Euphratica Fund Trusted Computing Special Project</div>
+  <div>CCF-Rhinoceros Bird Fund</div>
+  <div>The First Batch of Projects of the China Telecom-Nanjing University of Posts and Telecommunications Joint Research Institute - Situation Awareness Special Project</div>
+</div>
 
 
 
 ## Academic Services
 
-1. International Conference on Information Security and Cryptology（Inscrypt） （PC member，会议程序委员会委员）
-1. International Conference on Risks and Security of Internet and Systems （PC member，会议程序委员会委员）
-1. Workshop on Secure Cryptographic Implementation in conjunction with ACNS（2021-2023）（PC member，会议程序委员会委员）
-1. IEEE Internet of Things Journal Reviewer
-1. Journal of Systems Architecture Reviewer
-1. Journal of Cryptographic Engineering Reviewer
-1. COMPUTER STANDARDS & INTERFACES Reviewer
-1. Wireless Communications and Mobile Computing Reviewer
-1. 2nd EAI International Conference on Applied Cryptography in Computer and Communications Reviewer
-1. Computer & Network Excellent Reviewer
+<div class="home-compact-list">
+  <div>International Conference on Information Security and Cryptology (Inscrypt) · PC member</div>
+  <div>International Conference on Risks and Security of Internet and Systems · PC member</div>
+  <div>Workshop on Secure Cryptographic Implementation in conjunction with ACNS (2021-2023) · PC member</div>
+  <div>IEEE Internet of Things Journal · Reviewer</div>
+  <div>Journal of Systems Architecture · Reviewer</div>
+  <div>Journal of Cryptographic Engineering · Reviewer</div>
+  <div>COMPUTER STANDARDS &amp; INTERFACES · Reviewer</div>
+  <div>Wireless Communications and Mobile Computing · Reviewer</div>
+  <div>2nd EAI International Conference on Applied Cryptography in Computer and Communications · Reviewer</div>
+  <div>Computer &amp; Network Excellent Reviewer</div>
+</div>
 
 
 
@@ -101,12 +104,16 @@ See [full publications](/full-publications/).
 
 <div class="student-groups">
   <div class="student-group">
-    <h3>Ph.D. Students</h3>
-    <p>Xinyi Ji · Kai Wang (graduated) · Fuyuan Chen · Wen Wu · Ruihao Dai · Siyuan Zhou</p>
+    <h3>Current Ph.D. Students</h3>
+    <p>Xinyi Ji · Fuyuan Chen · Wen Wu · Ruihao Dai · Siyuan Zhou</p>
   </div>
   <div class="student-group">
-    <h3>Master's Students</h3>
-    <p>Tianyu Mao (graduated) · Yiru Xiang (graduated) · Sheng Lu (graduated) · Kaisheng Sun (graduated) · Zhenguo Zhou (graduated) · Xin Ge (graduated) · Hui Li (graduated) · Peng Dai (graduated) · Qingbo Ye (graduated) · Yuehua Huang (graduated) · Yusheng Fu (graduated) · Gangqing Wu (graduated) · Xingyu Wang (graduated) · Jie Wei (graduated) · Jialin Han (graduated) · Shiqin Wang · Yijie Xu (graduated) · Yuze Hou (graduated) · Pengbo Liu (graduated) · Tonggui Deng (graduated) · Zhijian Yuan (graduated) · Xusheng Qin (graduated) · Mingrui Qiu · Zhen Xu · Linfeng Zhou · Lunjie Li · Mengke Liu · Zhechen Zhu · Rui Fang · Jiaqi Wang · Qiyao Zhu · Shengkun Zhou · Yongkang Zhang · Ruofei Jia · Jiahan Yuan · Xuecheng Liu · Yajie Zhao · Shuhan Yang · Xianhao Tan · Ziwei Xue · Xiaolong Liao · Yifan Liu</p>
+    <h3>Current Master's Students</h3>
+    <p>Shiqin Wang · Mingrui Qiu · Zhen Xu · Linfeng Zhou · Lunjie Li · Mengke Liu · Zhechen Zhu · Rui Fang · Jiaqi Wang · Qiyao Zhu · Shengkun Zhou · Yongkang Zhang · Ruofei Jia · Jiahan Yuan · Xuecheng Liu · Yajie Zhao · Shuhan Yang · Xianhao Tan · Ziwei Xue · Xiaolong Liao · Yifan Liu</p>
+  </div>
+  <div class="student-group student-group--alumni">
+    <h3>Graduated Students</h3>
+    <p>Kai Wang (Ph.D.) · Tianyu Mao · Yiru Xiang · Sheng Lu · Kaisheng Sun · Zhenguo Zhou · Xin Ge · Hui Li · Peng Dai · Qingbo Ye · Yuehua Huang · Yusheng Fu · Gangqing Wu · Xingyu Wang · Jie Wei · Jialin Han · Yijie Xu · Yuze Hou · Pengbo Liu · Tonggui Deng · Zhijian Yuan · Xusheng Qin (Master's)</p>
   </div>
 </div>
 
