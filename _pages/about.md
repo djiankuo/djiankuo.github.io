@@ -15,10 +15,19 @@ redirect_from:
   <p>My research interests lie in the general area of cryptography and security, particularly in applied cryptography, cryptographic engineering, and high-performance parallel computing. My publications include TIFS, TPDS, TC, TDSC, TECS, TII, IPDPS, ACSAC, and others.</p>
 </div>
 
-<div class="home-focus-grid">
-  <div class="home-focus-item"><strong>Focus</strong><span>Applied Cryptography</span></div>
-  <div class="home-focus-item"><strong>Area</strong><span>Security & Systems</span></div>
-  <div class="home-focus-item"><strong>Methods</strong><span>GPU / Parallel Computing</span></div>
+<div class="home-research-focus">
+  <div class="home-research-item">
+    <span class="home-research-index">01</span>
+    <span class="home-research-copy"><strong>网络空间安全与攻防对抗及漏洞分析技术</strong><small>Cyberspace Security, Attack and Defense, and Vulnerability Analysis</small></span>
+  </div>
+  <div class="home-research-item">
+    <span class="home-research-index">02</span>
+    <span class="home-research-copy"><strong>密码工程与高性能密码计算实现技术</strong><small>Cryptographic Engineering and High-Performance Cryptographic Computing</small></span>
+  </div>
+  <div class="home-research-item">
+    <span class="home-research-index">03</span>
+    <span class="home-research-copy"><strong>隐私计算与大模型智能体数据安全技术</strong><small>Privacy-Preserving Computing and Data Security for Large Language Model Agents</small></span>
+  </div>
 </div>
 
 ## Work Experience
