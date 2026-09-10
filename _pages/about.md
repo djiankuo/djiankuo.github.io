@@ -32,18 +32,18 @@ redirect_from:
 
 ## Work Experience
 
-* **2026.03 ~ Present** Research Professor, Ph.D. supervisor, University of Science and Technology of China (USTC) · 特任研究员，博士生导师，中国科学技术大学网络空间安全学院
-* **2024.09 ~ 2026.03** Associate Professor, Nanjing University of Posts and Telecommunications (NJUPT) · 副教授，南京邮电大学计算机学院
-* **2020.10 ~ 2024.09** Lecturer, Nanjing University of Posts and Telecommunications (NJUPT) · 讲师，南京邮电大学计算机学院
-* **2019.07 ~ 2020.09** Senior Engineer, Huawei Technology Co., Ltd. · 高级工程师，华为技术有限公司消费者BG
+* <span class="home-entry-date">2026.03 ~ Present</span><span class="home-entry-content"><span class="home-entry-en">Research Professor, Ph.D. supervisor, University of Science and Technology of China (USTC)</span><span class="home-entry-zh">特任研究员，博士生导师，中国科学技术大学网络空间安全学院</span></span>
+* <span class="home-entry-date">2024.09 ~ 2026.03</span><span class="home-entry-content"><span class="home-entry-en">Associate Professor, Nanjing University of Posts and Telecommunications (NJUPT)</span><span class="home-entry-zh">副教授，南京邮电大学计算机学院</span></span>
+* <span class="home-entry-date">2020.10 ~ 2024.09</span><span class="home-entry-content"><span class="home-entry-en">Lecturer, Nanjing University of Posts and Telecommunications (NJUPT)</span><span class="home-entry-zh">讲师，南京邮电大学计算机学院</span></span>
+* <span class="home-entry-date">2019.07 ~ 2020.09</span><span class="home-entry-content"><span class="home-entry-en">Senior Engineer, Huawei Technology Co., Ltd.</span><span class="home-entry-zh">高级工程师，华为技术有限公司消费者BG</span></span>
 
 
 ## Education
-* **2021.12 ~ Present** Postdoctoral Researcher, Nanjing University of Posts and Telecommunications, supervised by Prof. [Fu Xiao](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9B9D05C52A832DCFE050007F01006EFE) · 博士后，南京邮电大学，导师：[肖甫](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9B9D05C52A832DCFE050007F01006EFE)教授
+* <span class="home-entry-date">2021.12 ~ Present</span><span class="home-entry-content"><span class="home-entry-en">Postdoctoral Researcher, Nanjing University of Posts and Telecommunications, supervised by Prof. [Fu Xiao](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9B9D05C52A832DCFE050007F01006EFE)</span><span class="home-entry-zh">博士后，南京邮电大学，导师：[肖甫](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9B9D05C52A832DCFE050007F01006EFE)教授</span></span>
 
-* **2014.09 ~ 2019.06** Ph.D. in Cyberspace Security, Institute of Information Engineering, University of Chinese Academy of Sciences (IIE-UCAS), supervised by Prof. Dingfeng Ye, Prof. [Jingqiang Lin](https://lin-jingqiang.github.io/) and Prof. [Fangyu Zheng](https://zhengfangyu.github.io/) · 网络空间安全博士，中国科学院信息工程研究所，导师：叶顶锋研究员、[林璟锵](https://lin-jingqiang.github.io/)教授、[郑昉昱](https://zhengfangyu.github.io/)副教授
+* <span class="home-entry-date">2014.09 ~ 2019.06</span><span class="home-entry-content"><span class="home-entry-en">Ph.D. in Cyberspace Security, Institute of Information Engineering, University of Chinese Academy of Sciences (IIE-UCAS), supervised by Prof. Dingfeng Ye, Prof. [Jingqiang Lin](https://lin-jingqiang.github.io/) and Prof. [Fangyu Zheng](https://zhengfangyu.github.io/)</span><span class="home-entry-zh">网络空间安全博士，中国科学院信息工程研究所，导师：叶顶锋研究员、[林璟锵](https://lin-jingqiang.github.io/)教授、[郑昉昱](https://zhengfangyu.github.io/)副教授</span></span>
 
-* **2010.09 ~ 2014.07** B.S. in Computer Science and Technology, Xi’an Jiaotong University (XJTU), supervised by Associate Professor [Yi Qian](http://gr.xjtu.edu.cn/web/yqian) · 计算机科学与技术学士，西安交通大学电信学院，导师：[钱屹](http://gr.xjtu.edu.cn/web/yqian)副教授
+* <span class="home-entry-date">2010.09 ~ 2014.07</span><span class="home-entry-content"><span class="home-entry-en">B.S. in Computer Science and Technology, Xi’an Jiaotong University (XJTU), supervised by Associate Professor [Yi Qian](http://gr.xjtu.edu.cn/web/yqian)</span><span class="home-entry-zh">计算机科学与技术学士，西安交通大学电信学院，导师：[钱屹](http://gr.xjtu.edu.cn/web/yqian)副教授</span></span>
 
 
 
@@ -99,56 +99,16 @@ See [full publications](/full-publications/).
 
 ## Supervised Students
 
-1. Xinyi Ji (Ph.D, candidate, NJUPT)
-1. Kai Wang (Ph.D, candidate, graduated, NJUPT)
-1. Fuyuan Chen (Ph.D, candidate, NJUPT)
-1. Wen Wu (Ph.D, candidate, NJUPT)
-1. Ruihao Dai (Ph.D, candidate, NJUPT)
-1. Siyuan Zhou (Ph.D, candidate, NJUPT)
-
-1. Tianyu Mao (Master, candidate, graduated, NJUPT)
-1. Yiru Xiang (Master, candidate, graduated, NJUPT)
-1. Sheng Lu (Master, candidate, graduated, NJUPT)
-1. Kaisheng Sun (Master, candidate, graduated, NJUPT)
-1. Zhenguo Zhou (Master, candidate, graduated, NJUPT)
-1. Xin Ge (Master, candidate, graduated, NJUPT)
-1. Hui Li (Master, candidate, graduated, NJUPT)
-1. Peng Dai (Master, candidate, graduated, NJUPT)
-1. Qingbo Ye (Master, candidate, graduated, NJUPT)
-1. Yuehua Huang (Master, candidate, graduated, NJUPT)
-1. Yusheng Fu (Master, candidate, graduated, NJUPT)
-1. Gangqing Wu (Master, candidate, graduated, NJUPT)
-1. Xingyu Wang (Master, candidate, graduated, NJUPT)
-1. Jie Wei (Master, candidate, graduated, NJUPT)
-1. Jialin Han (Master, candidate, graduated, NJUPT)
-1. Shiqin Wang (Master, candidate, NJUPT)
-1. Yijie Xu (Master, candidate, graduated, NJUPT)
-1. Yuze Hou (Master, candidate, graduated, NJUPT)
-1. Pengbo Liu (Master, candidate, graduated, NJUPT)
-1. Tonggui Deng (Master, candidate, graduated, NJUPT)
-1. Zhijian Yuan (Master, candidate, graduated, NJUPT)
-1. Xusheng Qin (Master, candidate, graduated, NJUPT)
-
-1. Mingrui Qiu (Master, candidate, NJUPT)
-1. Zhen Xu (Master, candidate, NJUPT)
-1. Linfeng Zhou (Master, candidate, NJUPT)
-1. Lunjie Li (Master, candidate, NJUPT)
-1. Mengke Liu (Master, candidate, NJUPT)
-1. Zhechen Zhu (Master, candidate, NJUPT)
-1. Rui Fang (Master, candidate, NJUPT)
-1. Jiaqi Wang (Master, candidate, NJUPT)
-1. Qiyao Zhu (Master, candidate, NJUPT)
-1. Shengkun Zhou (Master, candidate, NJUPT)
-1. Yongkang Zhang (Master, candidate, NJUPT)
-1. Ruofei Jia (Master, candidate, NJUPT)
-1. Jiahan Yuan (Master, candidate, NJUPT)
-1. Xuecheng Liu (Master, candidate, NJUPT)
-1. Yajie Zhao (Master, candidate, NJUPT)
-1. Shuhan Yang (Master, candidate, NJUPT)
-1. Xianhao Tan (Master, candidate, NJUPT)
-1. Ziwei Xue (Master, candidate, NJUPT)
-1. Xiaolong Liao (Master, candidate, NJUPT)
-1. Yifan Liu (Master, candidate, NJUPT)
+<div class="student-groups">
+  <div class="student-group">
+    <h3>Ph.D. Students</h3>
+    <p>Xinyi Ji · Kai Wang (graduated) · Fuyuan Chen · Wen Wu · Ruihao Dai · Siyuan Zhou</p>
+  </div>
+  <div class="student-group">
+    <h3>Master's Students</h3>
+    <p>Tianyu Mao (graduated) · Yiru Xiang (graduated) · Sheng Lu (graduated) · Kaisheng Sun (graduated) · Zhenguo Zhou (graduated) · Xin Ge (graduated) · Hui Li (graduated) · Peng Dai (graduated) · Qingbo Ye (graduated) · Yuehua Huang (graduated) · Yusheng Fu (graduated) · Gangqing Wu (graduated) · Xingyu Wang (graduated) · Jie Wei (graduated) · Jialin Han (graduated) · Shiqin Wang · Yijie Xu (graduated) · Yuze Hou (graduated) · Pengbo Liu (graduated) · Tonggui Deng (graduated) · Zhijian Yuan (graduated) · Xusheng Qin (graduated) · Mingrui Qiu · Zhen Xu · Linfeng Zhou · Lunjie Li · Mengke Liu · Zhechen Zhu · Rui Fang · Jiaqi Wang · Qiyao Zhu · Shengkun Zhou · Yongkang Zhang · Ruofei Jia · Jiahan Yuan · Xuecheng Liu · Yajie Zhao · Shuhan Yang · Xianhao Tan · Ziwei Xue · Xiaolong Liao · Yifan Liu</p>
+  </div>
+</div>
 
 
 

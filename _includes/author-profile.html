@@ -16,7 +16,10 @@
 
   <div class="author__content">
     <span class="author__eyebrow">Researcher · USTC</span>
-    <h3 class="author__name">{{ author.name }}</h3>
+    <h3 class="author__name">
+      <span class="author__name-en">{{ author.name }}</span>
+      {% if author.name_zh %}<span class="author__name-zh">{{ author.name_zh }}</span>{% endif %}
+    </h3>
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
 

@@ -175,6 +175,17 @@
 .sidebar .author-profile-card .author__name {
   font-size: 1.25em;
 }
+
+.author__name-en,
+.author__name-zh {
+  display: block;
+}
+
+.author__name-zh {
+  margin-top: 0.1rem;
+  color: #334155;
+  font-size: 0.9em;
+}
 .sidebar .author__name {
   font-family: $sans-serif;
   font-size: $type-size-5;
