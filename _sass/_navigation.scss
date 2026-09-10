@@ -312,6 +312,30 @@
 .masthead .greedy-nav {
   background: transparent;
 
+  .masthead__menu-item--lg a {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.55rem;
+  }
+
+  .site-brand-mark {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 2rem;
+    height: 2rem;
+    border-radius: 8px;
+    background: #2563eb;
+    color: #fff;
+    font-size: 0.72em;
+    font-weight: 800;
+    letter-spacing: 0.04em;
+  }
+
+  .site-brand-name {
+    white-space: nowrap;
+  }
+
   .visible-links {
     a {
       margin: 0 0.35rem;
@@ -341,6 +365,22 @@
 
       &:hover {
         background: transparent;
+      }
+    }
+
+    .masthead__menu-item.is-active a {
+      color: #1d4ed8;
+      background: #eff6ff;
+
+      &:after {
+        content: "";
+        position: absolute;
+        right: 0.8rem;
+        bottom: 0.25rem;
+        left: 0.8rem;
+        height: 3px;
+        border-radius: 999px;
+        background: #2563eb;
       }
     }
   }
