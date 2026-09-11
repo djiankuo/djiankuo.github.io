@@ -13,6 +13,8 @@ classes: compact-text
 
 1. **[Conf-NDSS2027]** Huiyang He, Weijing You, Zixi Huang, Jingqiang Lin, Wenxu Tang, Xuncheng Zhang, Kailiang Ji, **Jiankuo Dong**, Wei Wang, “PeHT-MPSI: Faster OT-MPSI and TT-MPSI with Per-Element Hidden Thresholds”, 34th ISOC Network and Distributed System Security Symposium (NDSS), 2027. （CCF A类，会议论文）
 
+1. **[Conf-CHES2026]** Yikang Guo, Yuchang Hu, Yanbin Li, Shilin Sun, Geng Chen, Chunpeng Ge, **Jiankuo Dong**, “From Multiplication to Recovery: A Single-trace Side-Channel Attack on HQC”, International Conference on Cryptographic Hardware and Embedded Systems (CHES), 2026. （会议论文）
+
 1. **[Jour-软件学报2026]** Wen Wu（吴雯）, Lunjie Li（李伦杰）, **Jiankuo Dong（董建阔）***, Zhenjiang Dong*（董振江）, Jingqiang Lin（林璟锵）, Fu Xiao（肖甫）, “Efficient Implementation of Post-Quantum Cryptography Scloud+ on ARMv8 Architecture”, 面向ARMv8平台的抗量子密码Scloud+并行实现方法, Journal on Software,（软件学报）, 2026.
 
 
