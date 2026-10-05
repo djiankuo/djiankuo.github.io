@@ -11,6 +11,9 @@ classes: compact-text
 
 <div class="publication-note">A complete list of recent publications, with the latest work listed first.</div>
 
+1. **[Jour-IEEE TC2026]** **Jiankuo Dong**, Qingbo Ye, Sheng Lu, Liming Feng, Zhenjiang Dong, Jingqiang Lin, Fu Xiao, “HPS: Speeding Up Paillier Homomorphic Cryptosystem on GPU”, IEEE Transactions on Computers (IEEE TC), 2026, accepted to appear.（CCF A类，期刊论文）
+
+
 
 1. **[Jour-通信学报2026]** Ayinuer Nuertai（阿依努尔·努尔太），Pinchang Zhang（张品昌），**Jiankuo Dong（董建阔）**，Yuanzhang Shen（沈元章），Weibei Fan（樊卫北），Fu Xiao（肖甫），“Lightweight UAV RF Identification Method Based on Transient Envelope Modulation Spectrograms”，基于瞬态包络调制谱图的轻量级无人机射频身份识别方法，Journal on Communications（通信学报），2026.
 
