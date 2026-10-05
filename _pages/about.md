@@ -131,11 +131,13 @@ See [Students](/standards/).
   <div>djiankuo \at gmail.com</div>
 </div>
 
+<script data-goatcounter="https://djiankuo.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
 
+<!---
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=hDqGIHVAbAXvG5hcv2BATY4rMKoiFnu3w5ScoP2BCR8&co=8fa5b5'></script>
-
+-->
 
 <!---
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=hDqGIHVAbAXvG5hcv2BATY4rMKoiFnu3w5ScoP2BCR8"></script>
 -->
-
