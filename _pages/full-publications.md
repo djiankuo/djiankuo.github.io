@@ -11,6 +11,8 @@ classes: compact-text
 
 <div class="publication-note">A complete list of recent publications, with the latest work listed first.</div>
 
+1. **[Jour-IEEE TC2026]** Wen Wu, **Jiankuo Dong**, Xuecheng Liu, Shuzhou Sun, Zhenjiang Dong, Jingqiang Lin, Fu Xiao, “RACE: A Rapid ARM Cryptographic Engine for Code-Based Classic McEliece PQC Scheme”, IEEE Transactions on Computers (IEEE TC), 2026, accepted to appear.（CCF A类，期刊论文）
+
 1. **[Jour-IEEE TC2026]** **Jiankuo Dong**, Qingbo Ye, Sheng Lu, Liming Feng, Zhenjiang Dong, Jingqiang Lin, Fu Xiao, “HPS: Speeding Up Paillier Homomorphic Cryptosystem on GPU”, IEEE Transactions on Computers (IEEE TC), 2026, accepted to appear.（CCF A类，期刊论文）
 
 
