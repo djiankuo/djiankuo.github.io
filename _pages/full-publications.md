@@ -22,7 +22,7 @@ classes: compact-text
 1. **[Jour-通信学报2026]** Ayinuer Nuertai（阿依努尔·努尔太），Pinchang Zhang（张品昌），**Jiankuo Dong（董建阔）**，Yuanzhang Shen（沈元章），Weibei Fan（樊卫北），Fu Xiao（肖甫），“Lightweight UAV RF Identification Method Based on Transient Envelope Modulation Spectrograms”，基于瞬态包络调制谱图的轻量级无人机射频身份识别方法，Journal on Communications（通信学报），2026. [doi: 10.11959/j.issn.1000-436x.TXXB260498](https://doi.org/10.11959/j.issn.1000-436x.TXXB260498)
 
 
-1. **[Conf-NDSS2027]** Huiyang He, Weijing You, Zixi Huang, Jingqiang Lin, Wenxu Tang, Xuncheng Zhang, Kailiang Ji, **Jiankuo Dong**, Wei Wang, “PeHT-MPSI: Faster OT-MPSI and TT-MPSI with Per-Element Hidden Thresholds”, 34th ISOC Network and Distributed System Security Symposium (NDSS), 2027. （CCF A类，会议论文）
+1. **[Conf-NDSS2027]** Huiyang He, Weijing You, Zixi Huang, Jingqiang Lin, Wenxu Tang, Xuncheng Zhang, Kailiang Ji, **Jiankuo Dong**, Wei Wang, “PeHT-MPSI: Faster OT-MPSI and TT-MPSI with Per-Element Hidden Thresholds”, 34th ISOC Network and Distributed System Security Symposium (NDSS), 2027. （<strong style="color: #c62828;">CCF A类</strong>，会议论文）
 
 1. **[Conf-CHES2026]** Yikang Guo, Yuchang Hu, Yanbin Li, Shilin Sun, Geng Chen, Chunpeng Ge, **Jiankuo Dong**, “From Multiplication to Recovery: A Single-trace Side-Channel Attack on HQC”, International Conference on Cryptographic Hardware and Embedded Systems (CHES), 2026. [doi: 10.46586/tches.v2026.i4.890-916](https://doi.org/10.46586/tches.v2026.i4.890-916) （会议论文）
 
