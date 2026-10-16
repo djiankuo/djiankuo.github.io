@@ -13,6 +13,8 @@ classes: compact-text
 
 1. **[Jour-IEEE TC2026]** Wen Wu, **Jiankuo Dong**, Xuecheng Liu, Shuzhou Sun, Zhenjiang Dong, Jingqiang Lin, Fu Xiao, “RACE: A Rapid ARM Cryptographic Engine for Code-Based Classic McEliece PQC Scheme”, IEEE Transactions on Computers (IEEE TC), 2026, accepted to appear.（CCF A类，期刊论文）
 
+1. **[Jour-IEEE TIFS2026]** Yi Bian, Fangyu Zheng*, **Jiankuo Dong**, Yuewu Wang, Jingqiang Lin and Jiwu Jing, “F-STORM: Spinning NTT-unfriendly Lattices on Tensor Cores via Negacyclic Tensorization”, IEEE Transactions on Information Forensics and Security (TIFS), 2026, accepted to appear.（CCF A类，期刊论文）
+
 1. **[Jour-IEEE TC2026]** **Jiankuo Dong**, Qingbo Ye, Sheng Lu, Liming Feng, Zhenjiang Dong, Jingqiang Lin, Fu Xiao, “HPS: Speeding Up Paillier Homomorphic Cryptosystem on GPU”, IEEE Transactions on Computers (IEEE TC), 2026, accepted to appear.（CCF A类，期刊论文）
 
 
