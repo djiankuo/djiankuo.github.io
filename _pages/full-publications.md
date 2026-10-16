@@ -11,11 +11,11 @@ classes: compact-text
 
 <div class="publication-note">A complete list of recent publications, with the latest work listed first.</div>
 
-1. **[Jour-IEEE TC2026]** Wen Wu, **Jiankuo Dong**, Xuecheng Liu, Shuzhou Sun, Zhenjiang Dong, Jingqiang Lin, Fu Xiao, “RACE: A Rapid ARM Cryptographic Engine for Code-Based Classic McEliece PQC Scheme”, IEEE Transactions on Computers (IEEE TC), 2026, accepted to appear. [doi: 10.1109/TC.2026.3744670](https://doi.org/10.1109/TC.2026.3744670) （<strong style="color: #1565c0;">CCF A类</strong>，期刊论文）
+1. **[Jour-IEEE TC2026]** Wen Wu, **Jiankuo Dong**, Xuecheng Liu, Shuzhou Sun, Zhenjiang Dong, Jingqiang Lin, Fu Xiao, “RACE: A Rapid ARM Cryptographic Engine for Code-Based Classic McEliece PQC Scheme”, IEEE Transactions on Computers (IEEE TC), 2026, accepted to appear. [doi: 10.1109/TC.2026.3744670](https://doi.org/10.1109/TC.2026.3744670) （<strong style="color: #c62828;">CCF A类</strong>，期刊论文）
 
-1. **[Jour-IEEE TIFS2026]** Yi Bian, Fangyu Zheng*, **Jiankuo Dong**, Yuewu Wang, Jingqiang Lin and Jiwu Jing, “F-STORM: Spinning NTT-unfriendly Lattices on Tensor Cores via Negacyclic Tensorization”, IEEE Transactions on Information Forensics and Security (TIFS), 2026, accepted to appear.（<strong style="color: #1565c0;">CCF A类</strong>，期刊论文）
+1. **[Jour-IEEE TIFS2026]** Yi Bian, Fangyu Zheng*, **Jiankuo Dong**, Yuewu Wang, Jingqiang Lin and Jiwu Jing, “F-STORM: Spinning NTT-unfriendly Lattices on Tensor Cores via Negacyclic Tensorization”, IEEE Transactions on Information Forensics and Security (TIFS), 2026, accepted to appear.（<strong style="color: #c62828;">CCF A类</strong>，期刊论文）
 
-1. **[Jour-IEEE TC2026]** **Jiankuo Dong**, Qingbo Ye, Sheng Lu, Liming Feng, Zhenjiang Dong, Jingqiang Lin, Fu Xiao, “HPS: Speeding Up Paillier Homomorphic Cryptosystem on GPU”, IEEE Transactions on Computers (IEEE TC), 2026, accepted to appear. [doi: 10.1109/TC.2026.3741899](https://doi.org/10.1109/TC.2026.3741899) （<strong style="color: #1565c0;">CCF A类</strong>，期刊论文）
+1. **[Jour-IEEE TC2026]** **Jiankuo Dong**, Qingbo Ye, Sheng Lu, Liming Feng, Zhenjiang Dong, Jingqiang Lin, Fu Xiao, “HPS: Speeding Up Paillier Homomorphic Cryptosystem on GPU”, IEEE Transactions on Computers (IEEE TC), 2026, accepted to appear. [doi: 10.1109/TC.2026.3741899](https://doi.org/10.1109/TC.2026.3741899) （<strong style="color: #c62828;">CCF A类</strong>，期刊论文）
 
 
 
@@ -34,43 +34,43 @@ classes: compact-text
 1. **[Jour-JCST2026]** Fuyuan Chen, **Jiankuo Dong***, Xingyu Wang, Zhenjiang Dong, Huaqun Wang, “HI-SM4: Exploiting Domestic Hygon DCU for High-Performance SM4 Cryptographic Computing”, Journal of Computer Science and Technology (JCST), 2026. [doi: 10.1007/s11390-026-5659-1](https://doi.org/10.1007/s11390-026-5659-1) （CCF B类，期刊论文）
 
 
-1. **[Jour-IEEE TC2026]** **Jiankuo Dong**, Yuze Hou, Shiqin Wang, Letian Sha, Fu Xiao, Zhenjiang Dong, Jingqiang Lin, “HIGH: Harnessing GPU Parallelism for Optimized HQC Performance”, IEEE Transactions on Computers (IEEE TC), 2026, **accepted to appear**. [doi: 10.1109/TC.2026.3700228](https://doi.org/10.1109/TC.2026.3700228) （<strong style="color: #1565c0;">CCF A类</strong>，期刊论文）
+1. **[Jour-IEEE TC2026]** **Jiankuo Dong**, Yuze Hou, Shiqin Wang, Letian Sha, Fu Xiao, Zhenjiang Dong, Jingqiang Lin, “HIGH: Harnessing GPU Parallelism for Optimized HQC Performance”, IEEE Transactions on Computers (IEEE TC), 2026, **accepted to appear**. [doi: 10.1109/TC.2026.3700228](https://doi.org/10.1109/TC.2026.3700228) （<strong style="color: #c62828;">CCF A类</strong>，期刊论文）
 
 
-1. **[Jour-IEEE TDSC2026]** Lingyan Xue, Haiping Huang, **Jiankuo Dong**, Fu Xiao, Shijie Zhang, “Quantum-Resistant Data Sharing Scheme with Auditability for Internet of Vehicles”, IEEE Transactions on Dependable and Secure Computing (IEEE TDSC), 2026, **accepted to appear**. [doi: 10.1109/TDSC.2026.3691470](https://doi.org/10.1109/TDSC.2026.3691470) （<strong style="color: #1565c0;">CCF A类</strong>，期刊论文）
+1. **[Jour-IEEE TDSC2026]** Lingyan Xue, Haiping Huang, **Jiankuo Dong**, Fu Xiao, Shijie Zhang, “Quantum-Resistant Data Sharing Scheme with Auditability for Internet of Vehicles”, IEEE Transactions on Dependable and Secure Computing (IEEE TDSC), 2026, **accepted to appear**. [doi: 10.1109/TDSC.2026.3691470](https://doi.org/10.1109/TDSC.2026.3691470) （<strong style="color: #c62828;">CCF A类</strong>，期刊论文）
 
 1. **[Conf-CHES2026]** Yanren Chen, Fangyu Zheng *, Guang Fan, **Jiankuo Dong**, Wenxu Tang, Tian Zhou, Jingqiang Lin and Jiwu Jing, “BOLT-FHE: An Efficient Unified Framework for GPU-based TFHE Bootstrapping via On-Chip Local Tiling Strategies”, 28th International Conference on Cryptographic Hardware and Embedded Systems (CHES), **accepted to appear**. 2026. [doi: 10.46586/tches.v2026.i3.198-223](https://doi.org/10.46586/tches.v2026.i3.198-223)
 
 
-1. **[Jour-IEEE TIFS2026]** Yijing Ning, **Jiankuo Dong***, Yajie Zhao, Jingqiang Lin, Tian Zhou, Jiachen Wang, Fu Xiao, “X2O: Cross Parallel Optimization of the CROSS Post-Quantum Scheme on GPU”, IEEE Transactions on Information Forensics & Security（IEEE TIFS）, 2026. [doi: 10.1109/TIFS.2026.3671118](https://doi.org/10.1109/TIFS.2026.3671118) （<strong style="color: #1565c0;">CCF A类</strong>，期刊论文）
+1. **[Jour-IEEE TIFS2026]** Yijing Ning, **Jiankuo Dong***, Yajie Zhao, Jingqiang Lin, Tian Zhou, Jiachen Wang, Fu Xiao, “X2O: Cross Parallel Optimization of the CROSS Post-Quantum Scheme on GPU”, IEEE Transactions on Information Forensics & Security（IEEE TIFS）, 2026. [doi: 10.1109/TIFS.2026.3671118](https://doi.org/10.1109/TIFS.2026.3671118) （<strong style="color: #c62828;">CCF A类</strong>，期刊论文）
 
 1. **[Jour-南京邮电大学学报2026]** **Jiankuo Dong (董建阔)**, Zhen Xu（徐震）, Yuandong Zhang（张元东）, Gang Xu*（徐刚）, Zhenjiang Dong（董振江）, Fangyu Zheng（郑昉昱）, “High-Performance Software Implementation Techniques for Chinese Commercial Cryptographic Algorithms”, Journal of Nanjing University of Posts and Telecommunications (Natural Science Edition)（南京邮电大学学报（自然科学版））, 2026, **accepted to appear**.
 
 1. **[Jour-通讯学报2026]** Xiao Chen（陈霄）, Tiantian Sha（沙乐天）, Jiaxiao Pan（潘家晔）, Rui Sun（孙瑞）, **Jiankuo Dong（董建阔）**, Fu Xiao（肖甫）, “CIDefuse: Command Injection Vulnerability Detection System Integrating Data Flow Analysis and Semantic Embedding”, CIDefuse:融合数据流分析与语义嵌入的命令注入漏洞检测系统, Journal on Communications（通信学报）, 2026. [doi: 10.11959/j.issn.1000-436x.2026018](https://doi.org/10.11959/j.issn.1000-436x.2026018)
 
-1. **[Jour-IEEE TC2026]** Yijing Ning, **Jiankuo Dong***, Jingqiang Lin, Fangyu Zheng, Yu Fu, Fu Xiao, “GRASP: Accelerating Hash-based PQC Performance on GPU Parallel Architecture”, IEEE Transactions on Computers（IEEE TC）, 2026. [doi: 10.1109/TC.2026.3654650](https://doi.org/10.1109/TC.2026.3654650) （<strong style="color: #1565c0;">CCF A类</strong>，期刊论文）
+1. **[Jour-IEEE TC2026]** Yijing Ning, **Jiankuo Dong***, Jingqiang Lin, Fangyu Zheng, Yu Fu, Fu Xiao, “GRASP: Accelerating Hash-based PQC Performance on GPU Parallel Architecture”, IEEE Transactions on Computers（IEEE TC）, 2026. [doi: 10.1109/TC.2026.3654650](https://doi.org/10.1109/TC.2026.3654650) （<strong style="color: #c62828;">CCF A类</strong>，期刊论文）
 
 1. **[Jour-IEEE TII2025]** Fuyuan Chen, **Jiankuo Dong***, Xiaoyu Hu, Zhenjiang Dong, Wangchen Dai, “HI-CKKS: Is High-Throughput Neglected? Reimagining CKKS Efficiency with Parallelism”, IEEE Transactions on Industrial Informatics（IEEE TII）, 2026. [doi: 10.1109/TII.2025.3648441](https://doi.org/10.1109/TII.2025.3648441)
 
-1. **[Jour-IEEE TIFS2025]** Ruihao Dai, **Jiankuo Dong***, Mingrui Qiu, Zhenjiang Dong, Fu Xiao, Jingqiang Lin, “GOLF: Unleashing GPU-Driven Acceleration for FALCON Post-Quantum Cryptography”, IEEE Transactions on Information Forensics & Security（IEEE TIFS）, 2025. [doi: 10.1109/TIFS.2025.3599681](https://doi.org/10.1109/TIFS.2025.3599681) （<strong style="color: #1565c0;">CCF A类</strong>，期刊论文）
+1. **[Jour-IEEE TIFS2025]** Ruihao Dai, **Jiankuo Dong***, Mingrui Qiu, Zhenjiang Dong, Fu Xiao, Jingqiang Lin, “GOLF: Unleashing GPU-Driven Acceleration for FALCON Post-Quantum Cryptography”, IEEE Transactions on Information Forensics & Security（IEEE TIFS）, 2025. [doi: 10.1109/TIFS.2025.3599681](https://doi.org/10.1109/TIFS.2025.3599681) （<strong style="color: #c62828;">CCF A类</strong>，期刊论文）
 
 1. **[Jour-南京邮电大学学报2025]** Xiao Chen（陈霄）, Letian Sha（沙乐天）, **Jiankuo Dong（董建阔）**, Fu Xiao（肖甫）, “Threat Intelligence Knowledge Graph Construction Method Driven by Large Language Models”, 大语言模型驱动的威胁情报知识图谱构建方法, Journal of Nanjing University of Posts and Telecommunications (Natural Science Edition)（南京邮电大学学报（自然科学版））, 2025.
 
 
-1. **[Jour-IEEE TIFS2025]** Wen Wu, **Jiankuo Dong***, Zhen Xu, Zhenjiang Dong, Dung Duong, Fu Xiao, Jingqiang Lin, “Symphony of Speeds: Harmonizing Classic McEliece Cryptography with GPU Innovation”, IEEE Transactions on Information Forensics & Security（IEEE TIFS）, 2025. [doi: 10.1109/TIFS.2025.3595678](https://doi.org/10.1109/TIFS.2025.3595678) （<strong style="color: #1565c0;">CCF A类</strong>，期刊论文）
+1. **[Jour-IEEE TIFS2025]** Wen Wu, **Jiankuo Dong***, Zhen Xu, Zhenjiang Dong, Dung Duong, Fu Xiao, Jingqiang Lin, “Symphony of Speeds: Harmonizing Classic McEliece Cryptography with GPU Innovation”, IEEE Transactions on Information Forensics & Security（IEEE TIFS）, 2025. [doi: 10.1109/TIFS.2025.3595678](https://doi.org/10.1109/TIFS.2025.3595678) （<strong style="color: #c62828;">CCF A类</strong>，期刊论文）
 
-1. **[Jour-IEEE TIFS2025]** Mengxue Yang, Huaqun Wang, Debiao He, **Jiankuo Dong**, “RLP-ABE: Puncturable CP-ABE for Efficient User Revocation from Lattices in Cloud Storage”, IEEE Transactions on Information Forensics & Security（IEEE TIFS）, 2025. [doi: 10.1109/TIFS.2025.3613055](https://doi.org/10.1109/TIFS.2025.3613055) （<strong style="color: #1565c0;">CCF A类</strong>，期刊论文）
+1. **[Jour-IEEE TIFS2025]** Mengxue Yang, Huaqun Wang, Debiao He, **Jiankuo Dong**, “RLP-ABE: Puncturable CP-ABE for Efficient User Revocation from Lattices in Cloud Storage”, IEEE Transactions on Information Forensics & Security（IEEE TIFS）, 2025. [doi: 10.1109/TIFS.2025.3613055](https://doi.org/10.1109/TIFS.2025.3613055) （<strong style="color: #c62828;">CCF A类</strong>，期刊论文）
 
 1. **[Jour-IEEE TII2025]** Wen Wu, **Jiankuo Dong***, Yuze Hou, Mengke Liu, Lunjie Li, Zhenjiang Dong, “RIGHT: GPU-Optimized Parallel PQC HAETAE for High-Throughput Cryptographic Acceleration”, IEEE Transactions on Industrial Informatics（IEEE TII）, 2026. [doi: 10.1109/TII.2025.3613305](https://doi.org/10.1109/TII.2025.3613305)
 
-1. **[Jour-IEEE TDSC2025]** Pinchang Zhang, Huangwenqing Shi, **Jiankuo Dong**, Ji He, Xiaohong Jiang, Fu Xiao, “Enhanced Two-Way Privacy-Preserving PHY-Layer Authentication for UAV-Assisted MIMO Systems”, IEEE Transactions on Dependable and Secure Computing（IEEE TDSC）, 2025. [doi: 10.1109/TDSC.2025.3594095](https://doi.org/10.1109/TDSC.2025.3594095) （<strong style="color: #1565c0;">CCF A类</strong>，期刊论文）
+1. **[Jour-IEEE TDSC2025]** Pinchang Zhang, Huangwenqing Shi, **Jiankuo Dong**, Ji He, Xiaohong Jiang, Fu Xiao, “Enhanced Two-Way Privacy-Preserving PHY-Layer Authentication for UAV-Assisted MIMO Systems”, IEEE Transactions on Dependable and Secure Computing（IEEE TDSC）, 2025. [doi: 10.1109/TDSC.2025.3594095](https://doi.org/10.1109/TDSC.2025.3594095) （<strong style="color: #c62828;">CCF A类</strong>，期刊论文）
 
 1. **[Jour-IEEE TII2025]** **Jiankuo Dong**, Jie Wei, Xiaoyu Hu, Zhenjiang Dong, Fuyuan Chen, Xin Hu, Jin Qi, “DDCC: Synergizing Denoising Diffusion Probabilistic Models and Curriculum-based Complexity Control for Insider Threat Detection”, IEEE Transactions on Industrial Informatics（IEEE TII）, 2025. [doi: 10.1109/TII.2025.3574417](https://doi.org/10.1109/TII.2025.3574417)
 
-1. **[Jour-IEEE TDSC2025]** Letian Sha, Xingpeng Huo, Fu Xiao, **Jiankuo Dong**, Jianwen Liu, Shang Wu, Ziyue Su, “AWDP: Automated Windows Domain Penetration Framework with Deep Reinforcement Learning”, IEEE Transactions on Dependable and Secure Computing（IEEE TDSC）, 2025. [doi: 10.1109/TDSC.2025.3575064](https://doi.org/10.1109/TDSC.2025.3575064) （<strong style="color: #1565c0;">CCF A类</strong>，期刊论文）
+1. **[Jour-IEEE TDSC2025]** Letian Sha, Xingpeng Huo, Fu Xiao, **Jiankuo Dong**, Jianwen Liu, Shang Wu, Ziyue Su, “AWDP: Automated Windows Domain Penetration Framework with Deep Reinforcement Learning”, IEEE Transactions on Dependable and Secure Computing（IEEE TDSC）, 2025. [doi: 10.1109/TDSC.2025.3575064](https://doi.org/10.1109/TDSC.2025.3575064) （<strong style="color: #c62828;">CCF A类</strong>，期刊论文）
 
 
-1. **[Jour-IEEE TPDS2025]** Fangyu Zheng, Guang Fan, Wenxu Tang, Yixuan Song, Tian Zhou, Yuan Zhao, **Jiankuo Dong**, Jingqiang Lin, Shoumeng Yan, Jiwu Jing, “GIF-FHE: A Comprehensive Implementation and Evaluation of GPU-accelerated FHE with Integer and Floating-point Computing Power”, IEEE Transactions on Parallel and Distributed Systems (TPDS), 2025. [doi: 10.1109/TPDS.2025.3574481](https://doi.org/10.1109/TPDS.2025.3574481) （<strong style="color: #1565c0;">CCF A类</strong>，期刊论文）
+1. **[Jour-IEEE TPDS2025]** Fangyu Zheng, Guang Fan, Wenxu Tang, Yixuan Song, Tian Zhou, Yuan Zhao, **Jiankuo Dong**, Jingqiang Lin, Shoumeng Yan, Jiwu Jing, “GIF-FHE: A Comprehensive Implementation and Evaluation of GPU-accelerated FHE with Integer and Floating-point Computing Power”, IEEE Transactions on Parallel and Distributed Systems (TPDS), 2025. [doi: 10.1109/TPDS.2025.3574481](https://doi.org/10.1109/TPDS.2025.3574481) （<strong style="color: #c62828;">CCF A类</strong>，期刊论文）
 
 1. **[Jour-通信学报2025]** Wen Wu(吴雯)、**Jiankuo Dong*(董建阔)**、Pengbo Liu(刘鹏博)、Zhenjiang Dong(董振江)、Xin Hu(胡昕)、Pinchang Zhang(张品昌)、Fu Xiao(肖甫)，"High-performance Parallel Acceleration Method for Public Key Cryptographic Algorithm SM2 Based on Domestic GPU"，基于国产GPU的国产公钥密码SM2高性能并行加速方法，《通信学报》, 2025. [doi: 10.11959/j.issn.1000-436x.2025089](https://doi.org/10.11959/j.issn.1000-436x.2025089)
 
@@ -87,13 +87,13 @@ classes: compact-text
 1. **[Jour-IEEE TII2024]** Xiao Chen, Letian Sha*, Jincheng Wang, Fu Xiao, **Jiankuo Dong**, “SFO-CID: Structural Feature Optimization Based Command Injection Vulnerability Discovery For Internet of Things”, IEEE Transactions on Industrial Informatics, 2024. [doi: 10.1109/TII.2024.3477563](https://doi.org/10.1109/TII.2024.3477563)
 
 
-1. **[Jour-IEEE TC2024]** Xinyi Ji, **Jiankuo Dong***, Junhao Huang, Zhijian Yuan, Wangchen Dai, Fu Xiao, Jingqiang Lin, "ECO-CRYSTALS: Efficient Cryptography CRYSTALS on Standard RISC-V ISA", IEEE Transactions on Computers (IEEE TC), 2024. [doi: 10.1109/TC.2024.3483631](https://doi.org/10.1109/TC.2024.3483631) （<strong style="color: #1565c0;">CCF A类</strong>，期刊论文）
+1. **[Jour-IEEE TC2024]** Xinyi Ji, **Jiankuo Dong***, Junhao Huang, Zhijian Yuan, Wangchen Dai, Fu Xiao, Jingqiang Lin, "ECO-CRYSTALS: Efficient Cryptography CRYSTALS on Standard RISC-V ISA", IEEE Transactions on Computers (IEEE TC), 2024. [doi: 10.1109/TC.2024.3483631](https://doi.org/10.1109/TC.2024.3483631) （<strong style="color: #c62828;">CCF A类</strong>，期刊论文）
 
-1. **[Jour-IEEE TC2024]** Yi Bian, Fangyu Zheng*, Yuewu Wang, Lingguang Lei, Yuan Ma, **Jiankuo Dong**, Guang Fan, Jiwu Jing, "AsyncGBP+: Bridging SSL/TLS and Heterogeneous Computing Power with GPU-based Providers", IEEE Transactions on Computers, 2025. [doi: 10.1109/TC.2024.3477987](https://doi.org/10.1109/TC.2024.3477987) （<strong style="color: #1565c0;">CCF A类</strong>，期刊论文）
+1. **[Jour-IEEE TC2024]** Yi Bian, Fangyu Zheng*, Yuewu Wang, Lingguang Lei, Yuan Ma, **Jiankuo Dong**, Guang Fan, Jiwu Jing, "AsyncGBP+: Bridging SSL/TLS and Heterogeneous Computing Power with GPU-based Providers", IEEE Transactions on Computers, 2025. [doi: 10.1109/TC.2024.3477987](https://doi.org/10.1109/TC.2024.3477987) （<strong style="color: #c62828;">CCF A类</strong>，期刊论文）
 
 1. **[Jour-IEEE TOMM2024]** Letian Sha, Xiao Chen*, Fu Xiao, Zhong Wang, Zhangbo Long, Qianyu Fan, **Jiankuo Dong**, "VRVul-Discovery: BiLSTM-based Vulnerability Discovery for Virtual Reality Devices in Metaverse", ACM Transactions on Multimedia Computing, Communications and Applications, 2024. [doi: 10.1145/3677609](https://doi.org/10.1145/3677609)
 
-1. **[Jour-IEEE TIFS2024]** **Jiankuo Dong**, Yusheng Fu, Xusheng Qin, Zhenjiang Dong*, Fu Xiao, Jingqiang Lin, "ECO-BIKE: Bridging the Gap Between PQC BIKE And GPU Acceleration", IEEE Transactions on Information Forensics and Security, 2024. [doi: 10.1109/TIFS.2024.3443617](https://doi.org/10.1109/TIFS.2024.3443617) （<strong style="color: #1565c0;">CCF A类</strong>，期刊论文）
+1. **[Jour-IEEE TIFS2024]** **Jiankuo Dong**, Yusheng Fu, Xusheng Qin, Zhenjiang Dong*, Fu Xiao, Jingqiang Lin, "ECO-BIKE: Bridging the Gap Between PQC BIKE And GPU Acceleration", IEEE Transactions on Information Forensics and Security, 2024. [doi: 10.1109/TIFS.2024.3443617](https://doi.org/10.1109/TIFS.2024.3443617) （<strong style="color: #c62828;">CCF A类</strong>，期刊论文）
 
 
 1. **[Jour-IEEE FGCS2024]** Kai Wang, **Jiankuo Dong**, Yijie Xu, Xinyi Ji, Letian Sha, Fu Xiao, "READ: Resource Efficient Authentication Scheme for Digital Twin Edge Networks", Future Generation Computer Systems, 2025. [doi: 10.1016/j.future.2024.107498](https://doi.org/10.1016/j.future.2024.107498)
@@ -106,7 +106,7 @@ classes: compact-text
 
 1. **[Jour-IEEE TCOMM2024]** Yulin Teng, Pinchang Zhang, Yangyang Liu, **Jiankuo Dong** and Fu Xiao, "Exploiting Carrier Frequency Offset and Phase Noise for Physical Layer Authentication in UAV-Aided Communication Systems", IEEE Transactions on Communications, 2024. [doi: 10.1109/TCOMM.2024.3379404](https://doi.org/10.1109/TCOMM.2024.3379404)
 
-1. **[Jour-IEEE TPDS2024]** Xinyi Ji, **Jiankuo Dong**, Tonggui Deng, Pinchang Zhang, Jiafeng Hua and Fu Xiao, "HI-Kyber: A Novel High-Performance Implementation Scheme of Kyber Based on GPU", IEEE Transactions on Parallel and Distributed Systems, 2024. [doi: 10.1109/TPDS.2024.3379734](https://doi.org/10.1109/TPDS.2024.3379734) （<strong style="color: #1565c0;">CCF A类</strong>，期刊论文）
+1. **[Jour-IEEE TPDS2024]** Xinyi Ji, **Jiankuo Dong**, Tonggui Deng, Pinchang Zhang, Jiafeng Hua and Fu Xiao, "HI-Kyber: A Novel High-Performance Implementation Scheme of Kyber Based on GPU", IEEE Transactions on Parallel and Distributed Systems, 2024. [doi: 10.1109/TPDS.2024.3379734](https://doi.org/10.1109/TPDS.2024.3379734) （<strong style="color: #c62828;">CCF A类</strong>，期刊论文）
 
 
 1. **[Jour-电子元器件与信息技术2024]** Xuemei Liu（刘雪梅）, Qian Zhao（赵谦）, Ye Tian（田叶）, Ronglong Bu（卜荣龙）, Letian Sha（沙乐天）, Jiankuo Dong（董建阔）, "Intelligent Domain Penetration Testing Method Based on Deep Learning", 基于深度学习的智能化域渗透测试方法, Electronic Components and Information Technology（电子元器件与信息技术）, 2024. [doi: 10.19772/j.cnki.2096-4455.2024.4.066](https://doi.org/10.19772/j.cnki.2096-4455.2024.4.066)
@@ -163,7 +163,7 @@ classes: compact-text
 
 1. **[Conf-WASA2021]** **Jiankuo Dong**, Guang Fan, Fangyu Zheng *, Jingqiang Lin, Zhe Liu, Fu Xiao, "TX-RSA: A High Performance RSA Implementation Scheme on NVIDIA Tegra X2", 16th International Conf on Wireless Algorithms, Systems, and Application (WASA), 2021, [doi: 10.1007/978-3-030-86130-8_17](https://doi.org/10.1007/978-3-030-86130-8_17).
 
-1. **[Jour-TIFS2021]** Lili Gao, Fangyu Zheng *, Rong Wei, **Jiankuo Dong**, Niall Emmart, Yuan Ma, Jingqiang Lin, Charles C. Weems, “DPF-ECC: A Framework for Efficient ECC with Double Precision Floating-Point Computing Power", IEEE Transactions on Information Forensics and Security (TIFS), 2021, [doi: 10.1109/TIFS.2021.3098987](https://doi.org/10.1109/TIFS.2021.3098987). （<strong style="color: #1565c0;">CCF A类</strong>，期刊论文）
+1. **[Jour-TIFS2021]** Lili Gao, Fangyu Zheng *, Rong Wei, **Jiankuo Dong**, Niall Emmart, Yuan Ma, Jingqiang Lin, Charles C. Weems, “DPF-ECC: A Framework for Efficient ECC with Double Precision Floating-Point Computing Power", IEEE Transactions on Information Forensics and Security (TIFS), 2021, [doi: 10.1109/TIFS.2021.3098987](https://doi.org/10.1109/TIFS.2021.3098987). （<strong style="color: #c62828;">CCF A类</strong>，期刊论文）
 
 1. **[Conf-IPDPS2020]** Lili Gao, Fangyu Zheng *, Niall Emmart, **Jiankuo Dong**, Jingqiang Lin, Charles Weems, “DPF-ECC: Accelerating Elliptic Curve Cryptography with Floating-point Computing Power of GPUs”, 34th IEEE International Parallel and Distributed Processing Symposium (IPDPS), 2020. [doi: 10.1109/IPDPS47924.2020.00058](https://doi.org/10.1109/IPDPS47924.2020.00058)
 
