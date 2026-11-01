@@ -26,7 +26,7 @@ classes: compact-text
 
 1. **[Conf-CHES2026]** Yikang Guo, Yuchang Hu, Yanbin Li, Shilin Sun, Geng Chen, Chunpeng Ge, **Jiankuo Dong**, “From Multiplication to Recovery: A Single-trace Side-Channel Attack on HQC”, International Conference on Cryptographic Hardware and Embedded Systems (CHES), 2026. [doi: 10.46586/tches.v2026.i4.890-916](https://doi.org/10.46586/tches.v2026.i4.890-916) （会议论文）
 
-1. **[Jour-软件学报2026]** Wen Wu（吴雯）, Lunjie Li（李伦杰）, **Jiankuo Dong（董建阔）***, Zhenjiang Dong*（董振江）, Jingqiang Lin（林璟锵）, Fu Xiao（肖甫）, “Efficient Implementation of Post-Quantum Cryptography Scloud+ on ARMv8 Architecture”, 面向ARMv8平台的抗量子密码Scloud+并行实现方法, Journal on Software,（软件学报）, 2026.
+1. **[Jour-软件学报2026]** Wen Wu（吴雯）, Lunjie Li（李伦杰）, **Jiankuo Dong（董建阔）**\*, Zhenjiang Dong\*（董振江）, Jingqiang Lin（林璟锵）, Fu Xiao（肖甫）, “Efficient Implementation of Post-Quantum Cryptography Scloud+ on ARMv8 Architecture”, 面向ARMv8平台的抗量子密码Scloud+并行实现方法, Journal on Software,（软件学报）, 2026.
 
 1. **[Jour-电子学报2026]** Letian Sha, Xiao Chen*, Hongmei Zheng, Jiaye Pan, **Jiankuo Dong**, Fu Xiao（肖甫）, “A Memory Layout Optimization Framework for Ubiquitous Operating Systems Based on Reinforcement Learning”, 基于强化学习的泛在操作系统内存布局优化框架, Acta Electronica Sinica（电子学报）, 2026. [doi: 10.12263/DZXB.20250835](https://doi.org/10.12263/DZXB.20250835)
 
