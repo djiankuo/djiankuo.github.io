@@ -50,16 +50,17 @@ redirect_from:
 
 ## Latest Publications
 
+\* denotes the corresponding author.
 
-1. **[Jour-IEEE TC2026]** Yijing Ning, **Jiankuo Dong***, Jingqiang Lin, Fangyu Zheng,  Yu Fu, Fu Xiao “GRASP: Accelerating Hash-based PQC Performance on GPU Parallel Architecture”, IEEE Transactions on Computers（IEEE TC）, 2026, accepted to appear.
+1. **[Jour-IEEE TC2026]** Wen Wu, **Jiankuo Dong***, Xuecheng Liu, Shuzhou Sun, Zhenjiang Dong, Jingqiang Lin, Fu Xiao, “RACE: A Rapid ARM Cryptographic Engine for Code-Based Classic McEliece PQC Scheme”, IEEE Transactions on Computers (IEEE TC), 2026, accepted to appear. [doi: 10.1109/TC.2026.3744670](https://doi.org/10.1109/TC.2026.3744670) （<strong style="color: #c62828;">CCF A类</strong>，期刊论文）
 
-1. **[Jour-IEEE TIFS2025]** Ruihao Dai, **Jiankuo Dong***, Mingrui Qiu, Zhenjiang Dong, Fu Xiao, Jingqiang Lin, “GOLF: Unleashing GPU-Driven Acceleration for FALCON Post-Quantum Cryptography”, IEEE Transactions on Information Forensics & Security（IEEE TIFS）, 2025. 
+1. **[Jour-IEEE TC2026]** **Jiankuo Dong**, Qingbo Ye, Sheng Lu, Liming Feng, Zhenjiang Dong, Jingqiang Lin, Fu Xiao, “HPS: Speeding Up Paillier Homomorphic Cryptosystem on GPU”, IEEE Transactions on Computers (IEEE TC), 2026, accepted to appear. [doi: 10.1109/TC.2026.3741899](https://doi.org/10.1109/TC.2026.3741899) （<strong style="color: #c62828;">CCF A类</strong>，期刊论文）
 
-1. **[Jour-IEEE TIFS2025]** Wen Wu, **Jiankuo Dong***, Zhen Xu, Zhenjiang Dong, Dung Duong, Fu Xiao, Jingqiang Lin, “Symphony of Speeds: Harmonizing Classic McEliece Cryptography with GPU Innovation”, IEEE Transactions on Information Forensics & Security（IEEE TIFS）, 2025. 
+1. **[Jour-软件学报2026]** Wen Wu（吴雯）, Lunjie Li（李伦杰）, **Jiankuo Dong（董建阔）***, Zhenjiang Dong*（董振江）, Jingqiang Lin（林璟锵）, Fu Xiao（肖甫）, “Efficient Implementation of Post-Quantum Cryptography Scloud+ on ARMv8 Architecture”, 面向ARMv8平台的抗量子密码Scloud+并行实现方法, Journal on Software,（软件学报）, 2026.
 
-1. **[Jour-IEEE TC2024]**Xinyi Ji, **Jiankuo Dong***, Junhao Huang, Zhijian Yuan, Wangchen Dai, Fu Xiao, Jingqiang Lin, "ECO-CRYSTALS: Efficient Cryptography CRYSTALS on Standard RISC-V ISA Cryptology" IEEE Transactions on Computers, 2024.
+1. **[Jour-JCST2026]** Fuyuan Chen, **Jiankuo Dong***, Xingyu Wang, Zhenjiang Dong, Huaqun Wang, “HI-SM4: Exploiting Domestic Hygon DCU for High-Performance SM4 Cryptographic Computing”, Journal of Computer Science and Technology (JCST), 2026. [doi: 10.1007/s11390-026-5659-1](https://doi.org/10.1007/s11390-026-5659-1) （CCF B类，期刊论文）
 
-1. **[Jour-IEEE TIFS2024]** **Jiankuo Dong**; Yusheng Fu; Xusheng Qin; Zhenjiang Dong; Fu Xiao; Jingqiang Lin, "ECO-BIKE: Bridging the Gap Between PQC BIKE And GPU Acceleration" IEEE Transactions on Information Forensics and Security, 2024.
+1. **[Jour-IEEE TC2026]** **Jiankuo Dong**, Yuze Hou, Shiqin Wang, Letian Sha, Fu Xiao, Zhenjiang Dong, Jingqiang Lin, “HIGH: Harnessing GPU Parallelism for Optimized HQC Performance”, IEEE Transactions on Computers (IEEE TC), 2026, **accepted to appear**. [doi: 10.1109/TC.2026.3700228](https://doi.org/10.1109/TC.2026.3700228) （<strong style="color: #c62828;">CCF A类</strong>，期刊论文）
 
 
 See [full publications](/full-publications/).
