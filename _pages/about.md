@@ -56,7 +56,7 @@ redirect_from:
 
 1. **[Jour-IEEE TC2026]** **Jiankuo Dong**, Qingbo Ye, Sheng Lu, Liming Feng, Zhenjiang Dong, Jingqiang Lin, Fu Xiao, “HPS: Speeding Up Paillier Homomorphic Cryptosystem on GPU”, IEEE Transactions on Computers (IEEE TC), 2026, accepted to appear. [doi: 10.1109/TC.2026.3741899](https://doi.org/10.1109/TC.2026.3741899) （<strong style="color: #c62828;">CCF A类</strong>，期刊论文）
 
-1. **[Jour-软件学报2026]** Wen Wu（吴雯）, Lunjie Li（李伦杰）, **Jiankuo Dong（董建阔）***, Zhenjiang Dong*（董振江）, Jingqiang Lin（林璟锵）, Fu Xiao（肖甫）, “Efficient Implementation of Post-Quantum Cryptography Scloud+ on ARMv8 Architecture”, 面向ARMv8平台的抗量子密码Scloud+并行实现方法, Journal on Software,（软件学报）, 2026.
+1. **[Jour-软件学报2026]** Wen Wu（吴雯）, Lunjie Li（李伦杰）, **Jiankuo Dong（董建阔）**\*, Zhenjiang Dong\*（董振江）, Jingqiang Lin（林璟锵）, Fu Xiao（肖甫）, “Efficient Implementation of Post-Quantum Cryptography Scloud+ on ARMv8 Architecture”, 面向ARMv8平台的抗量子密码Scloud+并行实现方法, Journal on Software,（软件学报）, 2026.
 
 1. **[Jour-JCST2026]** Fuyuan Chen, **Jiankuo Dong***, Xingyu Wang, Zhenjiang Dong, Huaqun Wang, “HI-SM4: Exploiting Domestic Hygon DCU for High-Performance SM4 Cryptographic Computing”, Journal of Computer Science and Technology (JCST), 2026. [doi: 10.1007/s11390-026-5659-1](https://doi.org/10.1007/s11390-026-5659-1) （CCF B类，期刊论文）
 
