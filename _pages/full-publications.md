@@ -11,6 +11,8 @@ classes: compact-text
 
 <div class="publication-note">A complete list of recent publications, with the latest work listed first.</div>
 
+1. **[Conf-HPCA2027]** Yijing Ning, **Jiankuo Dong**\*, Tian Zhou, Fangyu Zheng, Guang Fan, Mingzhe Zhang, Jingqiang Lin, “FORGE: FAFFT-Optimized Ring Arithmetic for GPU Execution of HQC and BIKE”, IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2027, accepted to appear. （<strong style="color: #c62828;">CCF A类</strong>，会议论文）
+
 1. **[Jour-IEEE TC2026]** Wen Wu, **Jiankuo Dong***, Xuecheng Liu, Shuzhou Sun, Zhenjiang Dong, Jingqiang Lin, Fu Xiao, “RACE: A Rapid ARM Cryptographic Engine for Code-Based Classic McEliece PQC Scheme”, IEEE Transactions on Computers (IEEE TC), 2026, accepted to appear. [doi: 10.1109/TC.2026.3744670](https://doi.org/10.1109/TC.2026.3744670) （<strong style="color: #c62828;">CCF A类</strong>，期刊论文）
 
 1. **[Jour-IEEE TIFS2026]** Yi Bian, Fangyu Zheng*, **Jiankuo Dong**, Yuewu Wang, Jingqiang Lin and Jiwu Jing, “F-STORM: Spinning NTT-unfriendly Lattices on Tensor Cores via Negacyclic Tensorization”, IEEE Transactions on Information Forensics and Security (TIFS), 2026, accepted to appear.（<strong style="color: #c62828;">CCF A类</strong>，期刊论文）

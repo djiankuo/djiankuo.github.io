@@ -52,16 +52,15 @@ redirect_from:
 
 \* denotes the corresponding author.
 
+1. **[Conf-HPCA2027]** Yijing Ning, **Jiankuo Dong**\*, Tian Zhou, Fangyu Zheng, Guang Fan, Mingzhe Zhang, Jingqiang Lin, “FORGE: FAFFT-Optimized Ring Arithmetic for GPU Execution of HQC and BIKE”, IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2027, accepted to appear. （<strong style="color: #c62828;">CCF A类</strong>，会议论文）
+
 1. **[Jour-IEEE TC2026]** Wen Wu, **Jiankuo Dong***, Xuecheng Liu, Shuzhou Sun, Zhenjiang Dong, Jingqiang Lin, Fu Xiao, “RACE: A Rapid ARM Cryptographic Engine for Code-Based Classic McEliece PQC Scheme”, IEEE Transactions on Computers (IEEE TC), 2026, accepted to appear. [doi: 10.1109/TC.2026.3744670](https://doi.org/10.1109/TC.2026.3744670) （<strong style="color: #c62828;">CCF A类</strong>，期刊论文）
 
 1. **[Jour-IEEE TC2026]** **Jiankuo Dong**, Qingbo Ye, Sheng Lu, Liming Feng, Zhenjiang Dong, Jingqiang Lin, Fu Xiao, “HPS: Speeding Up Paillier Homomorphic Cryptosystem on GPU”, IEEE Transactions on Computers (IEEE TC), 2026, accepted to appear. [doi: 10.1109/TC.2026.3741899](https://doi.org/10.1109/TC.2026.3741899) （<strong style="color: #c62828;">CCF A类</strong>，期刊论文）
 
-1. **[Jour-软件学报2026]** Wen Wu（吴雯）, Lunjie Li（李伦杰）, **Jiankuo Dong（董建阔）**\*, Zhenjiang Dong\*（董振江）, Jingqiang Lin（林璟锵）, Fu Xiao（肖甫）, “Efficient Implementation of Post-Quantum Cryptography Scloud+ on ARMv8 Architecture”, 面向ARMv8平台的抗量子密码Scloud+并行实现方法, Journal on Software,（软件学报）, 2026.
-
-1. **[Jour-JCST2026]** Fuyuan Chen, **Jiankuo Dong***, Xingyu Wang, Zhenjiang Dong, Huaqun Wang, “HI-SM4: Exploiting Domestic Hygon DCU for High-Performance SM4 Cryptographic Computing”, Journal of Computer Science and Technology (JCST), 2026. [doi: 10.1007/s11390-026-5659-1](https://doi.org/10.1007/s11390-026-5659-1) （CCF B类，期刊论文）
-
 1. **[Jour-IEEE TC2026]** **Jiankuo Dong**, Yuze Hou, Shiqin Wang, Letian Sha, Fu Xiao, Zhenjiang Dong, Jingqiang Lin, “HIGH: Harnessing GPU Parallelism for Optimized HQC Performance”, IEEE Transactions on Computers (IEEE TC), 2026, **accepted to appear**. [doi: 10.1109/TC.2026.3700228](https://doi.org/10.1109/TC.2026.3700228) （<strong style="color: #c62828;">CCF A类</strong>，期刊论文）
 
+1. **[Jour-IEEE TIFS2026]** Yijing Ning, **Jiankuo Dong***, Yajie Zhao, Jingqiang Lin, Tian Zhou, Jiachen Wang, Fu Xiao, “X2O: Cross Parallel Optimization of the CROSS Post-Quantum Scheme on GPU”, IEEE Transactions on Information Forensics & Security（IEEE TIFS）, 2026. [doi: 10.1109/TIFS.2026.3671118](https://doi.org/10.1109/TIFS.2026.3671118) （<strong style="color: #c62828;">CCF A类</strong>，期刊论文）
 
 See [full publications](/full-publications/).
 
