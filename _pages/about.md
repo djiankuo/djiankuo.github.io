@@ -58,7 +58,7 @@ redirect_from:
 
 1. **[Jour-IEEE TC2026]** **Jiankuo Dong**, Qingbo Ye, Sheng Lu, Liming Feng, Zhenjiang Dong, Jingqiang Lin, Fu Xiao, “HPS: Speeding Up Paillier Homomorphic Cryptosystem on GPU”, IEEE Transactions on Computers (IEEE TC), 2026, accepted to appear. [doi: 10.1109/TC.2026.3741899](https://doi.org/10.1109/TC.2026.3741899) （<strong style="color: #c62828;">CCF A类</strong>，期刊论文）
 
-1. **[Jour-IEEE TC2026]** **Jiankuo Dong**, Yuze Hou, Shiqin Wang, Letian Sha, Fu Xiao, Zhenjiang Dong, Jingqiang Lin, “HIGH: Harnessing GPU Parallelism for Optimized HQC Performance”, IEEE Transactions on Computers (IEEE TC), 2026, **accepted to appear**. [doi: 10.1109/TC.2026.3700228](https://doi.org/10.1109/TC.2026.3700228) （<strong style="color: #c62828;">CCF A类</strong>，期刊论文）
+1. **[Jour-IEEE TC2026]** **Jiankuo Dong**, Yuze Hou, Shiqin Wang, Letian Sha, Fu Xiao, Zhenjiang Dong, Jingqiang Lin, “HIGH: Harnessing GPU Parallelism for Optimized HQC Performance”, IEEE Transactions on Computers (IEEE TC), vol. 75, no. 10, pp. 3483–3497, October 2026. [doi: 10.1109/TC.2026.3700228](https://doi.org/10.1109/TC.2026.3700228) （<strong style="color: #c62828;">CCF A类</strong>，期刊论文）
 
 1. **[Jour-IEEE TIFS2026]** Yijing Ning, **Jiankuo Dong***, Yajie Zhao, Jingqiang Lin, Tian Zhou, Jiachen Wang, Fu Xiao, “X2O: Cross Parallel Optimization of the CROSS Post-Quantum Scheme on GPU”, IEEE Transactions on Information Forensics & Security（IEEE TIFS）, 2026. [doi: 10.1109/TIFS.2026.3671118](https://doi.org/10.1109/TIFS.2026.3671118) （<strong style="color: #c62828;">CCF A类</strong>，期刊论文）
 
