@@ -36,7 +36,7 @@ classes: compact-text
 1. **[Jour-JCST2026]** Fuyuan Chen, **Jiankuo Dong***, Xingyu Wang, Zhenjiang Dong, Huaqun Wang, “HI-SM4: Exploiting Domestic Hygon DCU for High-Performance SM4 Cryptographic Computing”, Journal of Computer Science and Technology (JCST), 2026. [doi: 10.1007/s11390-026-5659-1](https://doi.org/10.1007/s11390-026-5659-1) （<strong style="color: #1565c0;">CCF B类</strong>，期刊论文）
 
 
-1. **[Jour-IEEE TC2026]** **Jiankuo Dong**, Yuze Hou, Shiqin Wang, Letian Sha, Fu Xiao, Zhenjiang Dong, Jingqiang Lin, “HIGH: Harnessing GPU Parallelism for Optimized HQC Performance”, IEEE Transactions on Computers (IEEE TC), 2026, **accepted to appear**. [doi: 10.1109/TC.2026.3700228](https://doi.org/10.1109/TC.2026.3700228) （<strong style="color: #c62828;">CCF A类</strong>，期刊论文）
+1. **[Jour-IEEE TC2026]** **Jiankuo Dong**, Yuze Hou, Shiqin Wang, Letian Sha, Fu Xiao, Zhenjiang Dong, Jingqiang Lin, “HIGH: Harnessing GPU Parallelism for Optimized HQC Performance”, IEEE Transactions on Computers (IEEE TC), vol. 75, no. 10, pp. 3483–3497, October 2026. [doi: 10.1109/TC.2026.3700228](https://doi.org/10.1109/TC.2026.3700228) （<strong style="color: #c62828;">CCF A类</strong>，期刊论文）
 
 
 1. **[Jour-IEEE TDSC2026]** Lingyan Xue, Haiping Huang, **Jiankuo Dong**, Fu Xiao, Shijie Zhang, “Quantum-Resistant Data Sharing Scheme with Auditability for Internet of Vehicles”, IEEE Transactions on Dependable and Secure Computing (IEEE TDSC), 2026, **accepted to appear**. [doi: 10.1109/TDSC.2026.3691470](https://doi.org/10.1109/TDSC.2026.3691470) （<strong style="color: #c62828;">CCF A类</strong>，期刊论文）
