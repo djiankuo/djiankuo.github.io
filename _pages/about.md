@@ -86,16 +86,11 @@ See [full publications](/full-publications/).
 ## Academic Services
 
 <div class="home-compact-list">
+  <div>SecureComm 2027 · Local Chair</div>
+  <div>SCIEN 2026 · TPC Co-Chair</div>
   <div>International Conference on Information Security and Cryptology (Inscrypt) · PC member</div>
   <div>International Conference on Risks and Security of Internet and Systems · PC member</div>
   <div>Workshop on Secure Cryptographic Implementation in conjunction with ACNS (2021-2023) · PC member</div>
-  <div>IEEE Internet of Things Journal · Reviewer</div>
-  <div>Journal of Systems Architecture · Reviewer</div>
-  <div>Journal of Cryptographic Engineering · Reviewer</div>
-  <div>COMPUTER STANDARDS &amp; INTERFACES · Reviewer</div>
-  <div>Wireless Communications and Mobile Computing · Reviewer</div>
-  <div>2nd EAI International Conference on Applied Cryptography in Computer and Communications · Reviewer</div>
-  <div>Computer &amp; Network Excellent Reviewer</div>
 </div>
 
 
